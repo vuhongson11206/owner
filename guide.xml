@@ -1,0 +1,3736 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="VTVcab 1 -  Vie GIẢITRÍ">
+    <display-name lang="vi">VTVcab 1 -  Vie GIẢITRÍ</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 2 - Phim Việt">
+    <display-name lang="vi">VTVcab 2 - Phim Việt</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 3 - Thể Thao TV">
+    <display-name lang="vi">VTVcab 3 - Thể Thao TV</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 4">
+    <display-name lang="vi">VTVcab 4</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 5 - E Channel">
+    <display-name lang="vi">VTVcab 5 - E Channel</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 6 - Hay TV">
+    <display-name lang="vi">VTVcab 6 - Hay TV</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 10 - Vie DRAMAS">
+    <display-name lang="vi">VTVcab 10 - Vie DRAMAS</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 8 - BiBi">
+    <display-name lang="vi">VTVcab 8 - BiBi</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 9 - InfoTV">
+    <display-name lang="vi">VTVcab 9 - InfoTV</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 7">
+    <display-name lang="vi">VTVcab 7</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 12 - Style TV HD">
+    <display-name lang="vi">VTVcab 12 - Style TV HD</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 15">
+    <display-name lang="vi">VTVcab 15</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 16 - Bóng đá TV">
+    <display-name lang="vi">VTVcab 16 - Bóng đá TV</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 17 - Yeah1 TV">
+    <display-name lang="vi">VTVcab 17 - Yeah1 TV</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 18 - Thể thao Tin tức HD">
+    <display-name lang="vi">VTVcab 18 - Thể thao Tin tức HD</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 19 - Kênh Phim">
+    <display-name lang="vi">VTVcab 19 - Kênh Phim</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 20 - V Family">
+    <display-name lang="vi">VTVcab 20 - V Family</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 21 - Cartoon Kids">
+    <display-name lang="vi">VTVcab 21 - Cartoon Kids</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 22 - LifeTV">
+    <display-name lang="vi">VTVcab 22 - LifeTV</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTVcab 23 - Thể thao Golf">
+    <display-name lang="vi">VTVcab 23 - Thể thao Golf</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Thể thao TV HD">
+    <display-name lang="vi">Thể thao TV HD</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Bóng đá TV HD">
+    <display-name lang="vi">Bóng đá TV HD</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Asian Food Channel">
+    <display-name lang="vi">Asian Food Channel</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="BBC EARTH">
+    <display-name lang="vi">BBC EARTH</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="BBC LIFESTYLE">
+    <display-name lang="vi">BBC LIFESTYLE</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="vi">BBC World News</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Blue Ant Entertainment">
+    <display-name lang="vi">Blue Ant Entertainment</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Blue Ant Extreme">
+    <display-name lang="vi">Blue Ant Extreme</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="vi">Bloomberg</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="BOX Movie 1">
+    <display-name lang="vi">BOX Movie 1</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="CARTOON  NETWORK">
+    <display-name lang="vi">CARTOON  NETWORK</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="vi">CNN</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Da Vinci">
+    <display-name lang="vi">Da Vinci</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Dr. Fit">
+    <display-name lang="vi">Dr. Fit</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Fashion TV HD">
+    <display-name lang="vi">Fashion TV HD</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="vi">FOX</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="FOX Life HD">
+    <display-name lang="vi">FOX Life HD</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="FOXSPORTS">
+    <display-name lang="vi">FOXSPORTS</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="FOXSPORTS 2">
+    <display-name lang="vi">FOXSPORTS 2</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="FOXSPORTS 3">
+    <display-name lang="vi">FOXSPORTS 3</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="FOX Movies HD">
+    <display-name lang="vi">FOX Movies HD</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Happy Kids">
+    <display-name lang="vi">Happy Kids</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="vi">HBO</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="vi">FX HD</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Fox Family Movies">
+    <display-name lang="vi">Fox Family Movies</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="HGTV HD">
+    <display-name lang="vi">HGTV HD</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="History">
+    <display-name lang="vi">History</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="HITS HD">
+    <display-name lang="vi">HITS HD</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Hollywood Classics">
+    <display-name lang="vi">Hollywood Classics</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="MAX BY HBO">
+    <display-name lang="vi">MAX BY HBO</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Kix">
+    <display-name lang="vi">Kix</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="NGC HD">
+    <display-name lang="vi">NGC HD</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Planet Earth">
+    <display-name lang="vi">Planet Earth</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="RED BY HBO">
+    <display-name lang="vi">RED BY HBO</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Outdoor Channel HD">
+    <display-name lang="vi">Outdoor Channel HD</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Waku Waku Japan">
+    <display-name lang="vi">Waku Waku Japan</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Woman">
+    <display-name lang="vi">Woman</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="VTC4">
+    <display-name lang="vi">VTC4</display-name>
+    <url>http://www.epg.vtc.gov.vn</url>
+  </channel>
+  <channel id="VTV1 HD">
+    <display-name lang="vi">VTV1 HD</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="VTV3 HD">
+    <display-name lang="vi">VTV3 HD</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="TodayTV">
+    <display-name lang="vi">TodayTV</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Let's Viet">
+    <display-name lang="vi">Let's Viet</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="THVL1">
+    <display-name lang="vi">THVL1</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="VTC14 HD">
+    <display-name lang="vi">VTC14 HD</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Quốc Hội HD">
+    <display-name lang="vi">Quốc Hội HD</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="VTC3 HD">
+    <display-name lang="vi">VTC3 HD</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="iMovie HD">
+    <display-name lang="vi">iMovie HD</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="VTC12">
+    <display-name lang="vi">VTC12</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="VTC6">
+    <display-name lang="vi">VTC6</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="VTV2">
+    <display-name lang="vi">VTV2</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="VTV4">
+    <display-name lang="vi">VTV4</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Yeah1 Family - VTC4">
+    <display-name lang="vi">Yeah1 Family - VTC4</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="VTC5">
+    <display-name lang="vi">VTC5</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="VTC8">
+    <display-name lang="vi">VTC8</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="ITV">
+    <display-name lang="vi">ITV</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Vietteen">
+    <display-name lang="vi">Vietteen</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="NCM">
+    <display-name lang="vi">NCM</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="SAM">
+    <display-name lang="vi">SAM</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="VTC11 Thiếu Nhi">
+    <display-name lang="vi">VTC11 Thiếu Nhi</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Quốc Phòng VN">
+    <display-name lang="vi">Quốc Phòng VN</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="VTC1">
+    <display-name lang="vi">VTC1</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="VTC2">
+    <display-name lang="vi">VTC2</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="VietNamNet">
+    <display-name lang="vi">VietNamNet</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="ANTV">
+    <display-name lang="vi">ANTV</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Thông Tấn Xã Việt Nam">
+    <display-name lang="vi">Thông Tấn Xã Việt Nam</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="FBNC">
+    <display-name lang="vi">FBNC</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="VOV Giao Thông">
+    <display-name lang="vi">VOV Giao Thông</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="VOVTV">
+    <display-name lang="vi">VOVTV</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="VTC10">
+    <display-name lang="vi">VTC10</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="VTC16">
+    <display-name lang="vi">VTC16</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Miền Tây">
+    <display-name lang="vi">Miền Tây</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="HaNoiTV 1">
+    <display-name lang="vi">HaNoiTV 1</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="HaNoiTV 2">
+    <display-name lang="vi">HaNoiTV 2</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Thái Bình">
+    <display-name lang="vi">Thái Bình</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Cần Thơ">
+    <display-name lang="vi">Cần Thơ</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Bình Dương 1">
+    <display-name lang="vi">Bình Dương 1</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Bình Dương 2">
+    <display-name lang="vi">Bình Dương 2</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Tiền Giang">
+    <display-name lang="vi">Tiền Giang</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="An Giang">
+    <display-name lang="vi">An Giang</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Đồng Nai 1">
+    <display-name lang="vi">Đồng Nai 1</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Đồng Nai 2">
+    <display-name lang="vi">Đồng Nai 2</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Đà Nẵng 1">
+    <display-name lang="vi">Đà Nẵng 1</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Đà Nẵng 2">
+    <display-name lang="vi">Đà Nẵng 2</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Hải Phòng">
+    <display-name lang="vi">Hải Phòng</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Hòa Bình">
+    <display-name lang="vi">Hòa Bình</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Tuyên Quang">
+    <display-name lang="vi">Tuyên Quang</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Vĩnh Long 2">
+    <display-name lang="vi">Vĩnh Long 2</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Quảng Ninh 1">
+    <display-name lang="vi">Quảng Ninh 1</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Quảng Ninh 3">
+    <display-name lang="vi">Quảng Ninh 3</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Nghệ An">
+    <display-name lang="vi">Nghệ An</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Bà Rịa-Vũng Tàu">
+    <display-name lang="vi">Bà Rịa-Vũng Tàu</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Ninh Bình">
+    <display-name lang="vi">Ninh Bình</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Khánh Hòa">
+    <display-name lang="vi">Khánh Hòa</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Thanh Hóa">
+    <display-name lang="vi">Thanh Hóa</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Bình Định">
+    <display-name lang="vi">Bình Định</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Gia Lai">
+    <display-name lang="vi">Gia Lai</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Hà Giang">
+    <display-name lang="vi">Hà Giang</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Hậu Giang">
+    <display-name lang="vi">Hậu Giang</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Bình Phước 2">
+    <display-name lang="vi">Bình Phước 2</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Yên Bái">
+    <display-name lang="vi">Yên Bái</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Hưng Yên">
+    <display-name lang="vi">Hưng Yên</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Thái Nguyên">
+    <display-name lang="vi">Thái Nguyên</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Bắc Ninh">
+    <display-name lang="vi">Bắc Ninh</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Lâm Đồng">
+    <display-name lang="vi">Lâm Đồng</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Điện Biên">
+    <display-name lang="vi">Điện Biên</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Bình Thuận">
+    <display-name lang="vi">Bình Thuận</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Kiên Giang">
+    <display-name lang="vi">Kiên Giang</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Trà Vinh">
+    <display-name lang="vi">Trà Vinh</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Phú Thọ">
+    <display-name lang="vi">Phú Thọ</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Bắc Giang">
+    <display-name lang="vi">Bắc Giang</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Bến Tre">
+    <display-name lang="vi">Bến Tre</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Cà Mau">
+    <display-name lang="vi">Cà Mau</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Đồng Tháp">
+    <display-name lang="vi">Đồng Tháp</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Lạng Sơn">
+    <display-name lang="vi">Lạng Sơn</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Long An">
+    <display-name lang="vi">Long An</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Quảng Nam">
+    <display-name lang="vi">Quảng Nam</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Thừa Thiên Huế">
+    <display-name lang="vi">Thừa Thiên Huế</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Vĩnh Phúc">
+    <display-name lang="vi">Vĩnh Phúc</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Hải Dương">
+    <display-name lang="vi">Hải Dương</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Quảng Trị">
+    <display-name lang="vi">Quảng Trị</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Lào Cai">
+    <display-name lang="vi">Lào Cai</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Nam Định">
+    <display-name lang="vi">Nam Định</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Đăk Lăk">
+    <display-name lang="vi">Đăk Lăk</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Sơn La">
+    <display-name lang="vi">Sơn La</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Hà Tĩnh">
+    <display-name lang="vi">Hà Tĩnh</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Bạc Liêu">
+    <display-name lang="vi">Bạc Liêu</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Kon Tum">
+    <display-name lang="vi">Kon Tum</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="Quảng Ngãi">
+    <display-name lang="vi">Quảng Ngãi</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="VTV8 HD">
+    <display-name lang="vi">VTV8 HD</display-name>
+    <url>http://www.ftpplay.net</url>
+  </channel>
+  <channel id="FRANCE 24">
+    <display-name lang="vi">FRANCE 24</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="K+1 HD">
+    <display-name lang="vi">K+1 HD</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="K+PM HD">
+    <display-name lang="vi">K+PM HD</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="K+PC HD">
+    <display-name lang="vi">K+PC HD</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="HITS SD">
+    <display-name lang="vi">HITS SD</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="THVL2">
+    <display-name lang="vi">THVL2</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="vi">HBO HD</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="K+NS HD">
+    <display-name lang="vi">K+NS HD</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="FOX SPORTS PLUS HD">
+    <display-name lang="vi">FOX SPORTS PLUS HD</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="vi">AXN HD</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="MTV Vietnam">
+    <display-name lang="vi">MTV Vietnam</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="NHK WORLD JAPAN">
+    <display-name lang="vi">NHK WORLD JAPAN</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="AFC">
+    <display-name lang="vi">AFC</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="DISNEY JUNIOR">
+    <display-name lang="vi">DISNEY JUNIOR</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="VTVCab3-THETHAO TV">
+    <display-name lang="vi">VTVCab3-THETHAO TV</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="VTVCab16-BONGDA TV">
+    <display-name lang="vi">VTVCab16-BONGDA TV</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="KBS WORLD">
+    <display-name lang="vi">KBS WORLD</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="NGC">
+    <display-name lang="vi">NGC</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="VTVCab1-GIAITRITV">
+    <display-name lang="vi">VTVCab1-GIAITRITV</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="QTV1">
+    <display-name lang="vi">QTV1</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="VTC7-TODAY TV">
+    <display-name lang="vi">VTC7-TODAY TV</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="YOU TV">
+    <display-name lang="vi">YOU TV</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="VTV9">
+    <display-name lang="vi">VTV9</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="VTV8">
+    <display-name lang="vi">VTV8</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="VTV7">
+    <display-name lang="vi">VTV7</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="VTV1">
+    <display-name lang="vi">VTV1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV3">
+    <display-name lang="vi">VTV3</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV6">
+    <display-name lang="vi">VTV6</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV5">
+    <display-name lang="vi">VTV5</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HanoiTV1">
+    <display-name lang="vi">HanoiTV1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC Phim">
+    <display-name lang="vi">HTVC Phim</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC Ca nhạc">
+    <display-name lang="vi">HTVC Ca nhạc</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="vi">National Geographic</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="FTV (SD)">
+    <display-name lang="vi">FTV (SD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Max">
+    <display-name lang="vi">Max</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="StarMovies">
+    <display-name lang="vi">StarMovies</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Channel -V">
+    <display-name lang="vi">Channel -V</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="FOX SPORTS">
+    <display-name lang="vi">FOX SPORTS</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="FOX SPORTS2">
+    <display-name lang="vi">FOX SPORTS2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC 1">
+    <display-name lang="vi">VTC 1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV7">
+    <display-name lang="vi">HTV7</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV9">
+    <display-name lang="vi">HTV9</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="vi">AXN</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Disney">
+    <display-name lang="vi">Disney</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VITV">
+    <display-name lang="vi">VITV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="O2 TV">
+    <display-name lang="vi">O2 TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC Phụ nữ">
+    <display-name lang="vi">HTVC Phụ nữ</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="vi">Cartoon Network</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Channel News Asia">
+    <display-name lang="vi">Channel News Asia</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DW">
+    <display-name lang="vi">DW</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="NHK">
+    <display-name lang="vi">NHK</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Arirang">
+    <display-name lang="vi">Arirang</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Discovery">
+    <display-name lang="vi">Discovery</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Travel and Living">
+    <display-name lang="vi">Travel and Living</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="vi">Animal Planet</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="TV5 Asie">
+    <display-name lang="vi">TV5 Asie</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV1">
+    <display-name lang="vi">HTV1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV2">
+    <display-name lang="vi">HTV2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV3">
+    <display-name lang="vi">HTV3</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC3">
+    <display-name lang="vi">VTC3</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BinhDuongTV1">
+    <display-name lang="vi">BinhDuongTV1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BinhDuongTV2">
+    <display-name lang="vi">BinhDuongTV2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BinhDuongTV4">
+    <display-name lang="vi">BinhDuongTV4</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VinhLongTV1">
+    <display-name lang="vi">VinhLongTV1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VinhLongTV2">
+    <display-name lang="vi">VinhLongTV2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DongNaiTV1">
+    <display-name lang="vi">DongNaiTV1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DongNaiTV2">
+    <display-name lang="vi">DongNaiTV2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="LongAnTV">
+    <display-name lang="vi">LongAnTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="CanThoTV">
+    <display-name lang="vi">CanThoTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DaNangTV1">
+    <display-name lang="vi">DaNangTV1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DanangTV2">
+    <display-name lang="vi">DanangTV2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="QuangNinhTV">
+    <display-name lang="vi">QuangNinhTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DongThapTV">
+    <display-name lang="vi">DongThapTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HanoiTV2">
+    <display-name lang="vi">HanoiTV2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="ATV (HT An Giang)">
+    <display-name lang="vi">ATV (HT An Giang)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HiTV">
+    <display-name lang="vi">HiTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HcaTV">
+    <display-name lang="vi">HcaTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="V-news">
+    <display-name lang="vi">V-news</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV-DaNang">
+    <display-name lang="vi">VTV-DaNang</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC11">
+    <display-name lang="vi">VTC11</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC9">
+    <display-name lang="vi">VTC9</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="vi">MTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Star World HD">
+    <display-name lang="vi">Star World HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Star Movies HD">
+    <display-name lang="vi">Star Movies HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="MTV HD">
+    <display-name lang="vi">MTV HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="NHK HD">
+    <display-name lang="vi">NHK HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC Gia đình">
+    <display-name lang="vi">HTVC Gia đình</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC Du lịch và Cuộc">
+    <display-name lang="vi">HTVC Du lịch và Cuộc</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Today (VTC7)">
+    <display-name lang="vi">Today (VTC7)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC14">
+    <display-name lang="vi">VTC14</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV4">
+    <display-name lang="vi">HTV4</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC-Thể Thao">
+    <display-name lang="vi">HTVC-Thể Thao</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC-Thuần Việt">
+    <display-name lang="vi">HTVC-Thuần Việt</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BacNinhTV">
+    <display-name lang="vi">BacNinhTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC13">
+    <display-name lang="vi">VTC13</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVCab 3 - Thể thao">
+    <display-name lang="vi">VTVCab 3 - Thể thao</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVCab 16 – Bóng đá">
+    <display-name lang="vi">VTVCab 16 – Bóng đá</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVCab 1 - Giải trí">
+    <display-name lang="vi">VTVCab 1 - Giải trí</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVCab 2">
+    <display-name lang="vi">VTVCab 2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVCab 5">
+    <display-name lang="vi">VTVCab 5</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVCab 6">
+    <display-name lang="vi">VTVCab 6</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVCab 8 – Bibi">
+    <display-name lang="vi">VTVCab 8 – Bibi</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVCab 12">
+    <display-name lang="vi">VTVCab 12</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVCab 17">
+    <display-name lang="vi">VTVCab 17</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVCab 7 - D DRAMAS">
+    <display-name lang="vi">VTVCab 7 - D DRAMAS</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Thể thao (HD)">
+    <display-name lang="vi">Thể thao (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Bóng đá TV (HD)">
+    <display-name lang="vi">Bóng đá TV (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV7 HD">
+    <display-name lang="vi">HTV7 HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV9 HD">
+    <display-name lang="vi">HTV9 HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV2 HD">
+    <display-name lang="vi">HTV2 HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="QPVN">
+    <display-name lang="vi">QPVN</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC Mua sắm, tiêu d">
+    <display-name lang="vi">HTVC Mua sắm, tiêu d</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC HD1">
+    <display-name lang="vi">VTC HD1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="iTV (HD)">
+    <display-name lang="vi">iTV (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="K+1">
+    <display-name lang="vi">K+1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="K+ NS">
+    <display-name lang="vi">K+ NS</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="K+ PM">
+    <display-name lang="vi">K+ PM</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Diva Universal">
+    <display-name lang="vi">Diva Universal</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Outdoor Channel (HD)">
+    <display-name lang="vi">Outdoor Channel (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV6 HD">
+    <display-name lang="vi">VTV6 HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="SCTV10">
+    <display-name lang="vi">SCTV10</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Quốc hội Việt Nam">
+    <display-name lang="vi">Quốc hội Việt Nam</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="K+ 1 (HD)">
+    <display-name lang="vi">K+ 1 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="K+ NS (HD)">
+    <display-name lang="vi">K+ NS (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="K+ PM (HD)">
+    <display-name lang="vi">K+ PM (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="QPVN (HD)">
+    <display-name lang="vi">QPVN (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="SCTV5 (SD)">
+    <display-name lang="vi">SCTV5 (SD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab20 - Vfamily">
+    <display-name lang="vi">VTVcab20 - Vfamily</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Nhân Dân">
+    <display-name lang="vi">Nhân Dân</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVCab 14 - Lotte">
+    <display-name lang="vi">VTVCab 14 - Lotte</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HaTinhTV">
+    <display-name lang="vi">HaTinhTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Nam Dinh TV">
+    <display-name lang="vi">Nam Dinh TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Ca Mau TV">
+    <display-name lang="vi">Ca Mau TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Thai Binh TV">
+    <display-name lang="vi">Thai Binh TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Ha Giang TV">
+    <display-name lang="vi">Ha Giang TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Quang Binh TV">
+    <display-name lang="vi">Quang Binh TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Hung Yen TV">
+    <display-name lang="vi">Hung Yen TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Tien Giang TV">
+    <display-name lang="vi">Tien Giang TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="K+ PC (SD)">
+    <display-name lang="vi">K+ PC (SD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="K+ PC (HD)">
+    <display-name lang="vi">K+ PC (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="SCTV8-VITV-Kinh te Tai chinh">
+    <display-name lang="vi">SCTV8-VITV-Kinh te Tai chinh</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="ABC Australia">
+    <display-name lang="vi">ABC Australia</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="BTV3 HD">
+    <display-name lang="vi">BTV3 HD</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="BTV5 HD">
+    <display-name lang="vi">BTV5 HD</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="Discovery Asia">
+    <display-name lang="vi">Discovery Asia</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="vi">Discovery Channel</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="Fashion TV">
+    <display-name lang="vi">Fashion TV</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="Fox Sport">
+    <display-name lang="vi">Fox Sport</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="FOX SPORTS 2">
+    <display-name lang="vi">FOX SPORTS 2</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="HTV 2">
+    <display-name lang="vi">HTV 2</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="HTV 3">
+    <display-name lang="vi">HTV 3</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="Quốc Phòng Việt Nam">
+    <display-name lang="vi">Quốc Phòng Việt Nam</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV 1 HD - Hài">
+    <display-name lang="vi">SCTV 1 HD - Hài</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV 10">
+    <display-name lang="vi">SCTV 10</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV 11 HD">
+    <display-name lang="vi">SCTV 11 HD</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV 12 HD - Du Lịch">
+    <display-name lang="vi">SCTV 12 HD - Du Lịch</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV 14 HD - Phim Việt">
+    <display-name lang="vi">SCTV 14 HD - Phim Việt</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV 15 HD - Thể Thao">
+    <display-name lang="vi">SCTV 15 HD - Thể Thao</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV 16 HD - Phim nước ngoài đặc sắc">
+    <display-name lang="vi">SCTV 16 HD - Phim nước ngoài đặc sắc</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV 17HD">
+    <display-name lang="vi">SCTV 17HD</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV 18">
+    <display-name lang="vi">SCTV 18</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV 2">
+    <display-name lang="vi">SCTV 2</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV 22">
+    <display-name lang="vi">SCTV 22</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV 3 HD - SEE TV">
+    <display-name lang="vi">SCTV 3 HD - SEE TV</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV 4 HD - Giải trí tổng hợp">
+    <display-name lang="vi">SCTV 4 HD - Giải trí tổng hợp</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV 5">
+    <display-name lang="vi">SCTV 5</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV 6 HD">
+    <display-name lang="vi">SCTV 6 HD</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV 7 HD - Sân Khấu">
+    <display-name lang="vi">SCTV 7 HD - Sân Khấu</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV 9 HD - Phim Châu Á">
+    <display-name lang="vi">SCTV 9 HD - Phim Châu Á</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV HD Phim Tổng Hợp">
+    <display-name lang="vi">SCTV HD Phim Tổng Hợp</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV13 HD - Phụ nữ &amp; Gia đình">
+    <display-name lang="vi">SCTV13 HD - Phụ nữ &amp; Gia đình</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV19 HD">
+    <display-name lang="vi">SCTV19 HD</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="SCTV20">
+    <display-name lang="vi">SCTV20</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="TH AN GIANG">
+    <display-name lang="vi">TH AN GIANG</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="TH Bến Tre">
+    <display-name lang="vi">TH Bến Tre</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="TH Hậu Giang">
+    <display-name lang="vi">TH Hậu Giang</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="TH Nhân Dân">
+    <display-name lang="vi">TH Nhân Dân</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="TH Ninh Bình">
+    <display-name lang="vi">TH Ninh Bình</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="Th Ninh Thuận">
+    <display-name lang="vi">Th Ninh Thuận</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="TH VĨNH LONG 1 - THVL1">
+    <display-name lang="vi">TH VĨNH LONG 1 - THVL1</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="TH VĨNH LONG 2 - THVL2">
+    <display-name lang="vi">TH VĨNH LONG 2 - THVL2</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="TH Đồng Tháp">
+    <display-name lang="vi">TH Đồng Tháp</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="TODAY TV">
+    <display-name lang="vi">TODAY TV</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="TTXVN">
+    <display-name lang="vi">TTXVN</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="TV BLUE - VTC 5">
+    <display-name lang="vi">TV BLUE - VTC 5</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="TV5 Monde">
+    <display-name lang="vi">TV5 Monde</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="VTV7 HD">
+    <display-name lang="vi">VTV7 HD</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="VTVcab 1">
+    <display-name lang="vi">VTVcab 1</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="VTVcab 10">
+    <display-name lang="vi">VTVcab 10</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="VTVcab 16">
+    <display-name lang="vi">VTVcab 16</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="VTVcab 16 HD">
+    <display-name lang="vi">VTVcab 16 HD</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="VTVcab 19">
+    <display-name lang="vi">VTVcab 19</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="VTVcab 20">
+    <display-name lang="vi">VTVcab 20</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="VTVcab 3">
+    <display-name lang="vi">VTVcab 3</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="VTVcab 8">
+    <display-name lang="vi">VTVcab 8</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="VTVcab 9">
+    <display-name lang="vi">VTVcab 9</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="VTVCab11">
+    <display-name lang="vi">VTVCab11</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <programme start="20210109000000 +0700" stop="20210109010000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Ca sĩ bí ẩn 2020</title>
+  </programme>
+  <programme start="20210109010000 +0700" stop="20210109023000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Siêu bất ngờ 2020</title>
+  </programme>
+  <programme start="20210109023000 +0700" stop="20210109033000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Đóa hoa hoang dại</title>
+  </programme>
+  <programme start="20210109033000 +0700" stop="20210109040000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Kiến tạo nhịp cầu_Mùa 6</title>
+  </programme>
+  <programme start="20210109040000 +0700" stop="20210109043000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Sợi mì và những huyền thoại</title>
+  </programme>
+  <programme start="20210109043000 +0700" stop="20210109050000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Congo - Di sản cuối cùng của hành tinh xanh</title>
+  </programme>
+  <programme start="20210109050000 +0700" stop="20210109060000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Bão trắng</title>
+  </programme>
+  <programme start="20210109060000 +0700" stop="20210109070000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Tình khúc giao mùa 2020</title>
+  </programme>
+  <programme start="20210109070000 +0700" stop="20210109080000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Cô dâu thế tội</title>
+  </programme>
+  <programme start="20210109080000 +0700" stop="20210109085000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Cô dâu thế tội</title>
+  </programme>
+  <programme start="20210109085000 +0700" stop="20210109090000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Thông tin tiêu dùng Giải Trí TV</title>
+  </programme>
+  <programme start="20210109090000 +0700" stop="20210109092000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Kiến tạo nhịp cầu_Mùa 6</title>
+  </programme>
+  <programme start="20210109092000 +0700" stop="20210109093000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Thông tin tiêu dùng Giải Trí TV</title>
+  </programme>
+  <programme start="20210109093000 +0700" stop="20210109100000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Amur kỳ bí</title>
+  </programme>
+  <programme start="20210109100000 +0700" stop="20210109105000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Muốn ăn phải lăn vào bếp 2020</title>
+  </programme>
+  <programme start="20210109105000 +0700" stop="20210109110000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Thông tin tiêu dùng Giải Trí TV</title>
+  </programme>
+  <programme start="20210109110000 +0700" stop="20210109120000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Tình khúc giao mùa 2020</title>
+  </programme>
+  <programme start="20210109120000 +0700" stop="20210109125000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Bão trắng</title>
+  </programme>
+  <programme start="20210109125000 +0700" stop="20210109130000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Thông tin tiêu dùng Giải Trí TV</title>
+  </programme>
+  <programme start="20210109130000 +0700" stop="20210109135000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Ca sĩ bí ẩn 2020</title>
+  </programme>
+  <programme start="20210109135000 +0700" stop="20210109140000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Thông tin tiêu dùng Giải Trí TV</title>
+  </programme>
+  <programme start="20210109140000 +0700" stop="20210109145500 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Đóa hoa hoang dại</title>
+  </programme>
+  <programme start="20210109145500 +0700" stop="20210109150000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Thông tin tiêu dùng Giải Trí TV</title>
+  </programme>
+  <programme start="20210109150000 +0700" stop="20210109153500 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Siêu bất ngờ 2020</title>
+  </programme>
+  <programme start="20210109153500 +0700" stop="20210109154500 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Thông tin tiêu dùng Giải Trí TV</title>
+  </programme>
+  <programme start="20210109154500 +0700" stop="20210109170000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Siêu bất ngờ 2020</title>
+  </programme>
+  <programme start="20210109170000 +0700" stop="20210109180000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Cô dâu thế tội</title>
+  </programme>
+  <programme start="20210109180000 +0700" stop="20210109190000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Cô dâu thế tội</title>
+  </programme>
+  <programme start="20210109190000 +0700" stop="20210109200000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Yêu đến tận cùng</title>
+  </programme>
+  <programme start="20210109200000 +0700" stop="20210109213000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Siêu trí tuệ Việt Nam - Mùa 2</title>
+  </programme>
+  <programme start="20210109213000 +0700" stop="20210109223000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Siêu trí tuệ Việt Nam - Mùa 2</title>
+  </programme>
+  <programme start="20210109223000 +0700" stop="20210109230000 +0700" channel="VTVcab 1 -  Vie GIẢITRÍ">
+    <title lang="vi">Congo - Di sản cuối cùng của hành tinh xanh</title>
+  </programme>
+  <programme start="20210109000200 +0700" stop="20210109010000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Một thời ngang dọc</title>
+  </programme>
+  <programme start="20210109010000 +0700" stop="20210109020000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Lấy chồng sớm làm gì</title>
+  </programme>
+  <programme start="20210109020000 +0700" stop="20210109030000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Hồn lụa</title>
+  </programme>
+  <programme start="20210109030000 +0700" stop="20210109040000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Mẹ hổ dạy con dâu</title>
+  </programme>
+  <programme start="20210109040000 +0700" stop="20210109050000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Nó là con tôi</title>
+  </programme>
+  <programme start="20210109050000 +0700" stop="20210109060000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Hồ sơ lửa Phần 3 - Thử thi lên tiếng</title>
+  </programme>
+  <programme start="20210109060000 +0700" stop="20210109070000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Một thời ngang dọc</title>
+  </programme>
+  <programme start="20210109070000 +0700" stop="20210109080000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Lấy chồng sớm làm gì</title>
+  </programme>
+  <programme start="20210109080000 +0700" stop="20210109090000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Hồn lụa</title>
+  </programme>
+  <programme start="20210109090000 +0700" stop="20210109100000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Mẹ hổ dạy con dâu</title>
+  </programme>
+  <programme start="20210109100000 +0700" stop="20210109110000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Nó là con tôi</title>
+  </programme>
+  <programme start="20210109110000 +0700" stop="20210109120000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Hồ sơ lửa Phần 3 - Thử thi lên tiếng</title>
+  </programme>
+  <programme start="20210109120000 +0700" stop="20210109130000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Một thời ngang dọc</title>
+  </programme>
+  <programme start="20210109130000 +0700" stop="20210109140000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Lấy chồng sớm làm gì</title>
+  </programme>
+  <programme start="20210109140000 +0700" stop="20210109150000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Hồn lụa</title>
+  </programme>
+  <programme start="20210109150000 +0700" stop="20210109160000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Mẹ hổ dạy con dâu</title>
+  </programme>
+  <programme start="20210109160000 +0700" stop="20210109170000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Nó là con tôi</title>
+  </programme>
+  <programme start="20210109170000 +0700" stop="20210109180000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Hồ sơ lửa Phần 3 - Thử thi lên tiếng</title>
+  </programme>
+  <programme start="20210109180000 +0700" stop="20210109190000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Một thời ngang dọc</title>
+  </programme>
+  <programme start="20210109190000 +0700" stop="20210109200000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Lấy chồng sớm làm gì</title>
+  </programme>
+  <programme start="20210109200000 +0700" stop="20210109210000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Hồn lụa</title>
+  </programme>
+  <programme start="20210109210000 +0700" stop="20210109220000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Mẹ hổ dạy con dâu</title>
+  </programme>
+  <programme start="20210109220000 +0700" stop="20210109230000 +0700" channel="VTVcab 2 - Phim Việt">
+    <title lang="vi">Nó là con tôi</title>
+  </programme>
+  <programme start="20210109000000 +0700" stop="20210109013000 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">Giải VĐQG Đức 2020/21 Vòng 14</title>
+  </programme>
+  <programme start="20210109013000 +0700" stop="20210109020000 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">Bản tin ( 20H)</title>
+  </programme>
+  <programme start="20210109020000 +0700" stop="20210109040000 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">NBA 2020/21 Game 23</title>
+  </programme>
+  <programme start="20210109040000 +0700" stop="20210109054500 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">VĐQG Tây Ban Nha - La Liga 20/21 Vòng 2 đá bù</title>
+  </programme>
+  <programme start="20210109054500 +0700" stop="20210109060000 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">Thể thao &amp; Thời tiết Mới</title>
+  </programme>
+  <programme start="20210109060000 +0700" stop="20210109061500 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">Bản tin Thế giới thể thao ( 6H) Live</title>
+  </programme>
+  <programme start="20210109061500 +0700" stop="20210109063000 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">Bản tin  Thể thao Việt Nam 19H45 Phát lại</title>
+  </programme>
+  <programme start="20210109063000 +0700" stop="20210109073000 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">TH VĐQG Tây Ban Nha 2020/21</title>
+  </programme>
+  <programme start="20210109073000 +0700" stop="20210109100000 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">NBA 2020/21 Game 24</title>
+  </programme>
+  <programme start="20210109100000 +0700" stop="20210109123000 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">NBA 2020/21 Game 25</title>
+  </programme>
+  <programme start="20210109123000 +0700" stop="20210109124500 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">Bản tin  Thể thao Việt Nam 11H30 Phát lại</title>
+  </programme>
+  <programme start="20210109124500 +0700" stop="20210109131500 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">LaLiga World 1-21</title>
+  </programme>
+  <programme start="20210109131500 +0700" stop="20210109140000 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">Nhà Vô Địch 1-21 Phát lại</title>
+  </programme>
+  <programme start="20210109140000 +0700" stop="20210109143000 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">ATP Tour Uncovered 1-21</title>
+  </programme>
+  <programme start="20210109143000 +0700" stop="20210109144500 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">Bản tin Thế giới thể thao ( 6H) Phát lại</title>
+  </programme>
+  <programme start="20210109144500 +0700" stop="20210109150000 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">Bản tin  Thể thao Việt Nam 11H30 Phát lại</title>
+  </programme>
+  <programme start="20210109150000 +0700" stop="20210109170000 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">NBA 2020/21 Game 24</title>
+  </programme>
+  <programme start="20210109170000 +0700" stop="20210109173000 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">ATP Tour Uncovered 1-21</title>
+  </programme>
+  <programme start="20210109173000 +0700" stop="20210109180000 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">V - League World 2020 1-21</title>
+  </programme>
+  <programme start="20210109180000 +0700" stop="20210109184500 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">Nhà Vô Địch</title>
+  </programme>
+  <programme start="20210109184500 +0700" stop="20210109190000 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">Bản tin Golfing World Phát lại</title>
+  </programme>
+  <programme start="20210109190000 +0700" stop="20210109193000 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">Tổng hợp hạng nhất Anh 20/21 Vòng 16</title>
+  </programme>
+  <programme start="20210109193000 +0700" stop="20210109213000 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">Hạng nhất Anh 2020/21 Vòng 23</title>
+  </programme>
+  <programme start="20210109213000 +0700" stop="20210109233000 +0700" channel="VTVcab 3 - Thể Thao TV">
+    <title lang="vi">Giải VĐQG Đức 2020/21 Vòng 15</title>
+  </programme>
+  <programme start="20210109000000 +0700" stop="20210109010000 +0700" channel="VTVcab 4">
+    <title lang="vi">Chuyến du lịch gặp được tình yêu - 8</title>
+  </programme>
+  <programme start="20210109010000 +0700" stop="20210109020000 +0700" channel="VTVcab 4">
+    <title lang="vi">Hậu duệ mặt trời - 9</title>
+  </programme>
+  <programme start="20210109020000 +0700" stop="20210109030000 +0700" channel="VTVcab 4">
+    <title lang="vi">Tò mò showbiz - 41</title>
+  </programme>
+  <programme start="20210109030000 +0700" stop="20210109040000 +0700" channel="VTVcab 4">
+    <title lang="vi">Cửu châu Hải thượng Mục vân ký - 51</title>
+  </programme>
+  <programme start="20210109040000 +0700" stop="20210109050000 +0700" channel="VTVcab 4">
+    <title lang="vi">Hậu duệ mặt trời - 9</title>
+  </programme>
+  <programme start="20210109050000 +0700" stop="20210109060000 +0700" channel="VTVcab 4">
+    <title lang="vi">Tò mò showbiz - 20</title>
+  </programme>
+  <programme start="20210109060000 +0700" stop="20210109070000 +0700" channel="VTVcab 4">
+    <title lang="vi">Chuyến du lịch gặp được tình yêu - 8</title>
+  </programme>
+  <programme start="20210109070000 +0700" stop="20210109080000 +0700" channel="VTVcab 4">
+    <title lang="vi">Tò mò showbiz - 20</title>
+  </programme>
+  <programme start="20210109080000 +0700" stop="20210109090000 +0700" channel="VTVcab 4">
+    <title lang="vi">Hậu duệ mặt trời - 9</title>
+  </programme>
+  <programme start="20210109090000 +0700" stop="20210109100000 +0700" channel="VTVcab 4">
+    <title lang="vi">Tò mò showbiz - 41</title>
+  </programme>
+  <programme start="20210109100000 +0700" stop="20210109150000 +0700" channel="VTVcab 4">
+    <title lang="vi">Cửu châu Hải thượng Mục vân ký từ tập 47 đến tập 51</title>
+  </programme>
+  <programme start="20210109150000 +0700" stop="20210109195500 +0700" channel="VTVcab 4">
+    <title lang="vi">Hậu duệ mặt trời từ tập 5 đến tập 9</title>
+  </programme>
+  <programme start="20210109195500 +0700" stop="20210109210000 +0700" channel="VTVcab 4">
+    <title lang="vi">Tò mò showbiz - 42</title>
+  </programme>
+  <programme start="20210109210000 +0700" stop="20210109223000 +0700" channel="VTVcab 4">
+    <title lang="vi">Lạc giới</title>
+  </programme>
+  <programme start="20210109223000 +0700" stop="20210109224500 +0700" channel="VTVcab 4">
+    <title lang="vi">Khung phim điện ảnh QT cuối tuần</title>
+  </programme>
+  <programme start="20210109000000 +0700" stop="20210109010000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Chương trình: Sóng Nhạc</title>
+  </programme>
+  <programme start="20210109010000 +0700" stop="20210109020000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Sân Khấu Truyền Thống</title>
+  </programme>
+  <programme start="20210109020000 +0700" stop="20210109030000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Cha con hợp sức2021</title>
+  </programme>
+  <programme start="20210109030000 +0700" stop="20210109040000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">E Nhạc Phim</title>
+  </programme>
+  <programme start="20210109040000 +0700" stop="20210109050000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Nghìn Lẻ Một Chuyện</title>
+  </programme>
+  <programme start="20210109050000 +0700" stop="20210109053000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Lữ Khách 24h</title>
+  </programme>
+  <programme start="20210109053000 +0700" stop="20210109060000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Du Lịch Kỳ Thú</title>
+  </programme>
+  <programme start="20210109060000 +0700" stop="20210109070000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Chương trình: Sóng Nhạc</title>
+  </programme>
+  <programme start="20210109070000 +0700" stop="20210109080000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Sân Khấu Truyền Thống</title>
+  </programme>
+  <programme start="20210109080000 +0700" stop="20210109083000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Cha con hợp sức2021</title>
+  </programme>
+  <programme start="20210109083000 +0700" stop="20210109090000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Home Tips: Bạn làm được (Umakeit), Home Tips: Maketrend</title>
+  </programme>
+  <programme start="20210109090000 +0700" stop="20210109100000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Con của người hầu gái</title>
+  </programme>
+  <programme start="20210109100000 +0700" stop="20210109110000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Phim Đài Loan: Tiếng Pháo Vu Quy</title>
+  </programme>
+  <programme start="20210109110000 +0700" stop="20210109120000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Phim Trung Quốc: Truyền Thuyết Bạch Xà</title>
+  </programme>
+  <programme start="20210109120000 +0700" stop="20210109130000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Phim Những Sắc Màu Hôn Nhân</title>
+  </programme>
+  <programme start="20210109130000 +0700" stop="20210109140000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Phim Hàn Quốc: Vòng Xoáy Đam Mê</title>
+  </programme>
+  <programme start="20210109140000 +0700" stop="20210109150000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Phim Trung Quốc: Bố Tôi Là Người Hùng</title>
+  </programme>
+  <programme start="20210109150000 +0700" stop="20210109160000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">E Nhạc Phim</title>
+  </programme>
+  <programme start="20210109160000 +0700" stop="20210109170000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Nghìn Lẻ Một Chuyện</title>
+  </programme>
+  <programme start="20210109170000 +0700" stop="20210109180000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Phim Ấn: Thần Công Lý</title>
+  </programme>
+  <programme start="20210109180000 +0700" stop="20210109190000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Phim Đài Loan: Tiếng Pháo Vu Quy</title>
+  </programme>
+  <programme start="20210109190000 +0700" stop="20210109200000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Phim Hàn Quốc: Vòng Xoáy Đam Mê</title>
+  </programme>
+  <programme start="20210109200000 +0700" stop="20210109210000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Phim Trung Quốc: Bố Tôi Là Người Hùng</title>
+  </programme>
+  <programme start="20210109210000 +0700" stop="20210109220000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Phim Trung Quốc: Truyền Thuyết Bạch Xà</title>
+  </programme>
+  <programme start="20210109220000 +0700" stop="20210109230000 +0700" channel="VTVcab 5 - E Channel">
+    <title lang="vi">Con của người hầu gái</title>
+  </programme>
+  <programme start="20210109000000 +0700" stop="20210109004500 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Vẫn mãi yêu em(29)</title>
+  </programme>
+  <programme start="20210109004500 +0700" stop="20210109010000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Về chốn linh thiêng (60)</title>
+  </programme>
+  <programme start="20210109010000 +0700" stop="20210109014500 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Bóng tối rực rỡ (38)</title>
+  </programme>
+  <programme start="20210109014500 +0700" stop="20210109020000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">On Fun</title>
+  </programme>
+  <programme start="20210109020000 +0700" stop="20210109023000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Việt Nam - Đất nước - Con người (100)</title>
+  </programme>
+  <programme start="20210109023000 +0700" stop="20210109030000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Văn hóa dân tộc (55)</title>
+  </programme>
+  <programme start="20210109030000 +0700" stop="20210109034500 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Lăng mộ biển (53)</title>
+  </programme>
+  <programme start="20210109034500 +0700" stop="20210109040000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Sách và cuộc sống</title>
+  </programme>
+  <programme start="20210109040000 +0700" stop="20210109044500 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Phía sau nụ cười (31)</title>
+  </programme>
+  <programme start="20210109044500 +0700" stop="20210109050000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">On Fun</title>
+  </programme>
+  <programme start="20210109050000 +0700" stop="20210109054500 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Vẫn mãi yêu em(29</title>
+  </programme>
+  <programme start="20210109054500 +0700" stop="20210109060000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Về chốn linh thiêng (60)</title>
+  </programme>
+  <programme start="20210109060000 +0700" stop="20210109063000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Việt Nam - Đất nước - Con người (100)</title>
+  </programme>
+  <programme start="20210109063000 +0700" stop="20210109071500 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Bóng tối rực rỡ (38)</title>
+  </programme>
+  <programme start="20210109071500 +0700" stop="20210109073000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Sách và cuộc sống</title>
+  </programme>
+  <programme start="20210109073000 +0700" stop="20210109080000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Văn hóa dân tộc (55)</title>
+  </programme>
+  <programme start="20210109080000 +0700" stop="20210109083000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Hà Nội của chúng ta (104)</title>
+  </programme>
+  <programme start="20210109083000 +0700" stop="20210109091500 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Lăng mộ biển (53)</title>
+  </programme>
+  <programme start="20210109091500 +0700" stop="20210109093000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">On Fun</title>
+  </programme>
+  <programme start="20210109093000 +0700" stop="20210109100000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Việt Nam - Đất nước - Con người (100)</title>
+  </programme>
+  <programme start="20210109100000 +0700" stop="20210109104500 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Phía sau nụ cười (31)</title>
+  </programme>
+  <programme start="20210109104500 +0700" stop="20210109110000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Sách và cuộc sống</title>
+  </programme>
+  <programme start="20210109110000 +0700" stop="20210109120000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Ban thục Truyền kỳ (42)</title>
+  </programme>
+  <programme start="20210109120000 +0700" stop="20210109124500 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Vẫn mãi yêu em(29)</title>
+  </programme>
+  <programme start="20210109124500 +0700" stop="20210109130000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Về chốn linh thiêng (60)</title>
+  </programme>
+  <programme start="20210109130000 +0700" stop="20210109134500 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Bóng tối rực rỡ (38)</title>
+  </programme>
+  <programme start="20210109134500 +0700" stop="20210109140000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">On Fun</title>
+  </programme>
+  <programme start="20210109140000 +0700" stop="20210109144500 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Phía sau nụ cười (31)</title>
+  </programme>
+  <programme start="20210109144500 +0700" stop="20210109150000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Về chốn linh thiêng (60)</title>
+  </programme>
+  <programme start="20210109150000 +0700" stop="20210109153000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Việt Nam - Đất nước - Con người (100)</title>
+  </programme>
+  <programme start="20210109153000 +0700" stop="20210109164500 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Vẫn mãi yêu em(29)</title>
+  </programme>
+  <programme start="20210109164500 +0700" stop="20210109170000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Sách và cuộc sống</title>
+  </programme>
+  <programme start="20210109170000 +0700" stop="20210109174500 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Bóng tối rực rỡ (38)</title>
+  </programme>
+  <programme start="20210109174500 +0700" stop="20210109180000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">On Fun</title>
+  </programme>
+  <programme start="20210109180000 +0700" stop="20210109183000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Quán quen món ruột (18)</title>
+  </programme>
+  <programme start="20210109183000 +0700" stop="20210109190000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Văn hóa ẩm thực (55)</title>
+  </programme>
+  <programme start="20210109190000 +0700" stop="20210109194500 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Lăng mộ biển (53)</title>
+  </programme>
+  <programme start="20210109194500 +0700" stop="20210109200000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Làng nghề Việt (80)</title>
+  </programme>
+  <programme start="20210109200000 +0700" stop="20210109201500 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Về chốn linh thiêng (60)</title>
+  </programme>
+  <programme start="20210109201500 +0700" stop="20210109203000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Hà Nội của chúng ta (104)</title>
+  </programme>
+  <programme start="20210109203000 +0700" stop="20210109210000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Du lịch xanh (30)</title>
+  </programme>
+  <programme start="20210109210000 +0700" stop="20210109213000 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Văn hóa ẩm thực (55)</title>
+  </programme>
+  <programme start="20210109213000 +0700" stop="20210109221500 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Phía sau nụ cười (31)</title>
+  </programme>
+  <programme start="20210109221500 +0700" stop="20210109224500 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Việt Nam - Đất nước - Con người (100)</title>
+  </programme>
+  <programme start="20210109224500 +0700" stop="20210109231500 +0700" channel="VTVcab 6 - Hay TV">
+    <title lang="vi">Quán quen món ruột (18)</title>
+  </programme>
+  <programme start="20210109000000 +0700" stop="20210109010000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Tú Lệ Giang Sơn</title>
+  </programme>
+  <programme start="20210109010000 +0700" stop="20210109020000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Khi em say giấc</title>
+  </programme>
+  <programme start="20210109020000 +0700" stop="20210109030000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Đóa hoa hoang dại</title>
+  </programme>
+  <programme start="20210109030000 +0700" stop="20210109040000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Tú Lệ Giang Sơn</title>
+  </programme>
+  <programme start="20210109040000 +0700" stop="20210109050000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Yêu trong cuồng hận</title>
+  </programme>
+  <programme start="20210109050000 +0700" stop="20210109060000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Anh thìa vàng, em đũa mốc</title>
+  </programme>
+  <programme start="20210109060000 +0700" stop="20210109070000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Đóa hoa hoang dại</title>
+  </programme>
+  <programme start="20210109070000 +0700" stop="20210109080000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Tú Lệ Giang Sơn</title>
+  </programme>
+  <programme start="20210109080000 +0700" stop="20210109090000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Yêu trong cuồng hận</title>
+  </programme>
+  <programme start="20210109090000 +0700" stop="20210109100000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Khi em say giấc</title>
+  </programme>
+  <programme start="20210109100000 +0700" stop="20210109110000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Tú Lệ Giang Sơn</title>
+  </programme>
+  <programme start="20210109110000 +0700" stop="20210109120000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Anh thìa vàng, em đũa mốc</title>
+  </programme>
+  <programme start="20210109120000 +0700" stop="20210109130000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Yêu trong cuồng hận</title>
+  </programme>
+  <programme start="20210109130000 +0700" stop="20210109140000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Khi em say giấc</title>
+  </programme>
+  <programme start="20210109140000 +0700" stop="20210109150000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Nội chiến hoàng gia</title>
+  </programme>
+  <programme start="20210109150000 +0700" stop="20210109160000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Những cô nàng độc thân làm mẹ</title>
+  </programme>
+  <programme start="20210109160000 +0700" stop="20210109170000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Khi em say giấc</title>
+  </programme>
+  <programme start="20210109170000 +0700" stop="20210109180000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Anh thìa vàng, em đũa mốc</title>
+  </programme>
+  <programme start="20210109180000 +0700" stop="20210109190000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Đóa hoa hoang dại</title>
+  </programme>
+  <programme start="20210109190000 +0700" stop="20210109200000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Tú Lệ Giang Sơn</title>
+  </programme>
+  <programme start="20210109200000 +0700" stop="20210109210000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Anh thìa vàng, em đũa mốc</title>
+  </programme>
+  <programme start="20210109210000 +0700" stop="20210109220000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Khi em say giấc</title>
+  </programme>
+  <programme start="20210109220000 +0700" stop="20210109230000 +0700" channel="VTVcab 10 - Vie DRAMAS">
+    <title lang="vi">Nội chiến hoàng gia</title>
+  </programme>
+  <programme start="20210109000000 +0700" stop="20210109003000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Khoa học diệu kỳ Số 4, ONKids tiểu phẩm Số 27</title>
+  </programme>
+  <programme start="20210109003000 +0700" stop="20210109010000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Nhiệt huyết thần tượng T10</title>
+  </programme>
+  <programme start="20210109010000 +0700" stop="20210109013000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Đội bóng rổ nhí T11</title>
+  </programme>
+  <programme start="20210109013000 +0700" stop="20210109020000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Bố đầu nhỏ con đầu to T214, Phi đội chuồn chuồn ( 11')</title>
+  </programme>
+  <programme start="20210109020000 +0700" stop="20210109023000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Đặc vụ siêu đẳng T10</title>
+  </programme>
+  <programme start="20210109023000 +0700" stop="20210109030000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Nhiệt huyết thần tượng T10</title>
+  </programme>
+  <programme start="20210109030000 +0700" stop="20210109033000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Cô bé bướng bỉnh T10</title>
+  </programme>
+  <programme start="20210109033000 +0700" stop="20210109040000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Đội bóng rổ nhí T11</title>
+  </programme>
+  <programme start="20210109040000 +0700" stop="20210109043000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Bước ra thế giới cùng Geromino T13</title>
+  </programme>
+  <programme start="20210109043000 +0700" stop="20210109050000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Bố đầu nhỏ con đầu to T214, Phi đội chuồn chuồn ( 11')</title>
+  </programme>
+  <programme start="20210109050000 +0700" stop="20210109053000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Cô bé bướng bỉnh T10</title>
+  </programme>
+  <programme start="20210109053000 +0700" stop="20210109060000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Đặc vụ siêu đẳng T10</title>
+  </programme>
+  <programme start="20210109060000 +0700" stop="20210109063000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Đội bóng rổ nhí T11</title>
+  </programme>
+  <programme start="20210109063000 +0700" stop="20210109070000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Khoa học diệu kỳ Số 4, ONKids tiểu phẩm Số 27</title>
+  </programme>
+  <programme start="20210109070000 +0700" stop="20210109073000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Bước ra thế giới cùng Geromino T13</title>
+  </programme>
+  <programme start="20210109073000 +0700" stop="20210109080000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Bố đầu nhỏ con đầu to T214, Phi đội chuồn chuồn ( 11')</title>
+  </programme>
+  <programme start="20210109080000 +0700" stop="20210109083000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Cô bé bướng bỉnh T10</title>
+  </programme>
+  <programme start="20210109083000 +0700" stop="20210109090000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Nhiệt huyết thần tượng T10</title>
+  </programme>
+  <programme start="20210109090000 +0700" stop="20210109093000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Đội bóng rổ nhí T11</title>
+  </programme>
+  <programme start="20210109093000 +0700" stop="20210109100000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Bước ra thế giới cùng Geromino T13</title>
+  </programme>
+  <programme start="20210109100000 +0700" stop="20210109103000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Luyện đọc cùng con</title>
+  </programme>
+  <programme start="20210109103000 +0700" stop="20210109110000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Cô bé bướng bỉnh T10</title>
+  </programme>
+  <programme start="20210109110000 +0700" stop="20210109113000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Đội bóng rổ nhí T11</title>
+  </programme>
+  <programme start="20210109113000 +0700" stop="20210109120000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Bước ra thế giới cùng Geromino T13</title>
+  </programme>
+  <programme start="20210109120000 +0700" stop="20210109123000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Bố đầu nhỏ con đầu to T214, Phi đội chuồn chuồn ( 11')</title>
+  </programme>
+  <programme start="20210109123000 +0700" stop="20210109130000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Luyện đọc cùng con</title>
+  </programme>
+  <programme start="20210109130000 +0700" stop="20210109133000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Cô bé bướng bỉnh T10</title>
+  </programme>
+  <programme start="20210109133000 +0700" stop="20210109140000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Bước ra thế giới cùng Geromino T13</title>
+  </programme>
+  <programme start="20210109140000 +0700" stop="20210109143000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Đặc vụ siêu đẳng T10</title>
+  </programme>
+  <programme start="20210109143000 +0700" stop="20210109150000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Bố đầu nhỏ con đầu to T214, Phi đội chuồn chuồn ( 11')</title>
+  </programme>
+  <programme start="20210109150000 +0700" stop="20210109153000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Nhiệt huyết thần tượng T10</title>
+  </programme>
+  <programme start="20210109153000 +0700" stop="20210109160000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Khoa học diệu kỳ Số 4, ONKids tiểu phẩm Số 27</title>
+  </programme>
+  <programme start="20210109160000 +0700" stop="20210109163000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Luyện đọc cùng con</title>
+  </programme>
+  <programme start="20210109163000 +0700" stop="20210109170000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Cô bé bướng bỉnh T11</title>
+  </programme>
+  <programme start="20210109170000 +0700" stop="20210109173000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Bố đầu nhỏ con đầu to T215, Tobot  T41</title>
+  </programme>
+  <programme start="20210109173000 +0700" stop="20210109180000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Đáy giếng ( 22'), Chiến rồng thần thoại T20</title>
+  </programme>
+  <programme start="20210109180000 +0700" stop="20210109183000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Đội bóng rổ nhí T12</title>
+  </programme>
+  <programme start="20210109183000 +0700" stop="20210109190000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Haroo Friends English</title>
+  </programme>
+  <programme start="20210109190000 +0700" stop="20210109193000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Zoids – Thú vương đại chiến 2 T35</title>
+  </programme>
+  <programme start="20210109193000 +0700" stop="20210109200000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Nhiệt huyết thần tượng T11</title>
+  </programme>
+  <programme start="20210109200000 +0700" stop="20210109201500 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Bố đầu nhỏ con đầu to T216</title>
+  </programme>
+  <programme start="20210109201500 +0700" stop="20210109203000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Con yêu ơi đừng sợ</title>
+  </programme>
+  <programme start="20210109203000 +0700" stop="20210109210000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">ONKids tiểu phẩm</title>
+  </programme>
+  <programme start="20210109210000 +0700" stop="20210109213000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Bước ra thế giới cùng Geromino T14</title>
+  </programme>
+  <programme start="20210109213000 +0700" stop="20210109220000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Khoa học diệu kỳ Số 5, ONKids tiểu phẩm Số 28</title>
+  </programme>
+  <programme start="20210109220000 +0700" stop="20210109223000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Cô bé bướng bỉnh T11</title>
+  </programme>
+  <programme start="20210109223000 +0700" stop="20210109230000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Nhiệt huyết thần tượng T11</title>
+  </programme>
+  <programme start="20210109230000 +0700" stop="20210109233000 +0700" channel="VTVcab 8 - BiBi">
+    <title lang="vi">Đặc vụ siêu đẳng T10</title>
+  </programme>
+  <programme start="20210109000500 +0700" stop="20210109002000 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Dạy Golf 2021 - Số 6</title>
+  </programme>
+  <programme start="20210109002000 +0700" stop="20210109010500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Báo Chí Góc Nhìn 2021 - Số 1</title>
+  </programme>
+  <programme start="20210109010500 +0700" stop="20210109011500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Nhịp Sống 24h</title>
+  </programme>
+  <programme start="20210109011500 +0700" stop="20210109013500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Hoạt Hình 2021 - Số 1</title>
+  </programme>
+  <programme start="20210109013500 +0700" stop="20210109020500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Kết Nối Swing Việt 2021 - Số 1</title>
+  </programme>
+  <programme start="20210109020500 +0700" stop="20210109023500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Địa Ốc 2021 - Số 1</title>
+  </programme>
+  <programme start="20210109023500 +0700" stop="20210109030500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Info 360 2021 - Số 2</title>
+  </programme>
+  <programme start="20210109030500 +0700" stop="20210109031000 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Nhịp Sống Style</title>
+  </programme>
+  <programme start="20210109031000 +0700" stop="20210109033500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Sitcom Công Sở Truyền Kỳ - Số 89.2020</title>
+  </programme>
+  <programme start="20210109033500 +0700" stop="20210109040500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Khám Phá Công Nghệ 2021 - Số 1</title>
+  </programme>
+  <programme start="20210109040500 +0700" stop="20210109043500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Báo Chí Góc Nhìn 2021 - Số 1</title>
+  </programme>
+  <programme start="20210109043500 +0700" stop="20210109050500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Info 360 2021 - Số 2</title>
+  </programme>
+  <programme start="20210109050500 +0700" stop="20210109053500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Địa Ốc 2021 - Số 1</title>
+  </programme>
+  <programme start="20210109053500 +0700" stop="20210109060000 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Kết Nối Swing Việt 2021 - Số 1</title>
+  </programme>
+  <programme start="20210109060000 +0700" stop="20210109060500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Nhịp Sống 24h Phần 2</title>
+  </programme>
+  <programme start="20210109060500 +0700" stop="20210109061000 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Dự Báo Thời Tiết Phần 1</title>
+  </programme>
+  <programme start="20210109061000 +0700" stop="20210109061500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Nhịp Sống 24h Phần 3</title>
+  </programme>
+  <programme start="20210109061500 +0700" stop="20210109062000 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Dự Báo Thời Tiết Phần 2</title>
+  </programme>
+  <programme start="20210109062000 +0700" stop="20210109063500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Nhịp Sống 24h P4</title>
+  </programme>
+  <programme start="20210109063500 +0700" stop="20210109064500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Dạy Golf 2021 - Số 9</title>
+  </programme>
+  <programme start="20210109064500 +0700" stop="20210109070500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Sitcom Công Sở Truyền Kỳ - Số 90.2020</title>
+  </programme>
+  <programme start="20210109070500 +0700" stop="20210109073500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Thế Giới 23 Độ 5 2021 - Số 1</title>
+  </programme>
+  <programme start="20210109073500 +0700" stop="20210109080500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Info 360 2021 - Số 2</title>
+  </programme>
+  <programme start="20210109080500 +0700" stop="20210109083500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Hài Dân Gian 2021 - Số 2</title>
+  </programme>
+  <programme start="20210109083500 +0700" stop="20210109084500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Giới Thiệu Kênh (</title>
+  </programme>
+  <programme start="20210109084500 +0700" stop="20210109090500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Dạy Golf 2021 - Số 2</title>
+  </programme>
+  <programme start="20210109090500 +0700" stop="20210109093500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Khám Phá Công Nghệ 2021 - Số 1</title>
+  </programme>
+  <programme start="20210109093500 +0700" stop="20210109100500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Info 360 2021 - Số 2</title>
+  </programme>
+  <programme start="20210109100500 +0700" stop="20210109101000 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Nhịp Sống Style</title>
+  </programme>
+  <programme start="20210109101000 +0700" stop="20210109103500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Sitcom Công Sở Truyền Kỳ - Số 89.2020</title>
+  </programme>
+  <programme start="20210109103500 +0700" stop="20210109110000 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Info 360 2021 - Số 2</title>
+  </programme>
+  <programme start="20210109110000 +0700" stop="20210109120500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Phim Thần Chết (Tq 48t) - Tập 44</title>
+  </programme>
+  <programme start="20210109120500 +0700" stop="20210109130500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Phim Trí Thủy Uy Hổ Sơn - Tập 3</title>
+  </programme>
+  <programme start="20210109130500 +0700" stop="20210109133500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Nhịp Sống 24h</title>
+  </programme>
+  <programme start="20210109133500 +0700" stop="20210109134500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Dạy Golf 2021 - Số 9</title>
+  </programme>
+  <programme start="20210109134500 +0700" stop="20210109140500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Sitcom Công Sở Truyền Kỳ - Số 90.2020</title>
+  </programme>
+  <programme start="20210109140500 +0700" stop="20210109143500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Địa Ốc 2021 - Số 1</title>
+  </programme>
+  <programme start="20210109143500 +0700" stop="20210109150500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Khám Phá Công Nghệ 2021 - Số 1</title>
+  </programme>
+  <programme start="20210109150500 +0700" stop="20210109151500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Sitcom Công Sở Truyền Kỳ - Số 90.2020</title>
+  </programme>
+  <programme start="20210109151500 +0700" stop="20210109153500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Dạy Golf 2021 - Số 9</title>
+  </programme>
+  <programme start="20210109153500 +0700" stop="20210109160500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Địa Ốc 2021 - Số 1</title>
+  </programme>
+  <programme start="20210109160500 +0700" stop="20210109161000 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Kí Sự Khám Phá 2021 - Số 9</title>
+  </programme>
+  <programme start="20210109161000 +0700" stop="20210109163500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Dạy Golf 2021 - Số 9</title>
+  </programme>
+  <programme start="20210109163500 +0700" stop="20210109164000 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Nhịp Sống Style</title>
+  </programme>
+  <programme start="20210109164000 +0700" stop="20210109173500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Hài Dân Gian 16h45.2021 - Số 1</title>
+  </programme>
+  <programme start="20210109173500 +0700" stop="20210109174000 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Gương Sáng 2021 - Số 3</title>
+  </programme>
+  <programme start="20210109174000 +0700" stop="20210109181500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Kí Sự Khám Phá 2021 - Số 8</title>
+  </programme>
+  <programme start="20210109181500 +0700" stop="20210109190500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Phim Ngày Mai Bình Yên (51t) - Tập 39</title>
+  </programme>
+  <programme start="20210109190500 +0700" stop="20210109191000 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Hoạt Hình - Số 3 2021</title>
+  </programme>
+  <programme start="20210109191000 +0700" stop="20210109191500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Sitcom Xóm Trọ Thanh Xuân 2021 - Số 5</title>
+  </programme>
+  <programme start="20210109191500 +0700" stop="20210109200000 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Báo Chí Góc Nhìn 2021 - Số 2</title>
+  </programme>
+  <programme start="20210109200000 +0700" stop="20210109202500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Hoạt Hình - Số 3 2021</title>
+  </programme>
+  <programme start="20210109202500 +0700" stop="20210109213500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Khám Phá Công Nghệ 2021 - Số 1</title>
+  </programme>
+  <programme start="20210109213500 +0700" stop="20210109214000 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Thế Giới 23 Độ 5 2021 - Số 1</title>
+  </programme>
+  <programme start="20210109214000 +0700" stop="20210109220500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Báo Chí Góc Nhìn 2021 - Số 2</title>
+  </programme>
+  <programme start="20210109220500 +0700" stop="20210109221000 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Sitcom Xóm Trọ Thanh Xuân 2021 - Số 5</title>
+  </programme>
+  <programme start="20210109221000 +0700" stop="20210109223500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Dạy Golf 2021 - Số 8</title>
+  </programme>
+  <programme start="20210109223500 +0700" stop="20210109224500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Info 360 2021 - Số 2</title>
+  </programme>
+  <programme start="20210109224500 +0700" stop="20210109230500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Bản Tin Thời Tiết</title>
+  </programme>
+  <programme start="20210109230500 +0700" stop="20210109231000 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Dạy Golf 2021 - Số 3</title>
+  </programme>
+  <programme start="20210109231000 +0700" stop="20210109233500 +0700" channel="VTVcab 9 - InfoTV">
+    <title lang="vi">Kí Sự Khám Phá 2021 - Số 8</title>
+  </programme>
+  <programme start="20210109000000 +0700" stop="20210109004500 +0700" channel="VTVcab 7">
+    <title lang="vi">Câu Chuyện Tình Đời (33T)
+Tập 3</title>
+  </programme>
+  <programme start="20210109004500 +0700" stop="20210109010000 +0700" channel="VTVcab 7">
+    <title lang="vi">Dành Cho Đôi Mắt
+1012 Giác Mạc Hình Chóp Đừng Để Phát Hiện Khi Quá Muộn(11'33)</title>
+  </programme>
+  <programme start="20210109010000 +0700" stop="20210109012500 +0700" channel="VTVcab 7">
+    <title lang="vi">Giữ Cho Lá Phổi Khỏe Mạnh
+2612 Điều Trị Lao Kháng Thuốc(25'17)</title>
+  </programme>
+  <programme start="20210109012500 +0700" stop="20210109013000 +0700" channel="VTVcab 7">
+    <title lang="vi">Trái Tim Cho Em(5-7P)
+Số 36</title>
+  </programme>
+  <programme start="20210109013000 +0700" stop="20210109014500 +0700" channel="VTVcab 7">
+    <title lang="vi">Tọa Đàm Các Vấn Đề Y Tế
+1112 Sự Thật Về Thuốc Lá Nhẹ(16'21)</title>
+  </programme>
+  <programme start="20210109014500 +0700" stop="20210109020000 +0700" channel="VTVcab 7">
+    <title lang="vi">Sơ Cứu Ban Đầu (25T)
+Số 25</title>
+  </programme>
+  <programme start="20210109020000 +0700" stop="20210109024500 +0700" channel="VTVcab 7">
+    <title lang="vi">Thanh Xà Bạch Xà (46T)
+Tập 20</title>
+  </programme>
+  <programme start="20210109024500 +0700" stop="20210109030000 +0700" channel="VTVcab 7">
+    <title lang="vi">"Phóng Sự Chuyên Đề
+1312 Phòng Chống Bệnh Tật Học Đường(15'15)</title>
+  </programme>
+  <programme start="20210109030000 +0700" stop="20210109031600 +0700" channel="VTVcab 7">
+    <title lang="vi">Tọa Đàm Các Vấn Đề Y Tế
+2512 Thuốc Lào(16'32)</title>
+  </programme>
+  <programme start="20210109031600 +0700" stop="20210109033000 +0700" channel="VTVcab 7">
+    <title lang="vi">Sơ Cứu Ban Đầu (25T)
+Số 1</title>
+  </programme>
+  <programme start="20210109033000 +0700" stop="20210109034500 +0700" channel="VTVcab 7">
+    <title lang="vi">Làng Nghề Việt  (80T-15P)
+Số 70</title>
+  </programme>
+  <programme start="20210109034500 +0700" stop="20210109040000 +0700" channel="VTVcab 7">
+    <title lang="vi">Phóng Sự Chuyên Đề
+1312 Phòng Và Điều Trị Bệnh Tay Chân Miệng Ở Trẻ</title>
+  </programme>
+  <programme start="20210109040000 +0700" stop="20210109041100 +0700" channel="VTVcab 7">
+    <title lang="vi">Dành Cho Đôi Mắt
+1012 Giác Mạc Hình Chóp Đừng Để Phát Hiện Khi Quá Muộn(11'33)</title>
+  </programme>
+  <programme start="20210109041100 +0700" stop="20210109044500 +0700" channel="VTVcab 7">
+    <title lang="vi">Muôn Màu Cuộc Sống (64T - 20P)
+Số 28</title>
+  </programme>
+  <programme start="20210109044500 +0700" stop="20210109053000 +0700" channel="VTVcab 7">
+    <title lang="vi">Vòng Tròn 12 Số (54T)
+Tập 20</title>
+  </programme>
+  <programme start="20210109053000 +0700" stop="20210109060000 +0700" channel="VTVcab 7">
+    <title lang="vi">Không Gian Xanh- 30P
+Số 49</title>
+  </programme>
+  <programme start="20210109060000 +0700" stop="20210109061600 +0700" channel="VTVcab 7">
+    <title lang="vi">Tọa Đàm Các Vấn Đề Y Tế
+2512 Thuốc Lào(16'32)</title>
+  </programme>
+  <programme start="20210109061600 +0700" stop="20210109063000 +0700" channel="VTVcab 7">
+    <title lang="vi">Văn Hóa Ẩm Thực (55-30P)
+Số 5</title>
+  </programme>
+  <programme start="20210109063000 +0700" stop="20210109064500 +0700" channel="VTVcab 7">
+    <title lang="vi">Sách Và Cuộc Sống (15P X 385T)
+Số 76</title>
+  </programme>
+  <programme start="20210109064500 +0700" stop="20210109070000 +0700" channel="VTVcab 7">
+    <title lang="vi">Dành Cho Đôi Mắt
+0312 Crosslinking, Hi Vọng Mới Cho Bệnh Nhân Giác Mạc Mỏng(13'52)</title>
+  </programme>
+  <programme start="20210109070000 +0700" stop="20210109074500 +0700" channel="VTVcab 7">
+    <title lang="vi">Thiên Kim Trở Về( 45P-50T)
+Tập 44</title>
+  </programme>
+  <programme start="20210109074500 +0700" stop="20210109080000 +0700" channel="VTVcab 7">
+    <title lang="vi">Phóng Sự Chuyên Đề
+2712 Hoạt Động Thể Lực Ở Người Cao Tuổi(10'20)</title>
+  </programme>
+  <programme start="20210109080000 +0700" stop="20210109083000 +0700" channel="VTVcab 7">
+    <title lang="vi">Tọa Đàm Các Vấn Đề Y Tế
+2012 Tác Hại Của Hút Thuốc Lá Thụ Động Ở Trẻ Em(15'18)</title>
+  </programme>
+  <programme start="20210109083000 +0700" stop="20210109084500 +0700" channel="VTVcab 7">
+    <title lang="vi">Dành Cho Đôi Mắt
+0312 Crosslinking, Hi Vọng Mới Cho Bệnh Nhân Giác Mạc Mỏng(13'52)</title>
+  </programme>
+  <programme start="20210109084500 +0700" stop="20210109090000 +0700" channel="VTVcab 7">
+    <title lang="vi">Cùng Em Đến Trường(5-7P)
+Số 37</title>
+  </programme>
+  <programme start="20210109090000 +0700" stop="20210109093000 +0700" channel="VTVcab 7">
+    <title lang="vi">Tọa Đàm Các Vấn Đề Y Tế
+1912 Lợi Ích Của Môi Trường Không Khói Thuốc(30')</title>
+  </programme>
+  <programme start="20210109093000 +0700" stop="20210109094500 +0700" channel="VTVcab 7">
+    <title lang="vi">Dành Cho Đôi Mắt
+0312 Crosslinking, Hi Vọng Mới Cho Bệnh Nhân Giác Mạc Mỏng(13'52)</title>
+  </programme>
+  <programme start="20210109094500 +0700" stop="20210109101000 +0700" channel="VTVcab 7">
+    <title lang="vi">Văn Hóa Ẩm Thực (55-30P)
+Số 5</title>
+  </programme>
+  <programme start="20210109101000 +0700" stop="20210109103000 +0700" channel="VTVcab 7">
+    <title lang="vi">Muôn Màu Cuộc Sống(60T- 20P)
+Số 67</title>
+  </programme>
+  <programme start="20210109103000 +0700" stop="20210109110000 +0700" channel="VTVcab 7">
+    <title lang="vi">Không Gian Xanh- 30P
+Số 49</title>
+  </programme>
+  <programme start="20210109110000 +0700" stop="20210109111500 +0700" channel="VTVcab 7">
+    <title lang="vi">Sách Và Cuộc Sống (15P X 385T)
+Số 76</title>
+  </programme>
+  <programme start="20210109111500 +0700" stop="20210109120000 +0700" channel="VTVcab 7">
+    <title lang="vi">Vòng Tròn 12 Số( 54T)
+Tập 45</title>
+  </programme>
+  <programme start="20210109120000 +0700" stop="20210109124500 +0700" channel="VTVcab 7">
+    <title lang="vi">Câu Chuyện Tình Đời (33T)
+Tập 4</title>
+  </programme>
+  <programme start="20210109124500 +0700" stop="20210109130000 +0700" channel="VTVcab 7">
+    <title lang="vi">Phóng Sự Chuyên Đề
+0301 Tăng Cường Thể Lực Cho Trẻ(13'50)</title>
+  </programme>
+  <programme start="20210109130000 +0700" stop="20210109133000 +0700" channel="VTVcab 7">
+    <title lang="vi">Văn Hóa Ẩm Thực (55-30P)
+Số 5</title>
+  </programme>
+  <programme start="20210109133000 +0700" stop="20210109134500 +0700" channel="VTVcab 7">
+    <title lang="vi">Muôn Màu Cuộc Sống(64T- 20P)
+Số 62</title>
+  </programme>
+  <programme start="20210109134500 +0700" stop="20210109143000 +0700" channel="VTVcab 7">
+    <title lang="vi">Đắc Kỷ Trụ Vương- 40T
+Tập 20</title>
+  </programme>
+  <programme start="20210109143000 +0700" stop="20210109150000 +0700" channel="VTVcab 7">
+    <title lang="vi">Mình Là Phụ Nữ
+2712 Sức Khỏe Và Sắc Đẹp(27'16)</title>
+  </programme>
+  <programme start="20210109150000 +0700" stop="20210109154500 +0700" channel="VTVcab 7">
+    <title lang="vi">Mẹ Của Cầu Thủ Số 10 
+(67T)
+Tạp 14</title>
+  </programme>
+  <programme start="20210109154500 +0700" stop="20210109160000 +0700" channel="VTVcab 7">
+    <title lang="vi">Sách Và Cuộc Sống (15P X 385T)
+Số 76</title>
+  </programme>
+  <programme start="20210109160000 +0700" stop="20210109163000 +0700" channel="VTVcab 7">
+    <title lang="vi">Tọa Đàm Các Vấn Đề Y Tế
+2512 Thuốc Lào(16'32)</title>
+  </programme>
+  <programme start="20210109163000 +0700" stop="20210109164500 +0700" channel="VTVcab 7">
+    <title lang="vi">Dành Cho Đôi Mắt
+0312 Crosslinking, Hi Vọng Mới Cho Bệnh Nhân Giác Mạc Mỏng(13'52)</title>
+  </programme>
+  <programme start="20210109164500 +0700" stop="20210109170000 +0700" channel="VTVcab 7">
+    <title lang="vi">Giữ Cho Lá Phổi Khỏe Mạnh
+0901 Chương Trình Chống Lao Quốc Gia(20'44)</title>
+  </programme>
+  <programme start="20210109170000 +0700" stop="20210109173000 +0700" channel="VTVcab 7">
+    <title lang="vi">Người Tràng An - Người Hà Nội 
+(101T)-25P
+Số 85</title>
+  </programme>
+  <programme start="20210109173000 +0700" stop="20210109174500 +0700" channel="VTVcab 7">
+    <title lang="vi">Phóng Sự Chuyên Đề
+2612 Ứng Dụng Các Thành Tựu Trong Y Học Vào Công Tác Khám, Chữa Bệnh</title>
+  </programme>
+  <programme start="20210109174500 +0700" stop="20210109180000 +0700" channel="VTVcab 7">
+    <title lang="vi">Sách Và Cuộc Sống (15P X 385T)
+Số 159</title>
+  </programme>
+  <programme start="20210109180000 +0700" stop="20210109184500 +0700" channel="VTVcab 7">
+    <title lang="vi">Thiên Kim Trở Về( 45P-50T)
+Tập 45</title>
+  </programme>
+  <programme start="20210109184500 +0700" stop="20210109190000 +0700" channel="VTVcab 7">
+    <title lang="vi">Làng Nghề Việt  (80T-15P)
+Số 71</title>
+  </programme>
+  <programme start="20210109190000 +0700" stop="20210109200000 +0700" channel="VTVcab 7">
+    <title lang="vi">Văn Hóa Ẩm Thực (55-30P)
+Số 5</title>
+  </programme>
+  <programme start="20210109200000 +0700" stop="20210109204500 +0700" channel="VTVcab 7">
+    <title lang="vi">Đắc Kỷ Trụ Vương- 40T
+Tập 26</title>
+  </programme>
+  <programme start="20210109204500 +0700" stop="20210109210000 +0700" channel="VTVcab 7">
+    <title lang="vi">Phóng Sự Chuyên Đề
+2812 Bảo Hiểm Y Tê Mang Lại Nhiều Lợi Ích Nhưng Còn Nhiều Người Chủ Quan Chư Tham Gia Bảo Hiểm</title>
+  </programme>
+  <programme start="20210109210000 +0700" stop="20210109213000 +0700" channel="VTVcab 7">
+    <title lang="vi">Giữ Cho Lá Phổi Khỏe Mạnh
+2612 Điều Trị Lao Kháng Thuốc(25'17)</title>
+  </programme>
+  <programme start="20210109213000 +0700" stop="20210109221500 +0700" channel="VTVcab 7">
+    <title lang="vi">Mẹ Của Cầu Thủ Số 10 
+(67T)
+Tạp 8</title>
+  </programme>
+  <programme start="20210109221500 +0700" stop="20210109230000 +0700" channel="VTVcab 7">
+    <title lang="vi">Vòng Tròn 12 Số (54T)
+Tập 17</title>
+  </programme>
+  <programme start="20210109230000 +0700" stop="20210109233000 +0700" channel="VTVcab 7">
+    <title lang="vi">Giữ Cho Lá Phổi Khỏe Mạnh
+2612 Điều Trị Lao Kháng Thuốc(25'17)</title>
+  </programme>
+  <programme start="20210109233000 +0700" stop="20210109234500 +0700" channel="VTVcab 7">
+    <title lang="vi">Tọa Đàm Các Vấn Đề Y Tế
+0101 Tổn Thất Kinh Tế Do Thuốc Lá Trên Bình Diện Quốc Gia(15')</title>
+  </programme>
+  <programme start="20210109000000 +0700" stop="20210109001500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Góc Làm Đẹp 2021</title>
+  </programme>
+  <programme start="20210109001500 +0700" stop="20210109010000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Hài Dân Gian 2021</title>
+  </programme>
+  <programme start="20210109010000 +0700" stop="20210109011500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Sitcom Xóm Trọ Thanh Xuân</title>
+  </programme>
+  <programme start="20210109011500 +0700" stop="20210109013000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Kí Sự Khai Thác 2021</title>
+  </programme>
+  <programme start="20210109013000 +0700" stop="20210109020000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Phim ngắn Người Nhỏ Việc Lớn Phát lại</title>
+  </programme>
+  <programme start="20210109020000 +0700" stop="20210109021500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Điểm hẹn cuối tuần 2021</title>
+  </programme>
+  <programme start="20210109021500 +0700" stop="20210109023000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Kí Sự Khai Thác 2021</title>
+  </programme>
+  <programme start="20210109023000 +0700" stop="20210109024500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Chuyện showbiz.BT 2021</title>
+  </programme>
+  <programme start="20210109024500 +0700" stop="20210109031500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Sitcom Công Sở Truyền Kì 2021</title>
+  </programme>
+  <programme start="20210109031500 +0700" stop="20210109033000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Chuyện show biz.DB 2021</title>
+  </programme>
+  <programme start="20210109033000 +0700" stop="20210109040000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Phim ngắn Rác Phát lại</title>
+  </programme>
+  <programme start="20210109040000 +0700" stop="20210109041500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Kí Sự Khai Thác 2021</title>
+  </programme>
+  <programme start="20210109041500 +0700" stop="20210109043000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Sitcom Công Sở Truyền Kì 2020</title>
+  </programme>
+  <programme start="20210109043000 +0700" stop="20210109044500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Chuyện showbiz.BT 2021</title>
+  </programme>
+  <programme start="20210109044500 +0700" stop="20210109051500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Sắc Màu Cảm Hứng 2021</title>
+  </programme>
+  <programme start="20210109051500 +0700" stop="20210109061500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Phim Muôn Mặt Cuộc Đời (40T)</title>
+  </programme>
+  <programme start="20210109061500 +0700" stop="20210109064500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">0901 Nhịp Sống 24h Phát mới</title>
+  </programme>
+  <programme start="20210109064500 +0700" stop="20210109071500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Kí Sự Khai Thác 2021</title>
+  </programme>
+  <programme start="20210109071500 +0700" stop="20210109080000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Ngày Mai Bình Yên (36T)</title>
+  </programme>
+  <programme start="20210109080000 +0700" stop="20210109081500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Sitcom Xóm Trọ Thanh Xuân 2021 - Tập 4 Phát lại</title>
+  </programme>
+  <programme start="20210109081500 +0700" stop="20210109083000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Điểm hẹn cuối tuần 2021</title>
+  </programme>
+  <programme start="20210109083000 +0700" stop="20210109091500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Chuyện showbiz.BT 2021</title>
+  </programme>
+  <programme start="20210109091500 +0700" stop="20210109100000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Phim Họa Mi Trong Mưa 85T (HQ)Phát lại</title>
+  </programme>
+  <programme start="20210109100000 +0700" stop="20210109101500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Điểm hẹn cuối tuần 2021</title>
+  </programme>
+  <programme start="20210109101500 +0700" stop="20210109103000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Chuyện show biz.DB 2021</title>
+  </programme>
+  <programme start="20210109103000 +0700" stop="20210109110000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Sitcom Công Sở Truyền Kì 2021</title>
+  </programme>
+  <programme start="20210109110000 +0700" stop="20210109111500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Chuyện showbiz.BT 2021</title>
+  </programme>
+  <programme start="20210109111500 +0700" stop="20210109113000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Góc Làm Đẹp 2021</title>
+  </programme>
+  <programme start="20210109113000 +0700" stop="20210109121500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Sitcom Công Sở Truyền Kì 2020</title>
+  </programme>
+  <programme start="20210109121500 +0700" stop="20210109131500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Phim Muôn Mặt Cuộc Đời (40T)</title>
+  </programme>
+  <programme start="20210109131500 +0700" stop="20210109133000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Sitcom Xóm Trọ Thanh Xuân 2021</title>
+  </programme>
+  <programme start="20210109133000 +0700" stop="20210109141500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Sắc Màu Cảm Hứng 2021</title>
+  </programme>
+  <programme start="20210109141500 +0700" stop="20210109150000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Phim Cuộc Chiến Nội Cung (102T) Tập 42 Phát lại</title>
+  </programme>
+  <programme start="20210109150000 +0700" stop="20210109151500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Chuyện showbiz.BT 2021</title>
+  </programme>
+  <programme start="20210109151500 +0700" stop="20210109153000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Sitcom Công Sở Kì Truyện 2021</title>
+  </programme>
+  <programme start="20210109153000 +0700" stop="20210109161500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Điểm hẹn cuối tuần 2021</title>
+  </programme>
+  <programme start="20210109161500 +0700" stop="20210109163000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Sắc Màu Cảm Hứng 2021</title>
+  </programme>
+  <programme start="20210109163000 +0700" stop="20210109170000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Góc Làm Đẹp 2021</title>
+  </programme>
+  <programme start="20210109170000 +0700" stop="20210109171500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Sitcom Xóm Trọ Thanh Xuân 2021</title>
+  </programme>
+  <programme start="20210109171500 +0700" stop="20210109173000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Chuyện show biz.DB 2021</title>
+  </programme>
+  <programme start="20210109173000 +0700" stop="20210109174500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Phim Hoạt Hình 2021</title>
+  </programme>
+  <programme start="20210109174500 +0700" stop="20210109180000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Khai Thác Kí Sự 2021</title>
+  </programme>
+  <programme start="20210109180000 +0700" stop="20210109191500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Phim Ngôi sao khoai tây (132T)</title>
+  </programme>
+  <programme start="20210109191500 +0700" stop="20210109193000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Khai Thác Kí Sự 2021</title>
+  </programme>
+  <programme start="20210109193000 +0700" stop="20210109201500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Điểm hẹn cuối tuần 2021</title>
+  </programme>
+  <programme start="20210109201500 +0700" stop="20210109211500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Hài Dân Gian 2021</title>
+  </programme>
+  <programme start="20210109211500 +0700" stop="20210109220000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Phim Cuộc Chiến Nội Cung - (102T) Tập 55 Phát mới</title>
+  </programme>
+  <programme start="20210109220000 +0700" stop="20210109223000 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Sắc Màu Cảm Hứng 2021</title>
+  </programme>
+  <programme start="20210109223000 +0700" stop="20210109231500 +0700" channel="VTVcab 12 - Style TV HD">
+    <title lang="vi">Góc Làm Đẹp 2020</title>
+  </programme>
+  <programme start="20210109001500 +0700" stop="20210109003000 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Asia 30p
+ Số 401</title>
+  </programme>
+  <programme start="20210109003000 +0700" stop="20210109011500 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Vpop 30p 
+ Số 925</title>
+  </programme>
+  <programme start="20210109011500 +0700" stop="20210109013000 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Ost 30p 
+ Số 500</title>
+  </programme>
+  <programme start="20210109013000 +0700" stop="20210109021500 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Nhạc mới 30p
+ Số 925</title>
+  </programme>
+  <programme start="20210109021500 +0700" stop="20210109023000 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Retro 30p 
+ Số 925</title>
+  </programme>
+  <programme start="20210109023000 +0700" stop="20210109031500 +0700" channel="VTVcab 15">
+    <title lang="vi">Nhạc Hàn tuyển chọn
+ Số 5</title>
+  </programme>
+  <programme start="20210109031500 +0700" stop="20210109033000 +0700" channel="VTVcab 15">
+    <title lang="vi">Nhạc trữ tình 30p
+ Số 5</title>
+  </programme>
+  <programme start="20210109033000 +0700" stop="20210109041500 +0700" channel="VTVcab 15">
+    <title lang="vi">Music
+ Số 56</title>
+  </programme>
+  <programme start="20210109041500 +0700" stop="20210109051500 +0700" channel="VTVcab 15">
+    <title lang="vi">ONSL - Những bài hát hay nhất  60p
+ Số 40</title>
+  </programme>
+  <programme start="20210109051500 +0700" stop="20210109061500 +0700" channel="VTVcab 15">
+    <title lang="vi">ONSL - Wren Evans  60p</title>
+  </programme>
+  <programme start="20210109061500 +0700" stop="20210109063000 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Asia 30p
+ Số 401</title>
+  </programme>
+  <programme start="20210109063000 +0700" stop="20210109071500 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Vpop 30p
+ Số 932</title>
+  </programme>
+  <programme start="20210109071500 +0700" stop="20210109073000 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Ost 30p
+ Số 500 Phát lại</title>
+  </programme>
+  <programme start="20210109073000 +0700" stop="20210109081500 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Nhạc mới 30p
+ Số 932</title>
+  </programme>
+  <programme start="20210109081500 +0700" stop="20210109083000 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Retro 30p
+ Số 932</title>
+  </programme>
+  <programme start="20210109083000 +0700" stop="20210109091500 +0700" channel="VTVcab 15">
+    <title lang="vi">Nhạc Hàn tuyển chọn
+ Số 6</title>
+  </programme>
+  <programme start="20210109091500 +0700" stop="20210109093000 +0700" channel="VTVcab 15">
+    <title lang="vi">Nhạc trẻ
+ Số 44</title>
+  </programme>
+  <programme start="20210109093000 +0700" stop="20210109101500 +0700" channel="VTVcab 15">
+    <title lang="vi">Music
+ Số 56</title>
+  </programme>
+  <programme start="20210109101500 +0700" stop="20210109111500 +0700" channel="VTVcab 15">
+    <title lang="vi">ONSL - Những bài hát hay nhất  60p
+ Số 40</title>
+  </programme>
+  <programme start="20210109111500 +0700" stop="20210109121500 +0700" channel="VTVcab 15">
+    <title lang="vi">ONSL - Wren Evans  60p</title>
+  </programme>
+  <programme start="20210109121500 +0700" stop="20210109123000 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Asia 30p
+ Số 401</title>
+  </programme>
+  <programme start="20210109123000 +0700" stop="20210109131500 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Vpop 30p
+ Số 932</title>
+  </programme>
+  <programme start="20210109131500 +0700" stop="20210109133000 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Ost 30p
+ Số 500 Phát lại</title>
+  </programme>
+  <programme start="20210109133000 +0700" stop="20210109141500 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Nhạc mới 30p
+ Số 932</title>
+  </programme>
+  <programme start="20210109141500 +0700" stop="20210109143000 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Retro 30p
+ Số 932</title>
+  </programme>
+  <programme start="20210109143000 +0700" stop="20210109161500 +0700" channel="VTVcab 15">
+    <title lang="vi">Nhạc Hàn tuyển chọn
+ Số 6</title>
+  </programme>
+  <programme start="20210109161500 +0700" stop="20210109163000 +0700" channel="VTVcab 15">
+    <title lang="vi">Nhạc trẻ
+ Số 44</title>
+  </programme>
+  <programme start="20210109163000 +0700" stop="20210109171500 +0700" channel="VTVcab 15">
+    <title lang="vi">Nhạc trữ tình 30p
+ Số 6</title>
+  </programme>
+  <programme start="20210109171500 +0700" stop="20210109181500 +0700" channel="VTVcab 15">
+    <title lang="vi">ONSL - Những bài hát hay nhất  60p
+ Số 40</title>
+  </programme>
+  <programme start="20210109181500 +0700" stop="20210109191500 +0700" channel="VTVcab 15">
+    <title lang="vi">ONSL - Wren Evans  60p</title>
+  </programme>
+  <programme start="20210109191500 +0700" stop="20210109194500 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Asia 30p
+ Số 401</title>
+  </programme>
+  <programme start="20210109194500 +0700" stop="20210109201500 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Vpop 30p
+ Số 932</title>
+  </programme>
+  <programme start="20210109201500 +0700" stop="20210109203000 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Ost 30p
+ Số 500 Phát lại</title>
+  </programme>
+  <programme start="20210109203000 +0700" stop="20210109211500 +0700" channel="VTVcab 15">
+    <title lang="vi">Block Nhạc mới 30p
+ Số 932</title>
+  </programme>
+  <programme start="20210109211500 +0700" stop="20210109221500 +0700" channel="VTVcab 15">
+    <title lang="vi">ONSL -  60p (VOD)</title>
+  </programme>
+  <programme start="20210109221500 +0700" stop="20210109223000 +0700" channel="VTVcab 15">
+    <title lang="vi">Nhạc EDM 30p
+ Số 6</title>
+  </programme>
+  <programme start="20210109223000 +0700" stop="20210109231500 +0700" channel="VTVcab 15">
+    <title lang="vi">Nhạc trữ tình 30p
+ Số 6</title>
+  </programme>
+  <programme start="20210109231500 +0700" stop="20210109233000 +0700" channel="VTVcab 15">
+    <title lang="vi">Nhạc trẻ
+ Số 44</title>
+  </programme>
+  <programme start="20210109000000 +0700" stop="20210109001500 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Bản tin  Thể thao Việt Nam 19H45 Plại</title>
+  </programme>
+  <programme start="20210109001500 +0700" stop="20210109004500 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Bản tin ( 20H)</title>
+  </programme>
+  <programme start="20210109004500 +0700" stop="20210109023000 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">VĐQG Tây Ban Nha - La Liga 20/21 Vòng 17</title>
+  </programme>
+  <programme start="20210109023000 +0700" stop="20210109030000 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Bản tin ( 20H)</title>
+  </programme>
+  <programme start="20210109030000 +0700" stop="20210109050000 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">VĐQG Tây Ban Nha - La Liga 20/21 Vòng 18</title>
+  </programme>
+  <programme start="20210109050000 +0700" stop="20210109053000 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">LaLiga World 1-21</title>
+  </programme>
+  <programme start="20210109053000 +0700" stop="20210109054500 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Bản tin  Thể thao Việt Nam 19H45 Plại</title>
+  </programme>
+  <programme start="20210109054500 +0700" stop="20210109060000 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Thể thao &amp; Thời tiết Mới</title>
+  </programme>
+  <programme start="20210109060000 +0700" stop="20210109061500 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Bản tin Thế giới thể thao ( 6H) Live</title>
+  </programme>
+  <programme start="20210109061500 +0700" stop="20210109063000 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Bản tin  Thể thao Việt Nam 19H45 Plại</title>
+  </programme>
+  <programme start="20210109063000 +0700" stop="20210109081500 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">VĐQG Tây Ban Nha - La Liga 20/21 Vòng 18</title>
+  </programme>
+  <programme start="20210109081500 +0700" stop="20210109083000 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Bản tin Thế giới thể thao ( 6H) Plại</title>
+  </programme>
+  <programme start="20210109083000 +0700" stop="20210109084500 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Bản tin  Thể thao Việt Nam 19H45 Plại</title>
+  </programme>
+  <programme start="20210109084500 +0700" stop="20210109103000 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Giải VĐQG Đức 2020/21 Vòng 14</title>
+  </programme>
+  <programme start="20210109103000 +0700" stop="20210109111500 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Nhà Vô Địch 1-21 Phát lại</title>
+  </programme>
+  <programme start="20210109111500 +0700" stop="20210109113000 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Vleague Guide : CLB Hà Nội tìm lại đỉnh vinh quang</title>
+  </programme>
+  <programme start="20210109113000 +0700" stop="20210109114500 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Bản tin Thể thao Việt Nam 11H30 Live</title>
+  </programme>
+  <programme start="20210109114500 +0700" stop="20210109120000 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Bản tin Thế giới thể thao ( 6H) Plại</title>
+  </programme>
+  <programme start="20210109120000 +0700" stop="20210109121500 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Thể thao &amp; Thời tiết</title>
+  </programme>
+  <programme start="20210109121500 +0700" stop="20210109124500 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Laliga Show 1-21</title>
+  </programme>
+  <programme start="20210109124500 +0700" stop="20210109143000 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">VĐQG Tây Ban Nha - La Liga 20/21  Vòng 18</title>
+  </programme>
+  <programme start="20210109143000 +0700" stop="20210109144500 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Bản tin  Thể thao Việt Nam 11H30 Plại</title>
+  </programme>
+  <programme start="20210109144500 +0700" stop="20210109150000 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Thể thao &amp; Thời tiết</title>
+  </programme>
+  <programme start="20210109150000 +0700" stop="20210109164500 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Giải VĐQG Đức 2020/21 Vòng 15</title>
+  </programme>
+  <programme start="20210109164500 +0700" stop="20210109170000 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Bản tin Thế giới thể thao ( 6H) Plại</title>
+  </programme>
+  <programme start="20210109170000 +0700" stop="20210109174500 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Nhà Vô Địch 1-21 Phát lại</title>
+  </programme>
+  <programme start="20210109174500 +0700" stop="20210109180000 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Bản tin  Thể thao Việt Nam 11H30 Plại</title>
+  </programme>
+  <programme start="20210109180000 +0700" stop="20210109190000 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">TH VĐQG Tây Ban Nha 2020/21</title>
+  </programme>
+  <programme start="20210109190000 +0700" stop="20210109193000 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Laliga Show 1-21</title>
+  </programme>
+  <programme start="20210109193000 +0700" stop="20210109194500 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Laliga Show 2020/21</title>
+  </programme>
+  <programme start="20210109194500 +0700" stop="20210109200000 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Talkshow Vòng 18 Live</title>
+  </programme>
+  <programme start="20210109200000 +0700" stop="20210109220000 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">VĐQG Tây Ban Nha - La Liga 20/21 Vòng 18</title>
+  </programme>
+  <programme start="20210109220000 +0700" stop="20210109221500 +0700" channel="VTVcab 16 - Bóng đá TV">
+    <title lang="vi">Laliga Show (sau trận) Live</title>
+  </programme>
+  <programme start="20210109000000 +0700" stop="20210109003000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Người thứ 3</title>
+  </programme>
+  <programme start="20210109003000 +0700" stop="20210109010000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Đi cùng DuyPL</title>
+  </programme>
+  <programme start="20210109010000 +0700" stop="20210109013000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Ẩm thực quanh ta</title>
+  </programme>
+  <programme start="20210109013000 +0700" stop="20210109014500 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Thành phố tôi yêu</title>
+  </programme>
+  <programme start="20210109014500 +0700" stop="20210109020000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Nhật Ký vợ chồng son</title>
+  </programme>
+  <programme start="20210109020000 +0700" stop="20210109023000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Không gian xanh</title>
+  </programme>
+  <programme start="20210109023000 +0700" stop="20210109030000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Đi cùng DuyPL</title>
+  </programme>
+  <programme start="20210109030000 +0700" stop="20210109033000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Lặng nhìn cuộc sống</title>
+  </programme>
+  <programme start="20210109033000 +0700" stop="20210109040000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Bạn đường hợp ý</title>
+  </programme>
+  <programme start="20210109040000 +0700" stop="20210109041500 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Thành phố tôi yêu</title>
+  </programme>
+  <programme start="20210109041500 +0700" stop="20210109043000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Nhật Ký vợ chồng son</title>
+  </programme>
+  <programme start="20210109043000 +0700" stop="20210109050000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Không gian xanh</title>
+  </programme>
+  <programme start="20210109050000 +0700" stop="20210109053000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Ẩm thực quanh ta</title>
+  </programme>
+  <programme start="20210109053000 +0700" stop="20210109060000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Đi cùng DuyPL</title>
+  </programme>
+  <programme start="20210109060000 +0700" stop="20210109063000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Không gian xanh</title>
+  </programme>
+  <programme start="20210109063000 +0700" stop="20210109064500 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Thành phố tôi yêu</title>
+  </programme>
+  <programme start="20210109064500 +0700" stop="20210109070000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Nhật Ký vợ chồng son</title>
+  </programme>
+  <programme start="20210109070000 +0700" stop="20210109073000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Đi cùng DuyPL</title>
+  </programme>
+  <programme start="20210109073000 +0700" stop="20210109080000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Hành khách bất ngờ PL</title>
+  </programme>
+  <programme start="20210109080000 +0700" stop="20210109083000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Bạn đường hợp ý</title>
+  </programme>
+  <programme start="20210109083000 +0700" stop="20210109090000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Lặng nhìn cuộc sống</title>
+  </programme>
+  <programme start="20210109090000 +0700" stop="20210109093000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">CA NHẠC (PL)</title>
+  </programme>
+  <programme start="20210109093000 +0700" stop="20210109100000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Cháo trắng</title>
+  </programme>
+  <programme start="20210109100000 +0700" stop="20210109110000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Nhạc theo chủ đề</title>
+  </programme>
+  <programme start="20210109110000 +0700" stop="20210109113000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Bạn muốn hẹn hò</title>
+  </programme>
+  <programme start="20210109113000 +0700" stop="20210109123000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Đường cung yến</title>
+  </programme>
+  <programme start="20210109123000 +0700" stop="20210109133000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Cuộc đối đầu sui gia</title>
+  </programme>
+  <programme start="20210109133000 +0700" stop="20210109140000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Du ký cùng hoa hậu</title>
+  </programme>
+  <programme start="20210109140000 +0700" stop="20210109143000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Bạn đường hợp ý</title>
+  </programme>
+  <programme start="20210109143000 +0700" stop="20210109144500 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Thành phố tôi yêu</title>
+  </programme>
+  <programme start="20210109144500 +0700" stop="20210109150000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Nhật Ký vợ chồng son</title>
+  </programme>
+  <programme start="20210109150000 +0700" stop="20210109160000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Sắc màu âm nhạc</title>
+  </programme>
+  <programme start="20210109160000 +0700" stop="20210109163000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Ống kính</title>
+  </programme>
+  <programme start="20210109163000 +0700" stop="20210109170000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Vợ chồng son</title>
+  </programme>
+  <programme start="20210109170000 +0700" stop="20210109173000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Đi cùng DuyPL</title>
+  </programme>
+  <programme start="20210109173000 +0700" stop="20210109180000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Không gian xanh</title>
+  </programme>
+  <programme start="20210109180000 +0700" stop="20210109183000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Lặng nhìn cuộc sống</title>
+  </programme>
+  <programme start="20210109183000 +0700" stop="20210109193000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Biển đời giông tố</title>
+  </programme>
+  <programme start="20210109193000 +0700" stop="20210109194500 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Thành phố tôi yêu</title>
+  </programme>
+  <programme start="20210109194500 +0700" stop="20210109200000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Nhật Ký vợ chồng son</title>
+  </programme>
+  <programme start="20210109200000 +0700" stop="20210109203000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Ẩm thực quanh ta</title>
+  </programme>
+  <programme start="20210109203000 +0700" stop="20210109210000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Ranh giới</title>
+  </programme>
+  <programme start="20210109210000 +0700" stop="20210109220000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Ban Thục truyền kỳ</title>
+  </programme>
+  <programme start="20210109220000 +0700" stop="20210109223000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Giải mã kỳ tài</title>
+  </programme>
+  <programme start="20210109223000 +0700" stop="20210109230000 +0700" channel="VTVcab 17 - Yeah1 TV">
+    <title lang="vi">Đi cùng DuyPL</title>
+  </programme>
+  <programme start="20210109000000 +0700" stop="20210109003000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">LaLiga World 1-21</title>
+  </programme>
+  <programme start="20210109003000 +0700" stop="20210109021500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">VĐQG Tây Ban Nha - La Liga 20/21 Vòng 2 đá bù</title>
+  </programme>
+  <programme start="20210109021500 +0700" stop="20210109024500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Tổng hợp hạng nhất Anh 20/21</title>
+  </programme>
+  <programme start="20210109024500 +0700" stop="20210109044500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Hạng nhất Anh 2020/21 Vòng 23</title>
+  </programme>
+  <programme start="20210109044500 +0700" stop="20210109050000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin onsports 19 plại</title>
+  </programme>
+  <programme start="20210109050000 +0700" stop="20210109051500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin  Thể thao Việt Nam 19H45 Plại</title>
+  </programme>
+  <programme start="20210109051500 +0700" stop="20210109054500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">V - League World 2020 1-21</title>
+  </programme>
+  <programme start="20210109054500 +0700" stop="20210109060000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Thể thao &amp; Thời tiết Mới</title>
+  </programme>
+  <programme start="20210109060000 +0700" stop="20210109061500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin Thế giới thể thao ( 6H) Live</title>
+  </programme>
+  <programme start="20210109061500 +0700" stop="20210109063000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin  Thể thao Việt Nam 19H45 Plại</title>
+  </programme>
+  <programme start="20210109063000 +0700" stop="20210109070000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">ATP Tour Uncovered 1-21</title>
+  </programme>
+  <programme start="20210109070000 +0700" stop="20210109071500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin Thế giới thể thao ( 6H) Plại</title>
+  </programme>
+  <programme start="20210109071500 +0700" stop="20210109073000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin Golfing World Plại</title>
+  </programme>
+  <programme start="20210109073000 +0700" stop="20210109074500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin onsports 19h plại</title>
+  </programme>
+  <programme start="20210109074500 +0700" stop="20210109080000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin  Thể thao Việt Nam 19H45 Plại</title>
+  </programme>
+  <programme start="20210109080000 +0700" stop="20210109081500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin Thế giới thể thao ( 6H) Plại</title>
+  </programme>
+  <programme start="20210109081500 +0700" stop="20210109084500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Thể thao &amp; Thời tiết</title>
+  </programme>
+  <programme start="20210109084500 +0700" stop="20210109091500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">BÙI VĨNH GIA (HLV KHUYẾT TẬT) Phát lại</title>
+  </programme>
+  <programme start="20210109091500 +0700" stop="20210109093000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin  Thể thao Việt Nam 19H45 Plại</title>
+  </programme>
+  <programme start="20210109093000 +0700" stop="20210109100000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">V - League World 2020 1-21</title>
+  </programme>
+  <programme start="20210109100000 +0700" stop="20210109101500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin onsports 19h plại</title>
+  </programme>
+  <programme start="20210109101500 +0700" stop="20210109103000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin  Thể thao Việt Nam 19H45 Plại</title>
+  </programme>
+  <programme start="20210109103000 +0700" stop="20210109104500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin Thế giới thể thao ( 6H) Plại</title>
+  </programme>
+  <programme start="20210109104500 +0700" stop="20210109110000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Thể thao &amp; Thời tiết</title>
+  </programme>
+  <programme start="20210109110000 +0700" stop="20210109113000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">LaLiga World 1-21</title>
+  </programme>
+  <programme start="20210109113000 +0700" stop="20210109114500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin Thể thao Việt Nam 11H30 Live</title>
+  </programme>
+  <programme start="20210109114500 +0700" stop="20210109120000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin Thế giới thể thao ( 6H) Plại</title>
+  </programme>
+  <programme start="20210109120000 +0700" stop="20210109121500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Thể thao &amp; Thời tiết</title>
+  </programme>
+  <programme start="20210109121500 +0700" stop="20210109123000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin onsports 12 plại</title>
+  </programme>
+  <programme start="20210109123000 +0700" stop="20210109130000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">V - League World 2020 1-21</title>
+  </programme>
+  <programme start="20210109130000 +0700" stop="20210109144500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">GIẢI BÓNG CHUYỀN VĐQG 2020 Bảng D Nam</title>
+  </programme>
+  <programme start="20210109144500 +0700" stop="20210109151500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">LaLiga World 1-21</title>
+  </programme>
+  <programme start="20210109151500 +0700" stop="20210109153000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin  Thể thao Việt Nam 11H30 Plại</title>
+  </programme>
+  <programme start="20210109153000 +0700" stop="20210109154500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin Golfing World Plại</title>
+  </programme>
+  <programme start="20210109154500 +0700" stop="20210109160000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin onsports 12 plại</title>
+  </programme>
+  <programme start="20210109160000 +0700" stop="20210109164500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Đặng Phương Nam Show</title>
+  </programme>
+  <programme start="20210109164500 +0700" stop="20210109183000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">GIẢI BÓNG CHUYỀN VĐQG 2020 Bảng D Nam</title>
+  </programme>
+  <programme start="20210109183000 +0700" stop="20210109184500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin Thế giới thể thao ( 6H) Plại</title>
+  </programme>
+  <programme start="20210109184500 +0700" stop="20210109191500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Tạp chí Cầu lông 53-20</title>
+  </programme>
+  <programme start="20210109191500 +0700" stop="20210109200000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Nhà Vô Địch 1-21 Phát lại</title>
+  </programme>
+  <programme start="20210109200000 +0700" stop="20210109201500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bản tin Golfing World Plại</title>
+  </programme>
+  <programme start="20210109201500 +0700" stop="20210109204500 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Bundesliga Weekly 1-21</title>
+  </programme>
+  <programme start="20210109204500 +0700" stop="20210109213000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Sôi động Bundesliga 20/21 Vòng 15 Mới</title>
+  </programme>
+  <programme start="20210109213000 +0700" stop="20210109233000 +0700" channel="VTVcab 18 - Thể thao Tin tức HD">
+    <title lang="vi">Giải VĐQG Đức 2020/21 Vòng 15</title>
+  </programme>
+  <programme start="20210109000000 +0700" stop="20210109010000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Cuộc chiến thừa kế</title>
+  </programme>
+  <programme start="20210109010000 +0700" stop="20210109020000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Quý bà cảnh sát</title>
+  </programme>
+  <programme start="20210109020000 +0700" stop="20210109030000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Nghe Trà</title>
+  </programme>
+  <programme start="20210109030000 +0700" stop="20210109040000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Tế công P1</title>
+  </programme>
+  <programme start="20210109040000 +0700" stop="20210109050000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Tế công P1</title>
+  </programme>
+  <programme start="20210109050000 +0700" stop="20210109060000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Quý bà cảnh sát</title>
+  </programme>
+  <programme start="20210109060000 +0700" stop="20210109070000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Cuộc chiến thừa kế</title>
+  </programme>
+  <programme start="20210109070000 +0700" stop="20210109080000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Nghe Trà</title>
+  </programme>
+  <programme start="20210109080000 +0700" stop="20210109090000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Tế công P1</title>
+  </programme>
+  <programme start="20210109090000 +0700" stop="20210109100000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Tế công P1</title>
+  </programme>
+  <programme start="20210109100000 +0700" stop="20210109110000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Quý bà cảnh sát</title>
+  </programme>
+  <programme start="20210109110000 +0700" stop="20210109120000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Cuộc chiến thừa kế</title>
+  </programme>
+  <programme start="20210109120000 +0700" stop="20210109130000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Quý bà cảnh sát</title>
+  </programme>
+  <programme start="20210109130000 +0700" stop="20210109140000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Nghe Trà</title>
+  </programme>
+  <programme start="20210109140000 +0700" stop="20210109150000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Tế công P1</title>
+  </programme>
+  <programme start="20210109150000 +0700" stop="20210109160000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Tế công P1</title>
+  </programme>
+  <programme start="20210109160000 +0700" stop="20210109170000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Quý bà cảnh sát</title>
+  </programme>
+  <programme start="20210109170000 +0700" stop="20210109180000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Luật giang hồ</title>
+  </programme>
+  <programme start="20210109180000 +0700" stop="20210109190000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Quý bà cảnh sát</title>
+  </programme>
+  <programme start="20210109190000 +0700" stop="20210109194500 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Cuộc chiến thừa kế</title>
+  </programme>
+  <programme start="20210109194500 +0700" stop="20210109200000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Dọc đường đen trắng</title>
+  </programme>
+  <programme start="20210109200000 +0700" stop="20210109210000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Tế công P1</title>
+  </programme>
+  <programme start="20210109210000 +0700" stop="20210109220000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Tế công P1</title>
+  </programme>
+  <programme start="20210109220000 +0700" stop="20210109230000 +0700" channel="VTVcab 19 - Kênh Phim">
+    <title lang="vi">Cuộc chiến thừa kế</title>
+  </programme>
+  <programme start="20210109000000 +0700" stop="20210109003000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Vitamin Cho Cuộc Sống</title>
+  </programme>
+  <programme start="20210109003000 +0700" stop="20210109011500 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Phim Ký Ức Ngọt Ngào (Hàn Quốc - 118 tập - Phát mới)</title>
+  </programme>
+  <programme start="20210109011500 +0700" stop="20210109014500 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Hài Kịch</title>
+  </programme>
+  <programme start="20210109014500 +0700" stop="20210109021500 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Nè Biết Gì Chưa</title>
+  </programme>
+  <programme start="20210109021500 +0700" stop="20210109024500 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Quán Cà Phê Âm Nhạc</title>
+  </programme>
+  <programme start="20210109024500 +0700" stop="20210109031500 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Thực Đơn Đỉnh</title>
+  </programme>
+  <programme start="20210109031500 +0700" stop="20210109044500 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Phim Chuyện Của Ren (Việt Nam - 32 tập - Phát lại)</title>
+  </programme>
+  <programme start="20210109044500 +0700" stop="20210109051500 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Hồn Việt</title>
+  </programme>
+  <programme start="20210109051500 +0700" stop="20210109060000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Ca Nhạc VzPhát lạiaylist</title>
+  </programme>
+  <programme start="20210109060000 +0700" stop="20210109063000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Cuộc Phiêu Lưu Kỳ Thú Của Polly Pocket</title>
+  </programme>
+  <programme start="20210109063000 +0700" stop="20210109064500 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Tayo - Xe Buýt Bé Nhỏ S2</title>
+  </programme>
+  <programme start="20210109064500 +0700" stop="20210109070000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Đội Bay Siêu Đẳng (Phần 8)</title>
+  </programme>
+  <programme start="20210109070000 +0700" stop="20210109074500 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Phim Sơn Hải Kinh (Trung Quốc - 42 tập - Phát mới)</title>
+  </programme>
+  <programme start="20210109074500 +0700" stop="20210109080000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Nè Biết Gì Chưa? 888</title>
+  </programme>
+  <programme start="20210109080000 +0700" stop="20210109083000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Làm Đẹp</title>
+  </programme>
+  <programme start="20210109083000 +0700" stop="20210109090000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Sắc Màu Không Gian</title>
+  </programme>
+  <programme start="20210109090000 +0700" stop="20210109100000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Phim Chuyện Của Ren (Việt Nam - 32 tập - Phát lại)</title>
+  </programme>
+  <programme start="20210109100000 +0700" stop="20210109103000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Hài Kịch</title>
+  </programme>
+  <programme start="20210109103000 +0700" stop="20210109105000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Nè Biết Gì Chưa</title>
+  </programme>
+  <programme start="20210109105000 +0700" stop="20210109110000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Sơ Cứu Ban Đầu</title>
+  </programme>
+  <programme start="20210109110000 +0700" stop="20210109120000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Phim Ký Ức Ngọt Ngào (Hàn Quốc - 118 tập - Phát mới)</title>
+  </programme>
+  <programme start="20210109120000 +0700" stop="20210109130000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Phim Sơn Hải Kinh (Trung Quốc - 42 tập - Phát mới)</title>
+  </programme>
+  <programme start="20210109130000 +0700" stop="20210109140000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Phim Chiến Binh Học Đường (Phi - 55 tập - Phát mới)</title>
+  </programme>
+  <programme start="20210109140000 +0700" stop="20210109143000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Cuộc Phiêu Lưu Kỳ Thú Của Polly Pocket</title>
+  </programme>
+  <programme start="20210109143000 +0700" stop="20210109150000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Quán Cà Phê Âm Nhạc</title>
+  </programme>
+  <programme start="20210109150000 +0700" stop="20210109160000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Phim Chuyện Của Ren (Việt Nam - 32 tập - Phát lại)</title>
+  </programme>
+  <programme start="20210109160000 +0700" stop="20210109163000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Ánh Sáng Ngày Mai</title>
+  </programme>
+  <programme start="20210109163000 +0700" stop="20210109170000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Hoàn Thiện Bản Thân</title>
+  </programme>
+  <programme start="20210109170000 +0700" stop="20210109174500 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Phim Sơn Hải Kinh (Trung Quốc - 42 tập - Phát mới)</title>
+  </programme>
+  <programme start="20210109174500 +0700" stop="20210109180000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Trái Tim Cho Em</title>
+  </programme>
+  <programme start="20210109180000 +0700" stop="20210109181500 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Tayo - Xe Buýt Bé Nhỏ S2</title>
+  </programme>
+  <programme start="20210109181500 +0700" stop="20210109183000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Đội Bay Siêu Đẳng (Phần 8)</title>
+  </programme>
+  <programme start="20210109183000 +0700" stop="20210109190000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Cuộc Phiêu Lưu Kỳ Thú Của Polly Pocket</title>
+  </programme>
+  <programme start="20210109190000 +0700" stop="20210109195000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Phim Chuyện Của Ren (Việt Nam - 32 tập - Phát lại)</title>
+  </programme>
+  <programme start="20210109195000 +0700" stop="20210109200000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Cùng Em Đến Trường</title>
+  </programme>
+  <programme start="20210109200000 +0700" stop="20210109210000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Phim Ký Ức Ngọt Ngào (Hàn Quốc - 118 tập - Phát mới)</title>
+  </programme>
+  <programme start="20210109210000 +0700" stop="20210109220000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Phim Chiến Binh Học Đường (Phi - 55 tập - Phát mới)</title>
+  </programme>
+  <programme start="20210109220000 +0700" stop="20210109223000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Nhịp Sống Trẻ</title>
+  </programme>
+  <programme start="20210109223000 +0700" stop="20210109230000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Đi Là Đến</title>
+  </programme>
+  <programme start="20210109230000 +0700" stop="20210109233000 +0700" channel="VTVcab 20 - V Family">
+    <title lang="vi">Ca Nhạc VzPhát lạiaylist</title>
+  </programme>
+  <programme start="20210109000500 +0700" stop="20210109013500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Nghề mới của Kronk</title>
+  </programme>
+  <programme start="20210109013500 +0700" stop="20210109020000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Rô bốt đại chiến-p2</title>
+  </programme>
+  <programme start="20210109020000 +0700" stop="20210109022500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Người mạo hiểm: Bá chủ thời gian-p1</title>
+  </programme>
+  <programme start="20210109022500 +0700" stop="20210109025000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Nhảy cùng Bibi</title>
+  </programme>
+  <programme start="20210109025000 +0700" stop="20210109031500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Ước mơ của bé</title>
+  </programme>
+  <programme start="20210109031500 +0700" stop="20210109034000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Bé thích thể thao(47)</title>
+  </programme>
+  <programme start="20210109034000 +0700" stop="20210109040500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Nhảy cùng Bibi</title>
+  </programme>
+  <programme start="20210109040500 +0700" stop="20210109043000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Ước mơ của bé</title>
+  </programme>
+  <programme start="20210109043000 +0700" stop="20210109045500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Bé thích thể thao(47)</title>
+  </programme>
+  <programme start="20210109045500 +0700" stop="20210109052000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Bữa cơm cho mẹ</title>
+  </programme>
+  <programme start="20210109052000 +0700" stop="20210109054500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Lớp học vui nhộn nhí</title>
+  </programme>
+  <programme start="20210109054500 +0700" stop="20210109071500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Siêu anh hùng ngoại truyện</title>
+  </programme>
+  <programme start="20210109071500 +0700" stop="20210109074000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Liên minh công lý trẻ-p3</title>
+  </programme>
+  <programme start="20210109074000 +0700" stop="20210109081500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Chuyện nhà Loud-p2</title>
+  </programme>
+  <programme start="20210109081500 +0700" stop="20210109084000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Gia đình Croods-p4</title>
+  </programme>
+  <programme start="20210109084000 +0700" stop="20210109090500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Ninja rùa đột biến-p4</title>
+  </programme>
+  <programme start="20210109090500 +0700" stop="20210109093000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Võ sĩ đạo Jack-p1</title>
+  </programme>
+  <programme start="20210109093000 +0700" stop="20210109095500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Đội thám tử nhí-p1</title>
+  </programme>
+  <programme start="20210109095500 +0700" stop="20210109102000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Người dơi: dũng cảm và táo bạo-p1</title>
+  </programme>
+  <programme start="20210109102000 +0700" stop="20210109115000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Atlantis: Sự trở lại củaMilo</title>
+  </programme>
+  <programme start="20210109115000 +0700" stop="20210109121500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Rô bốt đại chiến-p2</title>
+  </programme>
+  <programme start="20210109121500 +0700" stop="20210109124000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Người mạo hiểm: Bá chủ thời gian-p1</title>
+  </programme>
+  <programme start="20210109124000 +0700" stop="20210109130500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Nhảy cùng Bibi</title>
+  </programme>
+  <programme start="20210109130500 +0700" stop="20210109133000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Ước mơ của bé</title>
+  </programme>
+  <programme start="20210109133000 +0700" stop="20210109135500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Bé thích thể thao(47)</title>
+  </programme>
+  <programme start="20210109135500 +0700" stop="20210109142000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Chuyện nhà Loud-p2</title>
+  </programme>
+  <programme start="20210109142000 +0700" stop="20210109155500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Siêu anh hùng ngoại truyện</title>
+  </programme>
+  <programme start="20210109155500 +0700" stop="20210109162000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Gia đình Croods-p4</title>
+  </programme>
+  <programme start="20210109162000 +0700" stop="20210109164500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Ninja rùa đột biến-p4</title>
+  </programme>
+  <programme start="20210109164500 +0700" stop="20210109171000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Võ sĩ đạo Jack-p1</title>
+  </programme>
+  <programme start="20210109171000 +0700" stop="20210109173500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Đội thám tử nhí-p1</title>
+  </programme>
+  <programme start="20210109173500 +0700" stop="20210109180000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Người dơi: dũng cảm và táo bạo-p1</title>
+  </programme>
+  <programme start="20210109180000 +0700" stop="20210109193000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Nghề mới của Kronk</title>
+  </programme>
+  <programme start="20210109193000 +0700" stop="20210109195500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Rô bốt đại chiến-p2</title>
+  </programme>
+  <programme start="20210109195500 +0700" stop="20210109202000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Người mạo hiểm: Bá chủ thời gian-p1</title>
+  </programme>
+  <programme start="20210109202000 +0700" stop="20210109204500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Nhảy cùng Bibi</title>
+  </programme>
+  <programme start="20210109204500 +0700" stop="20210109211000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Ước mơ của bé</title>
+  </programme>
+  <programme start="20210109211000 +0700" stop="20210109213500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Bé thích thể thao(47)</title>
+  </programme>
+  <programme start="20210109213500 +0700" stop="20210109220000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Bữa cơm cho mẹ</title>
+  </programme>
+  <programme start="20210109220000 +0700" stop="20210109222500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Lớp học vui nhộn nhí</title>
+  </programme>
+  <programme start="20210109222500 +0700" stop="20210109225000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Nhảy cùng Bibi</title>
+  </programme>
+  <programme start="20210109225000 +0700" stop="20210109231500 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Ước mơ của bé</title>
+  </programme>
+  <programme start="20210109231500 +0700" stop="20210109234000 +0700" channel="VTVcab 21 - Cartoon Kids">
+    <title lang="vi">Bé thích thể thao(47)</title>
+  </programme>
+  <programme start="20210109000000 +0700" stop="20210109003000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Nhật kí Ol Pejeta S1</title>
+  </programme>
+  <programme start="20210109003000 +0700" stop="20210109005000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Nhật kí Ol Pejeta S1</title>
+  </programme>
+  <programme start="20210109005000 +0700" stop="20210109014000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Vệ sỹ thiên nhiên S1</title>
+  </programme>
+  <programme start="20210109014000 +0700" stop="20210109023000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Trường học rừng xanh của đười ươiS1</title>
+  </programme>
+  <programme start="20210109023000 +0700" stop="20210109032000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Động vật ăn thịt Carpathian S1</title>
+  </programme>
+  <programme start="20210109032000 +0700" stop="20210109041000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Hoả ngục Ả rậpS1</title>
+  </programme>
+  <programme start="20210109041000 +0700" stop="20210109050000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Những giác quan siêu đẳng S1</title>
+  </programme>
+  <programme start="20210109050000 +0700" stop="20210109060000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Chuyện kể từ Zambia S1</title>
+  </programme>
+  <programme start="20210109060000 +0700" stop="20210109063000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Miền Đông hoang dã S1</title>
+  </programme>
+  <programme start="20210109063000 +0700" stop="20210109072000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Vệ sỹ thiên nhiên S2</title>
+  </programme>
+  <programme start="20210109072000 +0700" stop="20210109081000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Trường học rừng xanh của đười ươiS2</title>
+  </programme>
+  <programme start="20210109081000 +0700" stop="20210109083000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Văn hóa ẩm thực (53)</title>
+  </programme>
+  <programme start="20210109083000 +0700" stop="20210109090000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Làng nghề Việt (56)</title>
+  </programme>
+  <programme start="20210109090000 +0700" stop="20210109093000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Văn hóa dân tộc (55)</title>
+  </programme>
+  <programme start="20210109093000 +0700" stop="20210109095000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Khoảnh khắc hành trình hơn 25 năm thế kỷ (48)</title>
+  </programme>
+  <programme start="20210109095000 +0700" stop="20210109101000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Thực đơn 1102 (87)</title>
+  </programme>
+  <programme start="20210109101000 +0700" stop="20210109104000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Không gian xanh 2020 (26)</title>
+  </programme>
+  <programme start="20210109104000 +0700" stop="20210109110000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Về chốn linh thiêng (60)</title>
+  </programme>
+  <programme start="20210109110000 +0700" stop="20210109113000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Sách và cuộc sống (147)</title>
+  </programme>
+  <programme start="20210109113000 +0700" stop="20210109122000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Muôn màu cuộc sống (60)</title>
+  </programme>
+  <programme start="20210109122000 +0700" stop="20210109124000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Văn hóa ẩm thực (53)</title>
+  </programme>
+  <programme start="20210109124000 +0700" stop="20210109131000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Khoảnh khắc hành trình hơn 25 năm thế kỷ (48)</title>
+  </programme>
+  <programme start="20210109131000 +0700" stop="20210109133000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Văn hóa dân tộc (55)</title>
+  </programme>
+  <programme start="20210109133000 +0700" stop="20210109140000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Việt Nam đất nước con người (265)</title>
+  </programme>
+  <programme start="20210109140000 +0700" stop="20210109143000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Thực đơn 1102 (87)</title>
+  </programme>
+  <programme start="20210109143000 +0700" stop="20210109145000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Du lịch xanh (30)</title>
+  </programme>
+  <programme start="20210109145000 +0700" stop="20210109151000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Hành trình khám phá</title>
+  </programme>
+  <programme start="20210109151000 +0700" stop="20210109154000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Không gian xanh</title>
+  </programme>
+  <programme start="20210109154000 +0700" stop="20210109160000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Tour de Việt Nam</title>
+  </programme>
+  <programme start="20210109160000 +0700" stop="20210109163000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Sách và cuộc sống (147)</title>
+  </programme>
+  <programme start="20210109163000 +0700" stop="20210109172000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Khám phá Ấn Độ hoang dã S1</title>
+  </programme>
+  <programme start="20210109172000 +0700" stop="20210109181000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Hành trình sự sống S1  Ep 3</title>
+  </programme>
+  <programme start="20210109181000 +0700" stop="20210109190000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Một năm hoang dã trên Trái đất S1</title>
+  </programme>
+  <programme start="20210109190000 +0700" stop="20210109195000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Một năm hoang dã trên Trái đất S1  Ep 2</title>
+  </programme>
+  <programme start="20210109195000 +0700" stop="20210109204000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Những người bạn động vật tuyệt vờiS1</title>
+  </programme>
+  <programme start="20210109204000 +0700" stop="20210109213000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Những người bạn động vật tuyệt vờiS1</title>
+  </programme>
+  <programme start="20210109213000 +0700" stop="20210109222000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Những người bạn động vật tuyệt vờiS1</title>
+  </programme>
+  <programme start="20210109222000 +0700" stop="20210109231000 +0700" channel="VTVcab 22 - LifeTV">
+    <title lang="vi">Một năm hoang dã trên Trái đất S1</title>
+  </programme>
+  <programme start="20210109000000 +0700" stop="20210109003000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Thế giới Golf</title>
+  </programme>
+  <programme start="20210109003000 +0700" stop="20210109004500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Golfing World: Jon Hearn &amp; Donaldson</title>
+  </programme>
+  <programme start="20210109004500 +0700" stop="20210109010000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Bản tin Golfing World Phát lại</title>
+  </programme>
+  <programme start="20210109010000 +0700" stop="20210109031500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">European Tour 2020 Aberdeen Standard Investments Scottish Open Ngày 3</title>
+  </programme>
+  <programme start="20210109031500 +0700" stop="20210109033000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Bản tin Golfing World Phát lại</title>
+  </programme>
+  <programme start="20210109033000 +0700" stop="20210109040000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Huyền thoại Golf</title>
+  </programme>
+  <programme start="20210109040000 +0700" stop="20210109041500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Golfing World: Royal Lytham &amp; St Annes</title>
+  </programme>
+  <programme start="20210109041500 +0700" stop="20210109044500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Thế giới Golf</title>
+  </programme>
+  <programme start="20210109044500 +0700" stop="20210109050000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Golfing World: Musselburg</title>
+  </programme>
+  <programme start="20210109050000 +0700" stop="20210109053000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Tổng hợp Golf</title>
+  </programme>
+  <programme start="20210109053000 +0700" stop="20210109054500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Không phải ai cũng biết: Dạy Golf - FLC số 7</title>
+  </programme>
+  <programme start="20210109054500 +0700" stop="20210109060000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Golfing World: Colin Morikawa</title>
+  </programme>
+  <programme start="20210109060000 +0700" stop="20210109063000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Huyền thoại Golf</title>
+  </programme>
+  <programme start="20210109063000 +0700" stop="20210109064500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Bản tin Golfing World Phát lại</title>
+  </programme>
+  <programme start="20210109064500 +0700" stop="20210109071500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Huyền thoại Golf</title>
+  </programme>
+  <programme start="20210109071500 +0700" stop="20210109073000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Golfing World: David Cannon &amp; Bunker shots</title>
+  </programme>
+  <programme start="20210109073000 +0700" stop="20210109103000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Tường Thuật Golf Viêt Nam 2021 Tân Hoàng Minh Golf Championship Ngày 2</title>
+  </programme>
+  <programme start="20210109103000 +0700" stop="20210109104500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Giới thiệu sân Golf FLC Sầm Sơn</title>
+  </programme>
+  <programme start="20210109104500 +0700" stop="20210109110000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Bản tin Golfing World Phát lại</title>
+  </programme>
+  <programme start="20210109110000 +0700" stop="20210109113000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Huyền thoại Golf</title>
+  </programme>
+  <programme start="20210109113000 +0700" stop="20210109114500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Bản tin Golfing World Live</title>
+  </programme>
+  <programme start="20210109114500 +0700" stop="20210109120000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Không phải ai cũng biết: Dạy Golf - FLC số 11</title>
+  </programme>
+  <programme start="20210109120000 +0700" stop="20210109121500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Golfing World: Whispering Pines</title>
+  </programme>
+  <programme start="20210109121500 +0700" stop="20210109124500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Huyền thoại Golf</title>
+  </programme>
+  <programme start="20210109124500 +0700" stop="20210109130000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Golfing World: Royal Lytham &amp; St Annes</title>
+  </programme>
+  <programme start="20210109130000 +0700" stop="20210109131500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Bản tin Golfing World Phát lại</title>
+  </programme>
+  <programme start="20210109131500 +0700" stop="20210109133000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Không phải ai cũng biết: Dạy Golf - FLC số 25</title>
+  </programme>
+  <programme start="20210109133000 +0700" stop="20210109163000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Tường Thuật Golf Viêt Nam 2021 Tân Hoàng Minh Golf Championship Ngày 2</title>
+  </programme>
+  <programme start="20210109163000 +0700" stop="20210109164500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Bản tin Golfing World Phát lại</title>
+  </programme>
+  <programme start="20210109164500 +0700" stop="20210109170000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Golfing World: Colin Morikawa</title>
+  </programme>
+  <programme start="20210109170000 +0700" stop="20210109171500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Không phải ai cũng biết: Dạy Golf - FLC số 24</title>
+  </programme>
+  <programme start="20210109171500 +0700" stop="20210109174500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Huyền thoại Golf</title>
+  </programme>
+  <programme start="20210109174500 +0700" stop="20210109180000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Bản tin Golfing World Phát lại</title>
+  </programme>
+  <programme start="20210109180000 +0700" stop="20210109181500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Không phải ai cũng biết: Dạy Golf FLC số 11</title>
+  </programme>
+  <programme start="20210109181500 +0700" stop="20210109183000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Golfing World: David Cannon &amp; Bunker shots</title>
+  </programme>
+  <programme start="20210109183000 +0700" stop="20210109184500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Giới thiệu sân Golf FLC Sầm Sơn</title>
+  </programme>
+  <programme start="20210109184500 +0700" stop="20210109190000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Không phải ai cũng biết: Dạy Golf - FLC số 7</title>
+  </programme>
+  <programme start="20210109190000 +0700" stop="20210109191500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Golfing World: Royal Lytham &amp; St Annes</title>
+  </programme>
+  <programme start="20210109191500 +0700" stop="20210109194500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Thế giới Golf</title>
+  </programme>
+  <programme start="20210109194500 +0700" stop="20210109200000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Golfing World: Whispering Pines</title>
+  </programme>
+  <programme start="20210109200000 +0700" stop="20210109203000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Huyền thoại Golf</title>
+  </programme>
+  <programme start="20210109203000 +0700" stop="20210109204500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Bản tin Golfing World Phát lại</title>
+  </programme>
+  <programme start="20210109204500 +0700" stop="20210109210000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Golfing World: Whispering Pines</title>
+  </programme>
+  <programme start="20210109210000 +0700" stop="20210109231500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">European Tour 2020 Aberdeen Standard Investments Scottish Open Ngày 3</title>
+  </programme>
+  <programme start="20210109231500 +0700" stop="20210109233000 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Bản tin Golfing World Phát lại</title>
+  </programme>
+  <programme start="20210109233000 +0700" stop="20210109234500 +0700" channel="VTVcab 23 - Thể thao Golf">
+    <title lang="vi">Không phải ai cũng biết: Dạy Golf - FLC số 24</title>
+  </programme>
+</tv>
