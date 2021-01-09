@@ -2,11 +2,9 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="VTVcab 1 -  Vie GIẢITRÍ">
     <display-name lang="vi">VTVcab 1 -  Vie GIẢITRÍ</display-name>
-    <url>http://www.dichvu.vtvcab.vn</url>
   </channel>
   <channel id="VTVcab 2 - Phim Việt">
     <display-name lang="vi">VTVcab 2 - Phim Việt</display-name>
-    <url>http://www.dichvu.vtvcab.vn</url>
   </channel>
   <channel id="VTVcab 3 - Thể Thao TV">
     <display-name lang="vi">VTVcab 3 - Thể Thao TV</display-name>
@@ -234,7 +232,6 @@
   </channel>
   <channel id="VTV1 HD">
     <display-name lang="vi">VTV1 HD</display-name>
-    <url>http://www.ftpplay.net</url>
   </channel>
   <channel id="VTV3 HD">
     <display-name lang="vi">VTV3 HD</display-name>
