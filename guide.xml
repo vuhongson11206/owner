@@ -2,123 +2,123 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="SCTV8-VITV-Kinh te Tai chinh">
     <display-name lang="vi">SCTV8-VITV-Kinh te Tai chinh</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="ABC Australia">
     <display-name lang="vi">ABC Australia</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="Animal planet">
     <display-name lang="vi">Animal planet</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="ANTV">
     <display-name lang="vi">ANTV</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="AXN">
     <display-name lang="vi">AXN</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="BBC World News">
     <display-name lang="vi">BBC World News</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="Bloomberg">
     <display-name lang="vi">Bloomberg</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="BTV3 HD">
     <display-name lang="vi">BTV3 HD</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="BTV5 HD">
     <display-name lang="vi">BTV5 HD</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="Cartoon Network">
     <display-name lang="vi">Cartoon Network</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="CNN">
     <display-name lang="vi">CNN</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="Discovery Asia">
     <display-name lang="vi">Discovery Asia</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="Discovery Channel">
     <display-name lang="vi">Discovery Channel</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="DW">
     <display-name lang="vi">DW</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="Fashion TV">
     <display-name lang="vi">Fashion TV</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="Fox Sport">
     <display-name lang="vi">Fox Sport</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="FOX SPORTS 2">
     <display-name lang="vi">FOX SPORTS 2</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="HTV 2">
     <display-name lang="vi">HTV 2</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="HTV 3">
     <display-name lang="vi">HTV 3</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="HTV7 HD">
     <display-name lang="vi">HTV7 HD</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="HTV9 HD">
     <display-name lang="vi">HTV9 HD</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="KBS World">
     <display-name lang="vi">KBS World</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="Quốc Hội Việt Nam">
     <display-name lang="vi">Quốc Hội Việt Nam</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="Quốc Phòng Việt Nam">
     <display-name lang="vi">Quốc Phòng Việt Nam</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="SCTV 1 HD - Hài">
     <display-name lang="vi">SCTV 1 HD - Hài</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="SCTV 10">
     <display-name lang="vi">SCTV 10</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="SCTV 11 HD">
     <display-name lang="vi">SCTV 11 HD</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="SCTV 12 HD - Du Lịch">
     <display-name lang="vi">SCTV 12 HD - Du Lịch</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="SCTV 14 HD - Phim Việt">
     <display-name lang="vi">SCTV 14 HD - Phim Việt</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <channel id="SCTV 15 HD - Thể Thao">
     <display-name lang="vi">SCTV 15 HD - Thể Thao</display-name>
-    <url>http://www.tv24.vn</url>
+    
   </channel>
   <programme start="20210110004000 +0700" stop="20210110013500 +0700" channel="Animal planet">
     <title lang="vi">COLD RIVER CASH : TIỀN LẠNH BÊN SÔNG</title>
