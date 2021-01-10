@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/epgvhs3" refresh="3600" m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0 
+#EXTM3U url-tvg="http://gg.gg/epgvhs1" refresh="3600" m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0 
  
 #EXTINF:0 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg?w=282&mode=scale" type="stream" channelId="-1", VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
