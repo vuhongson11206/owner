@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/epgvn03" refresh="3600" m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0
+#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" refresh="3600" m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0
 
 #EXTINF:0 group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg?w=282&mode=scale" type="stream" channelId="-1", VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -228,6 +228,9 @@ https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="Baby First HD" tvg-logo="https://i.imgur.com/s28XuHs.png" type="stream" channelId="-1", Baby First HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Quốc Tế" tvg-id="Animax" tvg-logo="https://www.animax-asia.com/sites/all/themes/responsive/responsive_animax_asia_2/logo.png?w=282&mode=scale" type="stream" channelId="-1", Animax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="CNN" tvg-logo="https://i.imgur.com/krupazx.png" type="stream" channelId="-1", CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
@@ -549,6 +552,3 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="Yên Bái" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg?w=282&mode=scale" type="stream" channelId="-1", Yên Bái
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="Quốc Tế" tvg-id="Animax" tvg-logo="https://www.animax-asia.com/sites/all/themes/responsive/responsive_animax_asia_2/logo.png?w=282&mode=scale" type="stream" channelId="-1", Animax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
