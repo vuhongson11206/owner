@@ -106,7 +106,7 @@ https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
 #EXTINF:0 group-title="HTV" tvg-id="HTVC Phụ Nữ" tvg-logo="http://htvc.vn/uploads/editor/images/LOGO_PHUNU_FINAL2(1).png" type="stream" channelId="-1", HTVC Phụ Nữ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
+#https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
 #EXTINF:0 group-title="HTV" tvg-id="htvcthuanviethd" tvg-logo="http://htvc.vn/uploads/editor/images/HTVC_THUANVIETHDLOGO_HOAN%20CHINH.png" type="stream" channelId="-1", HTVC Thuần Việt HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
