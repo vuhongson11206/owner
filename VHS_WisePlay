@@ -327,12 +327,15 @@ https://livecdn.fptplay.net/hda/btv4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="BTV6" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv6_158573005113.png?w=282&mode=scale" type="stream" channelId="-1", BTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-id="NCM" tvg-logo="https://anvienhd.net/uploads/images/hinhanh/3127455c766024676a4.70187032.png?w=282&mode=scale" type="stream" channelId="-1", BTV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="BTV11" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv-11_158459383676.png?w=282&mode=scale" type="stream" channelId="-1", BTV11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="NCM" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ncm_145578899016.png?w=282&mode=scale" type="stream" channelId="-1", NCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
+http://livecdn.fptplay.net/sda/ncm_2000.stream/playlist.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="FBNC HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg?w=282&mode=scale" type="stream" channelId="-1", FBNC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist_b2800000.m3u8
