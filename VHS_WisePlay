@@ -114,7 +114,7 @@ https://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="HTV" tvg-id="HTV Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/3/3f/HTV_THETHAO_2014.png/140px-HTV_THETHAO_2014.png" type="stream" channelId="-1", HTV Thể Thao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="HTV" tvg-id="HTVC Plus" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png" type="stream" channelId="-1", HTVC Plus
+#EXTINF:0 group-title="HTV" tvg-id="HTVC Plus" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png?w=282&mode=scale" type="stream" channelId="-1", HTVC Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="HTV" tvg-id="HTVC Ca Nhạc" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-ca-nhac_159175079096.png" type="stream" channelId="-1", HTVC Ca Nhạc
