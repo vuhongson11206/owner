@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/vuhongson11206/owner/master/guide" refresh="3600" m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0
 
-#EXTINF:0 group-title="VTV" tvg-id="VTV1.vn" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg?w=282&mode=scale" type="stream" channelId="-1", VTV1 HD
+#EXTINF:0 group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg?w=282&mode=scale" type="stream" channelId="-1", VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="VTV" tvg-id="VTV2.vn" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2_15089873505.jpg?w=282&mode=scale" type="stream" channelId="-1", VTV2 HD
