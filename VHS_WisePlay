@@ -32,7 +32,8 @@ http://vi.xemtivivip.com/kenh-sctv1-hd-truc-tuyen-xem-tivi-sctv1-hd-live.html
 #EXTINF:0 group-title="SCTV" tvg-id="sctv2hd" tvg-logo="https://i.postimg.cc/xTB02Kf1/sctv2.png" type="stream" channelId="-1", SCTV2 HD
 http://vi.xemtivivip.com/kenh-sctv2-hd-truc-tuyen-xem-tivi-sctv2-hd-live.html
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV.3.HD.-.SEE.TV.vn" tvg-logo="https://i.postimg.cc/m21s8tYf/sctv3hd.png" type="stream" channelId="-1", SCTV3 HD
-http://vi.xemtivivip.com/kenh-sctv3-hd-truc-tuyen-xem-tivi-sctv3-hd-live.html
+#http://vi.xemtivivip.com/kenh-sctv3-hd-truc-tuyen-xem-tivi-sctv3-hd-live.html
+http://vtsstr6.tv24.vn:1935/live/SCTVHDThieunhi_4/playlist.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV.4.HD.-.Giải.trí.tổng.hợp.vn" tvg-logo="https://i.postimg.cc/m21s8tYf/sctv3hd.png" type="stream" channelId="-1", SCTV4 HD
 http://vi.xemtivivip.com/kenh-sctv4-hd-truc-tuyen-xem-tivi-sctv4-hd-live.html
 #EXTINF:0 group-title="SCTV" tvg-id="0" tvg-logo="https://i.postimg.cc/m21s8tYf/sctv3hd.png" type="stream" channelId="-1", SCTV5 HD
@@ -46,19 +47,22 @@ http://vi.xemtivivip.com/kenh-sctv8-hd-truc-tuyen-xem-tivi-sctv8-hd-live.html
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV.9.HD.-.Phim.Châu.Á.vn" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" type="stream" channelId="-1", SCTV9 HD
 http://vi.xemtivivip.com/kenh-sctv9-hd-truc-tuyen-xem-tivi-sctv9-hd-live.html
 #EXTINF:0 group-title="SCTV" tvg-id="0" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" type="stream" channelId="-1", SCTV10 HD
-http://vi.xemtivivip.com/kenh-sctv10-hd-truc-tuyen-xem-tivi-sctv10-hd-live.html
+#http://vi.xemtivivip.com/kenh-sctv10-hd-truc-tuyen-xem-tivi-sctv10-hd-live.html
+http://vtsstr6.tv24.vn:1935/live/sctv10_SD_4/playlist.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="sctv11hd" tvg-logo="https://i.postimg.cc/SKyHFsMK/sctv11hd.png" type="stream" channelId="-1", SCTV11 HD
 http://vi.xemtivivip.com/kenh-sctv11-hd-truc-tuyen-xem-tivi-sctv11-hd-live.html
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV.12.HD.-.Du.Lịch.vn" tvg-logo="https://i.postimg.cc/SKyHFsMK/sctv11hd.png" type="stream" channelId="-1", SCTV12 HD
 http://vi.xemtivivip.com/kenh-sctv12-hd-truc-tuyen-xem-tivi-sctv12-hd-live.html
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV13.HD.-.Phụ.nữ.And.Gia.đình.vn" tvg-logo="https://i.postimg.cc/sfQj06zN/sctv13hd.png" type="stream" channelId="-1", SCTV13 HD
-http://vi.xemtivivip.com/kenh-sctv13-hd-truc-tuyen-xem-tivi-sctv13-hd-live.html
+#http://vi.xemtivivip.com/kenh-sctv13-hd-truc-tuyen-xem-tivi-sctv13-hd-live.html
+http://vtsstr1.tv24.vn:1935/live/SCTVHDPhunuGiadinh_4/playlist.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV.14.HD.-.Phim.Việt.vn" tvg-logo="https://i.postimg.cc/zG5qvqgs/sctv14hd.png" type="stream" channelId="-1", SCTV14 HD
 http://vi.xemtivivip.com/kenh-sctv14-hd-truc-tuyen-xem-tivi-sctv14-hd-live.html
 #EXTINF:0 group-title="SCTV" tvg-id="sctv15hd" tvg-logo="https://i.postimg.cc/zG5qvqgs/sctv14hd.png" type="stream" channelId="-1", SCTV15 HD
 http://tvonline.vn/kenh-sctv15-hd-online/
 #EXTINF:0 group-title="SCTV" tvg-id="sctv16hd" tvg-logo="https://i.postimg.cc/yN8Bhnnn/sctv16hd.png" type="stream" channelId="-1", SCTV16 HD
-http://vi.xemtivivip.com/kenh-sctv16-hd-truc-tuyen-xem-tivi-sctv16-hd-live.html
+#http://vi.xemtivivip.com/kenh-sctv16-hd-truc-tuyen-xem-tivi-sctv16-hd-live.html
+http://vtsstr6.tv24.vn:1935/live/SCTV_HD_phimnuocngoaidacsac_4/playlist.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="sctv17hd" tvg-logo="https://i.postimg.cc/yN8Bhnnn/sctv16hd.png" type="stream" channelId="-1", SCTV17 HD
 http://vi.xemtivivip.com/kenh-sctv17-hd-truc-tuyen-xem-tivi-sctv17-hd-live.html
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV.18.vn" tvg-logo="https://i.postimg.cc/yN8Bhnnn/sctv16hd.png" type="stream" channelId="-1", SCTV18 HD
@@ -74,7 +78,8 @@ http://vi.xemtivivip.com/kenh-sctv22-hd-truc-tuyen-xem-tivi-sctv22-hd-live.html
 #EXTINF:0 group-title="SCTV" tvg-id="btv5hd" tvg-logo="https://i.postimg.cc/mZXLmvKM/sctv-btv5-ssport3.png" type="stream" channelId="-1", BTV5 HD
 http://vi.xemtivivip.com/kenh-btv5-hd-truc-tuyen-xem-tivi-btv5-hd-live.html
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV.HD.Phim.Tổng.Hợp.vn" tvg-logo="https://i.postimg.cc/8CmDM9h7/sctv-phimtonghop.png" type="stream" channelId="-1", SCTV HD Phim TH
-http://vi.xemtivivip.com/kenh-sctv-phim-truc-tuyen-xem-tivi-sctv-phim-live.html
+#http://vi.xemtivivip.com/kenh-sctv-phim-truc-tuyen-xem-tivi-sctv-phim-live.html
+http://vtsstr1.tv24.vn:1935/live/SCTVHDPhimTH_4/playlist.m3u8
 #EXTINF:0 group-title="HTV" tvg-id="htv1" tvg-logo="http://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_HTV1_422x278.png" type="stream" channelId="-1", HTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
