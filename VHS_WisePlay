@@ -143,7 +143,7 @@ https://hni-fpt-001-livecdn-vthn-vnd.vieon.vn/86f2a16662baf326ce26e5bea50555ee/1
 https://hni-fpt-001-livecdn-vthn-vnd.vieon.vn/e90ee7505cdf018c9136f13eca864cb3/1622394405169/vtvcab/live/hd_vtvcab_19/TV_HD/hd_vtvcab_19_480p/chunks.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/livetv_logo_dark/2021/01/13/txo16qc4_viedramas_logo_468_134.png" type="stream" channelId="-1", Vie Dramas HD Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://bsojv7x1zq.vcdn.com.vn/VTV1-TEST/master_720p.m3u8
+https://bsojv7x1zq.vcdn.com.vn/5cef88ec6f63ed0775ec0617/5cef88ec6f63ed0775ec0618/720p/playlist.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="0" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_phim-hay_145578239355.png" type="stream" channelId="-1", Phim Hay HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/phimhay_hls.smil/chunklist_b2500000.m3u8
