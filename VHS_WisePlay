@@ -372,7 +372,7 @@ https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://kickmedia.tv/PE/PlanetEarth_logo_last.png" type="stream" channelId="-1", Planet Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-ffmpeg -user_agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0" -referer "http://tv360.vn/" -i "http://27.67.50.72:18080//176_1.m3u8?AdaptiveType=HLS&SessionID=adea450a-2493-4b35-9b35-533347010861&MinBw=0&MaxBw=20000000" -c copy "176_1.ts"
+http://27.67.50.135:18080//176_1.m3u8?AdaptiveType=HLS&SessionID=99d9a162-1c81-457a-9260-ea1a9dd74225&MinBw=0&MaxBw=20000000
 http://27.67.50.135:18080//176_1.m3u8?AdaptiveType=HLS&SessionID=39bcce53-84af-4ba5-8a55-b58a29f3bb10&MinBw=0&MaxBw=20000000
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020/12/25/08/1608861195134/900d0552c042_640_360.png" type="stream" channelId="-1", Paramount Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
