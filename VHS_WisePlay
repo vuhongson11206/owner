@@ -370,18 +370,30 @@ https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3
 #EXTINF:0 group-title="Quốc Tế" tvg-id="tlchd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg" type="stream" channelId="-1", Travel & Living HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://mytv.com.vn/upload/channel/146.png" type="stream" channelId="-1", CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" type="stream" channelId="-1", &Flix HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" type="stream" channelId="-1", Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8
+#EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png" type="stream" channelId="-1", TokuSHOUTsu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://i.dlpng.com/static/png/6416738_preview.png" type="stream" channelId="-1", MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://kickmedia.tv/PE/PlanetEarth_logo_last.png" type="stream" channelId="-1", Planet Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://27.67.50.135:18080//176_1.m3u8?AdaptiveType=HLS&SessionID=99d9a162-1c81-457a-9260-ea1a9dd74225&MinBw=0&MaxBw=20000000
+http://27.67.50.6:18080/176.m3u8?AdaptiveType=HLS&VOD_RequestID=N4h7D2Dl7xnIheqXaCn7LbKtn08IVogfnEk5zEygsYyDv9ok4CwPuTZoA4yUZAjZYIRrwLr+N4Dj3Z03OYpfK2AlVnPqL7Zs9IPfrknJ3s0v9AZpR7Z+sN8N4uVxXOYHRcP8VYVJprJuxfL7M6mZmw==
 http://27.67.50.135:18080//176_1.m3u8?AdaptiveType=HLS&SessionID=39bcce53-84af-4ba5-8a55-b58a29f3bb10&MinBw=0&MaxBw=20000000
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020/12/25/08/1608861195134/900d0552c042_640_360.png" type="stream" channelId="-1", Paramount Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://27.67.80.6:18080/245.m3u8?AdaptiveType=HLS&VOD_RequestID=4Ta14gtwQkh8csTdxMSl8+KtLaZr0R7Dj9yoY7raQlYn1ct2Dx2QrIom1QW/SbZi6s1RyBKXABCdTgLH4tZjjUoJIgnQCFjGV7a4GbScnAIBBPpXgamdTYe7LzoqIP9V4/evGn1rRQIoAlhv5lcvwK3nYI4nD7WQDQoKZnrh2k1He4y4++SmvV0AnEIyFHDh
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 http://27.67.80.69:18080/245.m3u8?AdaptiveType=HLS&VOD_RequestID=4Ta14gtwQkh8csTdxMSl8+sVMwnyADt8Muc30fu7eOyn/NFjGdBPo1o5/svP3umAGT5v2jPpYSvKX9MgvUnVJJDL+CtU+4JH3mjborgd2aU2LsyQZymb+w48kJ9uHq8vovOIf50K9tQbZWaV8h6+tdDq3W6Z4zmPV6+/lVfnXCsb4HZWQgLJEfgOC16NTgRo&SessionID=f266e1b4-3e81-4502-8f2a-4b3ca0266c9a&StreamID=43459544-ba2e-4f6f-9d80-cf934fdbc82f&MinBw=0&MaxBw=20000000
 http://27.67.80.69:18080//245_1.m3u8?AdaptiveType=HLS&SessionID=f266e1b4-3e81-4502-8f2a-4b3ca0266c9a&MinBw=0&MaxBw=20000000
-#EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://lh3.googleusercontent.com/proxy/pQ-Mupm748tqZy1ZB0UeMHaECWBihgdwiw_nT4CfDKPkRGBSPM72sd9_gxHFbv07zF4DUm9W18oku8o9eRjQ8hEpQLC34K_LJHz8SzgxQZneg0ovlX2eHAh_lwIBfrd5zwwjg0RX-jhsTfe52Q" type="stream" channelId="-1", Paramount Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-0
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020/11/12/10/1605151526106/ab9f4531a232_640_360.png" type="stream" channelId="-1", Box Movie 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 0
