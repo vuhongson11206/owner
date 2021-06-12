@@ -1,6 +1,552 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
   <row>
+    <ID>2742419</ID>
+    <Name>Thời sự tối</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T00:05:00</StartTime>
+    <EndTime>2021-06-12T00:35:00</EndTime>
+    <Duration>30</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742420</ID>
+    <Name>PHIM TRUYỆN</Name>
+    <Description>Vinh hoa lạc lối
+Tập 30</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T00:45:00</StartTime>
+    <EndTime>2021-06-12T01:30:00</EndTime>
+    <Duration>45</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742421</ID>
+    <Name>Đường dây nóng</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T01:30:00</StartTime>
+    <EndTime>2021-06-12T01:40:00</EndTime>
+    <Duration>10</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742422</ID>
+    <Name>NHẬT KÝ CUỘC SỐNG</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T01:45:00</StartTime>
+    <EndTime>2021-06-12T02:15:00</EndTime>
+    <Duration>30</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742423</ID>
+    <Name>Thế giới nghiêng</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T02:15:00</StartTime>
+    <EndTime>2021-06-12T02:30:00</EndTime>
+    <Duration>15</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742424</ID>
+    <Name>GIẢI MÃ</Name>
+    <Description>Những kiệt tác của nghệ thuật điêu  khắc
+Phần 5</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T02:30:00</StartTime>
+    <EndTime>2021-06-12T03:00:00</EndTime>
+    <Duration>30</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742425</ID>
+    <Name>CHÀO BUỔI TỐI</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T03:00:00</StartTime>
+    <EndTime>2021-06-12T03:30:00</EndTime>
+    <Duration>30</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742426</ID>
+    <Name>SỐNG CHUNG VỚI LŨ</Name>
+    <Description>Nhà nổi cho vùng ngập lụt</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T03:30:00</StartTime>
+    <EndTime>2021-06-12T04:00:00</EndTime>
+    <Duration>30</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742427</ID>
+    <Name>Thời sự tối</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T04:00:00</StartTime>
+    <EndTime>2021-06-12T04:30:00</EndTime>
+    <Duration>30</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742428</ID>
+    <Name>GÓC NHÌN KHÁN GiẢ</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T04:30:00</StartTime>
+    <EndTime>2021-06-12T05:00:00</EndTime>
+    <Duration>30</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742429</ID>
+    <Name>22+II</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T05:00:00</StartTime>
+    <EndTime>2021-06-12T05:15:00</EndTime>
+    <Duration>15</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742430</ID>
+    <Name>Phim truyện</Name>
+    <Description>Anh đã yêu bạn thân của em
+Tập 46</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T05:15:00</StartTime>
+    <EndTime>2021-06-12T06:00:00</EndTime>
+    <Duration>45</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742431</ID>
+    <Name>Cuộc sống 24h</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T06:05:00</StartTime>
+    <EndTime>2021-06-12T06:35:00</EndTime>
+    <Duration>30</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742432</ID>
+    <Name>PHÓNG SỰ</Name>
+    <Description>Lực lượng cảnh sát QLHC về TTXH trong công tác giải quyết ùn tắc giao thông</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T06:35:00</StartTime>
+    <EndTime>2021-06-12T06:50:00</EndTime>
+    <Duration>15</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742433</ID>
+    <Name>ALO BÁC SỸ 24</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T07:00:00</StartTime>
+    <EndTime>2021-06-12T07:05:00</EndTime>
+    <Duration>5</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742434</ID>
+    <Name>SỐNG KẾT NỐI</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T07:15:00</StartTime>
+    <EndTime>2021-06-12T07:30:00</EndTime>
+    <Duration>15</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742435</ID>
+    <Name>PHIM TÀI LIỆU</Name>
+    <Description>Việt Nam Thời đại Hồ Chí Minh - Biên niên sử truyền hình
+Tập 19</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T07:30:00</StartTime>
+    <EndTime>2021-06-12T08:00:00</EndTime>
+    <Duration>30</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742436</ID>
+    <Name>GÓC NHÌN 
+CUỘC SỐNG</Name>
+    <Description>Thức dậy phía lưng đồi</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T08:10:00</StartTime>
+    <EndTime>2021-06-12T08:40:00</EndTime>
+    <Duration>30</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742437</ID>
+    <Name>ĐƯỜNG DÂY NÓNG</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T08:45:00</StartTime>
+    <EndTime>2021-06-12T08:55:00</EndTime>
+    <Duration>10</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742438</ID>
+    <Name>Tin 9h</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T09:00:00</StartTime>
+    <EndTime>2021-06-12T09:10:00</EndTime>
+    <Duration>10</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742439</ID>
+    <Name>GÓC NHÌN</Name>
+    <Description>Tiếp sức cho doanh nghiệp</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T09:15:00</StartTime>
+    <EndTime>2021-06-12T09:45:00</EndTime>
+    <Duration>30</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742440</ID>
+    <Name>22+II</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T09:45:00</StartTime>
+    <EndTime>2021-06-12T10:00:00</EndTime>
+    <Duration>15</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742441</ID>
+    <Name>THẾ GIỚI NGHIÊNG</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T10:00:00</StartTime>
+    <EndTime>2021-06-12T10:10:00</EndTime>
+    <Duration>10</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742442</ID>
+    <Name>115</Name>
+    <Description>Xác định mức độ và xử trí khi trẻ bị bỏng</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T10:15:00</StartTime>
+    <EndTime>2021-06-12T10:30:00</EndTime>
+    <Duration>15</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742443</ID>
+    <Name>PHÓNG SỰ</Name>
+    <Description>Hành trình tử tế</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T10:30:00</StartTime>
+    <EndTime>2021-06-12T10:45:00</EndTime>
+    <Duration>15</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742444</ID>
+    <Name>COOL &amp; BREAK</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T10:45:00</StartTime>
+    <EndTime>2021-06-12T11:00:00</EndTime>
+    <Duration>15</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742445</ID>
+    <Name>PHIM TÀI LIỆU</Name>
+    <Description>Việt Nam Thời đại Hồ Chí Minh - Biên niên sử truyền hình
+Năm 2014</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T11:05:00</StartTime>
+    <EndTime>2021-06-12T11:30:00</EndTime>
+    <Duration>25</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742446</ID>
+    <Name>Bản tin trưa</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T11:30:00</StartTime>
+    <EndTime>2021-06-12T12:00:00</EndTime>
+    <Duration>30</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742447</ID>
+    <Name>ALO BÁC SỸ 24</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T12:00:00</StartTime>
+    <EndTime>2021-06-12T12:05:00</EndTime>
+    <Duration>5</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742448</ID>
+    <Name>Phim truyện</Name>
+    <Description>Vinh hoa lạc lối
+Tập 31</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T12:10:00</StartTime>
+    <EndTime>2021-06-12T12:55:00</EndTime>
+    <Duration>45</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742449</ID>
+    <Name>TẠP CHÍ 
+THƯƠNG HIỆU &amp; THỊ TRƯỜNG</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T13:00:00</StartTime>
+    <EndTime>2021-06-12T13:15:00</EndTime>
+    <Duration>15</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742450</ID>
+    <Name>PHIM TRUYỆN</Name>
+    <Description>An gia thiên hạ
+Tập 45</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T13:15:00</StartTime>
+    <EndTime>2021-06-12T14:00:00</EndTime>
+    <Duration>45</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742451</ID>
+    <Name>THẾ GIỚI NGHIÊNG</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T14:00:00</StartTime>
+    <EndTime>2021-06-12T14:10:00</EndTime>
+    <Duration>10</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742452</ID>
+    <Name>PHIM SITCOM</Name>
+    <Description>Ngôi nhà teen ám
+Tập 46</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T14:10:00</StartTime>
+    <EndTime>2021-06-12T14:30:00</EndTime>
+    <Duration>20</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742453</ID>
+    <Name>PHIM TRUYỆN</Name>
+    <Description>Ánh trăng không hiểu lòng tôi
+Tập 35</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T14:30:00</StartTime>
+    <EndTime>2021-06-12T14:55:00</EndTime>
+    <Duration>25</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742454</ID>
+    <Name>TIN 15H</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T15:00:00</StartTime>
+    <EndTime>2021-06-12T15:10:00</EndTime>
+    <Duration>10</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742455</ID>
+    <Name>SỐNG KẾT NỐI</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T15:15:00</StartTime>
+    <EndTime>2021-06-12T15:30:00</EndTime>
+    <Duration>15</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742456</ID>
+    <Name>GÓC NHÌN KHÁN GiẢ</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T15:30:00</StartTime>
+    <EndTime>2021-06-12T16:00:00</EndTime>
+    <Duration>30</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742457</ID>
+    <Name>Tin 16h</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T16:00:00</StartTime>
+    <EndTime>2021-06-12T16:05:00</EndTime>
+    <Duration>5</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742458</ID>
+    <Name>ĐƯỜNG DÂY NÓNG</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T16:05:00</StartTime>
+    <EndTime>2021-06-12T16:15:00</EndTime>
+    <Duration>10</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742459</ID>
+    <Name>PHIM TÀI LIỆU</Name>
+    <Description>Nguy cơ từ hoạt động bồi đắp, cải tạo phi pháp của Trung Quốc ở biển Đông</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T16:15:00</StartTime>
+    <EndTime>2021-06-12T16:45:00</EndTime>
+    <Duration>30</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742460</ID>
+    <Name>NÓNG DƯ LUẬN</Name>
+    <Description>Đối phó đại dịch lần thứ 4</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T16:45:00</StartTime>
+    <EndTime>2021-06-12T17:00:00</EndTime>
+    <Duration>15</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742461</ID>
+    <Name>PHIM TRUYỆN BỘ</Name>
+    <Description>Anh đã yêu bạn thân của em
+Tập 47</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T17:00:00</StartTime>
+    <EndTime>2021-06-12T17:45:00</EndTime>
+    <Duration>45</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742462</ID>
+    <Name>CHÀO BUỔI TỐI</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T18:00:00</StartTime>
+    <EndTime>2021-06-12T18:30:00</EndTime>
+    <Duration>30</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742463</ID>
+    <Name>Bản tin tối</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T18:30:00</StartTime>
+    <EndTime>2021-06-12T19:40:00</EndTime>
+    <Duration>70</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742464</ID>
+    <Name>PHIM SITCOM</Name>
+    <Description>Hổng cần đàn ông
+Tập 48</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T19:45:00</StartTime>
+    <EndTime>2021-06-12T20:05:00</EndTime>
+    <Duration>20</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742465</ID>
+    <Name>PHIM TRUYỆN</Name>
+    <Description>Ánh trăng không hiểu lòng tôi
+Tập 36</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T20:10:00</StartTime>
+    <EndTime>2021-06-12T20:35:00</EndTime>
+    <Duration>25</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742466</ID>
+    <Name>TRAO CƠ HỘI, NỐI ƯỚC MƠ</Name>
+    <Description>Số 13</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T20:45:00</StartTime>
+    <EndTime>2021-06-12T21:00:00</EndTime>
+    <Duration>15</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742467</ID>
+    <Name>TÁM LẠNG NỬA CÂN
+Mùa 2</Name>
+    <Description>Tập 20</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T21:00:00</StartTime>
+    <EndTime>2021-06-12T21:30:00</EndTime>
+    <Duration>30</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742468</ID>
+    <Name>BUỔI HẸN ĐẦU TIÊN</Name>
+    <Description>Tập 15</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T21:30:00</StartTime>
+    <EndTime>2021-06-12T22:00:00</EndTime>
+    <Duration>30</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742469</ID>
+    <Name>CA NHẠC</Name>
+    <Description>CHÂN DUNG ÂM NHẠC
+PHẠM THU HÀ</Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T22:00:00</StartTime>
+    <EndTime>2021-06-12T23:00:00</EndTime>
+    <Duration>60</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742470</ID>
+    <Name>22+II</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T23:00:00</StartTime>
+    <EndTime>2021-06-12T23:15:00</EndTime>
+    <Duration>15</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
+    <ID>2742471</ID>
+    <Name>Thời sự tối</Name>
+    <Description></Description>
+    <ServiceID>22</ServiceID>
+    <StartTime>2021-06-12T23:30:00</StartTime>
+    <EndTime>2021-06-13T00:00:00</EndTime>
+    <Duration>30</Duration>
+    <CurrentEvent>false</CurrentEvent>
+  </row>
+  <row>
     <ID>2742472</ID>
     <Name>Thời sự tối</Name>
     <Description></Description>
