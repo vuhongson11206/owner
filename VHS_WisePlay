@@ -727,7 +727,7 @@ https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
 #https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-id="" tvg-logo="https://lh3.googleusercontent.com/proxy/bWstN6Qr_oFVuGzjwxReVXR-i1JKVTF6vy5uDG032Bz3MQNVBSjZ6UfHnSdlT2Xl8Zjw7fE1FaXwxg7N6Skaq_xf6YEtA_L2_i6sp8TdFWc3jgMtAsXcwMYk3zzZAqmDpPLtOMI?w=282&mode=scale" type="stream" channelId="-1", Đồng Tháp 2
+#EXTINF:0 group-title="Địa Phương" tvg-id="" tvg-logo="https://imgur.com/EaYfHRV" type="stream" channelId="-1", Đồng Tháp 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1998888776.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="0" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_gia-lai_145673242156.jpg?w=282&mode=scale" type="stream" channelId="-1", Gia Lai
