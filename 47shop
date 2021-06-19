@@ -44,7 +44,7 @@ http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv8
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv9
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg",HTV1
-https://vtv.vn/truyen-hinh-truc-tuyen/vtv1.htm
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=htv1
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv2_145672764721.jpg",HTV2 HD
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=htv2
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv3_145672766359.jpg",HTV3
