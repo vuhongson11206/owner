@@ -48,13 +48,13 @@ https://vtvgo-livewebs.vtvdigital.vn/a55e64f7cfac6df1d09193eec455303b/1623571777
 https://vtvnews-livevtv.vtvdigital.vn/230284cb2b9b8a0826f2634a4383fa0c/1623575771259/vtv5/vtv5@720p.m3u8
 #EXTINF:0 group-title="VTV Go" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/260px-Vtv5tnb_logo.svg.png" type="stream" channelId="-1", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vtvgo-livewebs.vtvdigital.vn/9968c978c57d2f01e38c137b0faf92ae/1623574747039/vtv5tnb/vtv5tnb@high.m3u8
+https://vtvgo-livewebs.vtvdigital.vn/4739d986c554d9a4350355976ad0ce26/1624135964301/vtv5tnb/vtv5tnb@high.m3u8
 #EXTINF:0 group-title="VTV.vn" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/260px-Vtv5tnb_logo.svg.png" type="stream" channelId="-1", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtvnews-livevtv.vtvdigital.vn/696e0bf2b2ca7cb765617fcfda0633e5/1623575811939/vtv5tnb/vtv5tnb@720p.m3u8
 #EXTINF:0 group-title="VTV Go" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Taynguyen-small.png" type="stream" channelId="-1", VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vtvgo-livewebs.vtvdigital.vn/f4c4af99a31e24612654ca538ce3d3c8/1623576360584/vtv5tn/vtv5tn@high.m3u8
+https://vtvgo-livewebs.vtvdigital.vn/41af0e9cf6de909381fd098679532322/1624136071098/vtv5tn/vtv5tn@high.m3u8
 #EXTINF:0 group-title="VTV.vn" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Taynguyen-small.png" type="stream" channelId="-1", VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtvnews-livevtv.vtvdigital.vn/8b9bfc0586f1db725571cf9ebd4fc1b6/1623575985575/vtv5tn/vtv5tn@720p.m3u8
@@ -81,7 +81,7 @@ https://vtvnews-livevtv.vtvdigital.vn/6271e3decf6a2365b88902cbb1c3bb49/162357649
 https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="VTV Go" tvg-id="vtv8hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv8-hd_150173505324.jpg?w=282&mode=scale" type="stream" channelId="-1", VTV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vtvgo-livewebs.vtvdigital.vn/8fcb07230fbefaad4623e6fe378c78d5/1623574650962/vtv8/vtv8@high.m3u8
+https://vtvgo-livewebs.vtvdigital.vn/f37db16e63fed7c62a79e3492b04e0bd/1624136123630/vtv8/vtv8@high.m3u8
 #EXTINF:0 group-title="VTV.vn" tvg-id="vtv8hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv8-hd_150173505324.jpg?w=282&mode=scale" type="stream" channelId="-1", VTV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtvnews-livevtv.vtvdigital.vn/d709fbd500e09cb0c9e8108be0b69422/1623576537577/vtv8/vtv8@720p.m3u8
@@ -90,7 +90,7 @@ https://vtvnews-livevtv.vtvdigital.vn/d709fbd500e09cb0c9e8108be0b69422/162357653
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="VTV Go" tvg-id="vtv9hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv9_150898738134.jpg?w=282&mode=scale" type="stream" channelId="-1", VTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vtvgo-livewebs.vtvdigital.vn/f5142c377efb5ef9c0605731411cf0ab/1623574719977/vtv9/vtv9@high.m3u8
+https://vtvgo-livewebs.vtvdigital.vn/dda4040a311af8a82557adb6e92417d1/1624136179370/vtv9/vtv9@high.m3u8
 #EXTINF:0 group-title="VTV.vn" tvg-id="vtv9hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv9_150898738134.jpg?w=282&mode=scale" type="stream" channelId="-1", VTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtvnews-livevtv.vtvdigital.vn/74b852bb623be6bf4d859e6bd59f4a65/1623576608926/vtv9/vtv9@720p.m3u8
