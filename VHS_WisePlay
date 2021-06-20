@@ -509,13 +509,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b99
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://kickmedia.tv/PE/PlanetEarth_logo_last.png" type="stream" channelId="-1", Planet Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://27.67.50.6:18080/176.m3u8?AdaptiveType=HLS&VOD_RequestID=N4h7D2Dl7xnIheqXaCn7LbKtn08IVogfnEk5zEygsYyDv9ok4CwPuTZoA4yUZAjZYIRrwLr+N4Dj3Z03OYpfK2AlVnPqL7Zs9IPfrknJ3s0v9AZpR7Z+sN8N4uVxXOYHRcP8VYVJprJuxfL7M6mZmw==
-http://27.67.50.135:18080//176_1.m3u8?AdaptiveType=HLS&SessionID=39bcce53-84af-4ba5-8a55-b58a29f3bb10&MinBw=0&MaxBw=20000000
+#http://27.67.50.6:18080/176.m3u8?AdaptiveType=HLS&VOD_RequestID=N4h7D2Dl7xnIheqXaCn7LbKtn08IVogfnEk5zEygsYyDv9ok4CwPuTZoA4yUZAjZYIRrwLr+N4Dj3Z03OYpfK2AlVnPqL7Zs9IPfrknJ3s0v9AZpR7Z+sN8N4uVxXOYHRcP8VYVJprJuxfL7M6mZmw==
+#http://27.67.50.135:18080//176_1.m3u8?AdaptiveType=HLS&SessionID=39bcce53-84af-4ba5-8a55-b58a29f3bb10&MinBw=0&MaxBw=20000000
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020/12/25/08/1608861195134/900d0552c042_640_360.png" type="stream" channelId="-1", Paramount Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-http://27.67.80.69:18080/245.m3u8?AdaptiveType=HLS&VOD_RequestID=4Ta14gtwQkh8csTdxMSl8+sVMwnyADt8Muc30fu7eOyn/NFjGdBPo1o5/svP3umAGT5v2jPpYSvKX9MgvUnVJJDL+CtU+4JH3mjborgd2aU2LsyQZymb+w48kJ9uHq8vovOIf50K9tQbZWaV8h6+tdDq3W6Z4zmPV6+/lVfnXCsb4HZWQgLJEfgOC16NTgRo&SessionID=f266e1b4-3e81-4502-8f2a-4b3ca0266c9a&StreamID=43459544-ba2e-4f6f-9d80-cf934fdbc82f&MinBw=0&MaxBw=20000000
-http://27.67.80.69:18080//245_1.m3u8?AdaptiveType=HLS&SessionID=f266e1b4-3e81-4502-8f2a-4b3ca0266c9a&MinBw=0&MaxBw=20000000
+#http://27.67.80.69:18080/245.m3u8?AdaptiveType=HLS&VOD_RequestID=4Ta14gtwQkh8csTdxMSl8+sVMwnyADt8Muc30fu7eOyn/NFjGdBPo1o5/svP3umAGT5v2jPpYSvKX9MgvUnVJJDL+CtU+4JH3mjborgd2aU2LsyQZymb+w48kJ9uHq8vovOIf50K9tQbZWaV8h6+tdDq3W6Z4zmPV6+/lVfnXCsb4HZWQgLJEfgOC16NTgRo&SessionID=f266e1b4-3e81-4502-8f2a-4b3ca0266c9a&StreamID=43459544-ba2e-4f6f-9d80-cf934fdbc82f&MinBw=0&MaxBw=20000000
+#http://27.67.80.69:18080//245_1.m3u8?AdaptiveType=HLS&SessionID=f266e1b4-3e81-4502-8f2a-4b3ca0266c9a&MinBw=0&MaxBw=20000000
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020/11/12/10/1605151526106/ab9f4531a232_640_360.png" type="stream" channelId="-1", Box Movie 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 0
@@ -548,19 +548,19 @@ http://27.67.80.132:18080/1192.m3u8?AdaptiveType=HLS&VOD_RequestID=4Ta14gtwQkh8c
 http://27.67.80.132:18080//1192_1.m3u8?AdaptiveType=HLS&SessionID=fd77d042-dfde-4ba3-824e-7ad14a8dc3fe&MinBw=0&MaxBw=20000000
 #EXTINF:0 group-title="Địa Phương" tvg-id="vinhlong1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thvl1_156455587276.jpg" type="stream" channelId="-1", Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://thvli-live.admon.com.vn/08394ae7cfd68ed753727f82417224821623598596/thvli/thvl1-abr/thvl111220/thvl1-1080p/chunks.m3u8
+https://thvli-live2.admon.com.vn/thvli/thvl1-abr/thvl111220/thvl1-1080p/chunks.m3u8
 #https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="vinhlong2hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-2_15645558841.jpg" type="stream" channelId="-1", Vĩnh Long 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://thvli-live.admon.com.vn/e8abd13140ce40e04818825f452834e01623598771/thvli/thvl2-abr/thvl111220/thvl2-1080p/chunks.m3u8
+https://thvli-live2.admon.com.vn/thvli/thvl2-abr/thvl111220/thvl2-1080p/chunks.m3u8
 #https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="vinhlong3hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-3_156455588941.jpg" type="stream" channelId="-1", Vĩnh Long 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://thvli-live.admon.com.vn/c3b1e66ab94b928f2b7d3ee63c7efedf1623598905/thvli/thvl3-abr/thvl111220/thvl3-1080p/chunks.m3u8
+https://thvli-live2.admon.com.vn/thvli/thvl3-abr/thvl111220/thvl3-1080p/chunks.m3u8
 #https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="vinhlong4hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-4-hd_158382617523.png" type="stream" channelId="-1", Vĩnh Long 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://thvli-live.admon.com.vn/d357a096e4cc4d0177cd0b5553068e641623598951/thvli/thvl4-abr/thvl111220/thvl4-1080p/chunks.m3u8
+https://thvli-live2.admon.com.vn/thvli/thvl4-abr/thvl111220/thvl4-1080p/chunks.m3u8
 #https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="sctv2hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_sctv-2_155470783649.png" type="stream" channelId="-1", SCTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
