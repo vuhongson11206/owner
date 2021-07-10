@@ -201,28 +201,28 @@ https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
 http://rglink.ml/vieon.m3u8?kenh=htv9-hd
 #EXTINF:-1 tvg-id="" group-title="HTV" tvg-logo="http://vthanh.live/ic/55.png", HTV CO.OP
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/playlist.m3u8
- #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="http://vthanh.live/ic/56.png", HTV Thể Thao
- http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="http://vthanh.live/ic/56.png", HTV Thể Thao
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
  
- #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="http://vthanh.live/ic/57.png", HTVC Thuần Việt
- http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
- #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV" tvg-logo="http://vthanh.live/ic/58.png", HTVC Thuần Việt HD
- http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
- #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="http://vthanh.live/ic/60.png", HTVC Gia đình HD
- http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
- #EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV" tvg-logo="http://vthanh.live/ic/59.png", HTVC Phụ nữ HD
- http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
- #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="http://vthanh.live/ic/61.png", HTVC Du lịch Cuộc sống HD
- http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
- #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV" tvg-logo="http://vthanh.live/ic/63.png", HTVC Ca nhạc HD
- http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
- #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="http://vthanh.live/ic/62.png", HTVC Phim HD
- http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
- #EXTINF:-1 tvg-id="htvcplushd" group-title="HTV" tvg-logo="http://vthanh.live/ic/64.png", HTVC Plus HD
- http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
- #EXTINF:-1 tvg-id="htvcfbnchd" group-title="HTV" tvg-logo="http://vthanh.live/ic/66.png", FBNC HD
- http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
- #EXTINF:-1 tvg-id="" group-title="HTV" tvg-logo="http://vthanh.live/ic/65.png", HTVC Homeshopping
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="http://vthanh.live/ic/57.png", HTVC Thuần Việt
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV" tvg-logo="http://vthanh.live/ic/58.png", HTVC Thuần Việt HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="http://vthanh.live/ic/60.png", HTVC Gia đình HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV" tvg-logo="http://vthanh.live/ic/59.png", HTVC Phụ nữ HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="http://vthanh.live/ic/61.png", HTVC Du lịch Cuộc sống HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV" tvg-logo="http://vthanh.live/ic/63.png", HTVC Ca nhạc HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="http://vthanh.live/ic/62.png", HTVC Phim HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV" tvg-logo="http://vthanh.live/ic/64.png", HTVC Plus HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcfbnchd" group-title="HTV" tvg-logo="http://vthanh.live/ic/66.png", FBNC HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="HTV" tvg-logo="http://vthanh.live/ic/65.png", HTVC Homeshopping
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/playlist.m3u8
  
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="http://vthanh.live/ic/67.png", SCTV1 HD
