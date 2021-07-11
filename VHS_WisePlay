@@ -328,13 +328,13 @@ https://vtsstr1.tv24.vn/live/_definst_/VTVcab20_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="0" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_phim-hay_145578239355.png" type="stream" channelId="-1", Phim Hay HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 ###https://livecdn.fptplay.net/sda/phimhay_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="Quốc Tế" tvg-id="hbohd" tvg-logo="http://i.imgur.com/wEqQSrc.png" type="stream" channelId="-1", HBO
+#EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://i.imgur.com/wEqQSrc.png" type="stream" channelId="-1", HBO - Web1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://www.xemtivimienphi.com/xem-kenh-hbo-hd-truc-tuyen-live.html
-#EXTINF:0 group-title="Quốc Tế" tvg-id="hbohd" tvg-logo="http://i.imgur.com/wEqQSrc.png" type="stream" channelId="-1", HBO
+#EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://i.imgur.com/wEqQSrc.png" type="stream" channelId="-1", HBO - Web2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://www.xemtvonline.net/kenh-hbo-truc-tuyen-xem-tivi-hbo-online.html
-#EXTINF:0 group-title="Quốc Tế" tvg-id="HBO.vn" tvg-logo="https://i-movie2u.com/wp-content/uploads/2020/02/hbohd.jpg" type="stream" channelId="-1", HBO FHD (EN) Thai
+#EXTINF:0 group-title="Quốc Tế" tvg-id="HBO.vn" tvg-logo="http://i.imgur.com/wEqQSrc.png" type="stream" channelId="-1", HBO FHD (EN) Thai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="hbosignaturehd-asia" tvg-logo="https://i.imgur.com/LKCYcmD.png" type="stream" channelId="-1", HBO Sig FHD (EN) Thai
@@ -346,7 +346,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="hbofamilyhd-asia" tvg-logo="https://i.imgur.com/752AKl6.png" type="stream" channelId="-1", HBO Family FHD (EN) Thai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://i.imgur.com/ZocsvE3.png" type="stream" channelId="-1", Cinemax
+#EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://i.imgur.com/ZocsvE3.png" type="stream" channelId="-1", Cinemax - Web1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://www.xemtivimienphi.com/xem-kenh-cinemax-truc-tuyen-live.html
 #EXTINF:0 group-title="Quốc Tế" tvg-id="Cinemax.vn" tvg-logo="https://i.imgur.com/ZocsvE3.png" type="stream" channelId="-1", Cinemax FHD (EN) Thai
@@ -425,7 +425,7 @@ https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://i.imgur.com/JuELCHc.png" type="stream" channelId="-1", TV5 Monde Info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://i.imgur.com/JuELCHc.png" type="stream" channelId="-1", TRT World
+#EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://vthanh.live/ic/220.png" type="stream" channelId="-1", TRT World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="ngchd" tvg-logo="https://i.imgur.com/cjx78kt.png" type="stream" channelId="-1", National Geographic HD
@@ -434,104 +434,6 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="outdoorhd" tvg-logo="https://i.imgur.com/Z3xc8p1.png" type="stream" channelId="-1", Outdoor Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="foxsportshd" tvg-logo="https://i.imgur.com/JsFd6Nl.png" type="stream" channelId="-1", FOX Sports HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="FOX.SPORTS.2.vn" tvg-logo="https://i.imgur.com/acCilxO.png" type="stream" channelId="-1", FOX Sports 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="foxsports3hd" tvg-logo="https://i.imgur.com/dhRuUbt.png" type="stream" channelId="-1", FOX Sports 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/JrrmZdB/onegolf-HD-BEARTV.png" type="stream" channelId="-1", One Golf HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/CK9FQMK/QAZSPORTHD-BEARTV.png" type="stream" channelId="-1", QAZ SPORT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://92.46.127.146:8080/qazsport/index.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="hhttps://i.ibb.co/41q41h3/Now-Sports-Prime-BEARTV.png" type="stream" channelId="-1", Now Sports Prime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/WDwBgGB/astrakhansport-BEARTV.png" type="stream" channelId="-1", Astrakhan Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/S5hK6JC/looksport-BEARTV.png" type="stream" channelId="-1", LOOK SPORT+ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/XY7MWtY/Canal-Sport-BEARTV.png" type="stream" channelId="-1", CANAL+ SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/SrL14c7/Bahrainsport1-BEARTV.png" type="stream" channelId="-1", Bahrain Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/chunklist_w905080956_b610304.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/7WF4Y9q/RTSH-Sport-BEARTV.png" type="stream" channelId="-1", RTSH Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://93.157.62.180/RTSHSport/index.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/X2CPTR0/True-Premier-Football-HD1-BEARTV.png" type="stream" channelId="-1", True Premier Football 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-#https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/CJhHHS1/True-Premier-Football-HD2-BEARTV.png" type="stream" channelId="-1", True Premier Football 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-#https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/qm2hwDP/True-Sport-HD-BEARTV.png" type="stream" channelId="-1", True Sports HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/20r7tJ7/True-Sport-HD-2-BEARTV.png" type="stream" channelId="-1", True Sports HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/RQMGR7D/True-Sport-HD-3-BEARTV.png" type="stream" channelId="-1", True Sports HD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/q0GnHrc/BTSPORT1-BEARTV.png" type="stream" channelId="-1", BT SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/NFTL3cQ/BTSPORT2-BEARTV.png" type="stream" channelId="-1", BT SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport1.png" type="stream" channelId="-1", Dubai Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/71/5d934d8aa9.png" type="stream" channelId="-1", Dubai Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png" type="stream" channelId="-1", Dubai Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/kKHxWf6/be-IN-SPORTS-1-BEARTV.png" type="stream" channelId="-1", Bein Sports 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://3.0.20.58:8000/play/Bein-Sport-1/index.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/2dK275d/be-IN-SPORTS-2-BEARTV.png" type="stream" channelId="-1", Bein Sports 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://3.0.20.58:8000/play/Bein-Sport-2/index.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/3RjGHPf/be-IN-SPORTS-3-BEARTV.png" type="stream" channelId="-1", Bein Sports 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://3.0.20.58:8000/play/Bein-Sport-3/index.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/7g58pBB/ESPN-BEARTV.png" type="stream" channelId="-1", ESPN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://stream2.grandma.fit/fs2.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/YyD2rgS/espn2-BEARTV.png" type="stream" channelId="-1", ESPN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://stream2.grandma.fit/espn2.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/M6prr7D/Wipeoutxtra-BEARTV.png" type="stream" channelId="-1", Wipeout Xtra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/q7Yz8Qm/WWE-Network-BEARTV.png" type="stream" channelId="-1", WWE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://89.187.185.100/WWE/index.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/DRDn679/kok-BEARTV.png" type="stream" channelId="-1", KOK UFC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/3RjGHPf/be-IN-SPORTS-3-BEARTV.png" type="stream" channelId="-1", Bein Sports 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://3.0.20.58:8000/play/Bein-Sport-3/index.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/3RjGHPf/be-IN-SPORTS-3-BEARTV.png" type="stream" channelId="-1", Bein Sports 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://3.0.20.58:8000/play/Bein-Sport-3/index.m3u8
-
-
-
 #EXTINF:0 group-title="Quốc Tế" tvg-id="AXN.vn" tvg-logo="https://i.imgur.com/5Gtp7WP.png" type="stream" channelId="-1", AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
@@ -747,7 +649,7 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/CK9FQMK/QAZSPORTHD-BEARTV.png" type="stream" channelId="-1", QAZ SPORT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://92.46.127.146:8080/qazsport/index.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="hhttps://i.ibb.co/41q41h3/Now-Sports-Prime-BEARTV.png" type="stream" channelId="-1", Now Sports Prime
+#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/41q41h3/Now-Sports-Prime-BEARTV.png" type="stream" channelId="-1", Now Sports Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/WDwBgGB/astrakhansport-BEARTV.png" type="stream" channelId="-1", Astrakhan Sport
@@ -782,10 +684,10 @@ http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/RQMGR7D/True-Sport-HD-3-BEARTV.png" type="stream" channelId="-1", True Sports HD 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/q0GnHrc/BTSPORT1-BEARTV.png" type="stream" channelId="-1", BT SPORT 1
+#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/NsWcqjC/BT-Sport-1.png" type="stream" channelId="-1", BT SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/NFTL3cQ/BTSPORT2-BEARTV.png" type="stream" channelId="-1", BT SPORT 2
+#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/SJxh6wM/BT-Sport-2.png" type="stream" channelId="-1", BT SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport1.png" type="stream" channelId="-1", Dubai Sports 1
@@ -818,7 +720,7 @@ https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/q7Yz8Qm/WWE-Network-BEARTV.png" type="stream" channelId="-1", WWE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://89.187.185.100/WWE/index.m3u8
-#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/DRDn679/kok-BEARTV.png" type="stream" channelId="-1", KOK UFC
+#EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/PW4tgpm/KOK-UFC.jpg" type="stream" channelId="-1", KOK UFC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:0 group-title="Thể Thao" tvg-id="" tvg-logo="https://i.ibb.co/3RjGHPf/be-IN-SPORTS-3-BEARTV.png" type="stream" channelId="-1", Bein Sports 3 HD
@@ -1466,4 +1368,3 @@ https://sslstreaming.com:7017/;
 https://stream.zeno.fm/wppep1n7qpeuv.aac
 #EXTINF:-1 group-title="Radio" tvg-logo="https://cherryradio.com.au/images/nhactritinh-player.png", Cherry Radio Nhạc Trẻ
 https://stream.zeno.fm/umt5gqmg3reuv.aac
-
