@@ -884,7 +884,13 @@ https://thvli-live2.admon.com.vn/thvli/thvl3-abr/thvl111220/thvl3-1080p/chunks.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://thvli-live2.admon.com.vn/thvli/thvl4-abr/thvl111220/thvl4-1080p/chunks.m3u8
 #https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-id="0" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-4-hd_146312577314.png?w=282&mode=scale" type="stream" channelId="-1", iMovie HD
+#EXTINF:0 group-title="Địa Phương" tvg-id="" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-1_156455530625.jpg?w=282&mode=scale" type="stream" channelId="-1", BTV1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-id="" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-2_156455531275.jpg?w=282&mode=scale" type="stream" channelId="-1", BTV2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://web-livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-id="" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-4-hd_146312577314.png?w=282&mode=scale" type="stream" channelId="-1", BTV4 - iMovie HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/hda/btv4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="0" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv6_158573005113.png?w=282&mode=scale" type="stream" channelId="-1", BTV6
@@ -893,7 +899,7 @@ https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="0" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv9_159662306193.jpg?w=282&mode=scale" type="stream" channelId="-1", BTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-id="0" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ncm_145578899016.png?w=282&mode=scale" type="stream" channelId="-1", NCM
+#EXTINF:0 group-title="Địa Phương" tvg-id="" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ncm_145578899016.png?w=282&mode=scale" type="stream" channelId="-1", BTV10 - NCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="0" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv-11_158459383676.png?w=282&mode=scale" type="stream" channelId="-1", BTV11
@@ -1193,7 +1199,7 @@ http://nex.xemtiviviet.com/next.php?id=52
 #EXTINF:0 group-title="Địa Phương" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png" type="stream" channelId="-1", YouTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://nex.xemtiviviet.com/next.php?id=50
-#EXTINF:0 group-title="Địa Phương" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png" type="stream" channelId="-1", MOV
+#EXTINF:0 group-title="Địa Phương" tvg-id="" tvg-logo="https://i.ibb.co/ZmvLPw0/MOV.png" type="stream" channelId="-1", MOV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://nex.xemtiviviet.com/next.php?id=30
 
@@ -1368,3 +1374,4 @@ https://sslstreaming.com:7017/;
 https://stream.zeno.fm/wppep1n7qpeuv.aac
 #EXTINF:-1 group-title="Radio" tvg-logo="https://cherryradio.com.au/images/nhactritinh-player.png", Cherry Radio Nhạc Trẻ
 https://stream.zeno.fm/umt5gqmg3reuv.aac
+
