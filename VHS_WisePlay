@@ -640,10 +640,6 @@ https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master_1.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://i.ibb.co/zR6Gb5d/Rick-Morty.png" type="stream" channelId="-1", Rick and Morty
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://i.ibb.co/p0kCQYm/cinelife.png" type="stream" channelId="-1", Cine Life
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://magselect-stirr.amagi.tv/playlist1080p.m3u8
-#https://magselect-stirr.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://i.ibb.co/5LVYZ50/DittyTV.png" type="stream" channelId="-1", Ditty TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
@@ -868,7 +864,7 @@ http://vtsstr1.tv24.vn:1935/live/Planet_Earth.smil/chunklist_b4692000.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #http://27.67.80.69:18080/245.m3u8?AdaptiveType=HLS&VOD_RequestID=4Ta14gtwQkh8csTdxMSl8+sVMwnyADt8Muc30fu7eOyn/NFjGdBPo1o5/svP3umAGT5v2jPpYSvKX9MgvUnVJJDL+CtU+4JH3mjborgd2aU2LsyQZymb+w48kJ9uHq8vovOIf50K9tQbZWaV8h6+tdDq3W6Z4zmPV6+/lVfnXCsb4HZWQgLJEfgOC16NTgRo&SessionID=f266e1b4-3e81-4502-8f2a-4b3ca0266c9a&StreamID=43459544-ba2e-4f6f-9d80-cf934fdbc82f&MinBw=0&MaxBw=20000000
 #http://27.67.80.69:18080//245_1.m3u8?AdaptiveType=HLS&SessionID=f266e1b4-3e81-4502-8f2a-4b3ca0266c9a&MinBw=0&MaxBw=20000000
-#EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020/11/12/10/1605151526106/ab9f4531a232_640_360.png" type="stream" channelId="-1", Box Movie 1 HD
+#EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://i.ibb.co/8sC22k4/BoxMovie.jpg" type="stream" channelId="-1", Box Movie 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/chunklist_b4692000.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822419264/1ce59b8c00e8_640_360.png" type="stream" channelId="-1", Hollywood Classic HD
