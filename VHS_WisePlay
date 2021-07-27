@@ -639,48 +639,30 @@ https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3
 #EXTINF:0 group-title="Quốc Tế" tvg-id="FOX.Movies.HD.vn" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-movies_152238665778.png" type="stream" channelId="-1", FOX Movies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-
-
-
 #EXTINF:0 group-title="Quốc Tế" tvg-id="FOX.Family.Movies.vn" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-family-movies_155013312413.jpg" type="stream" channelId="-1", FOX Family Movies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-
-
-
 #EXTINF:0 group-title="Quốc Tế" tvg-id="kix" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kix_152879800963.png" type="stream" channelId="-1", KIX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://user:11223344@hoaudp.vinaddns.com:9981/stream/channelid/1337528270?ticket=0CB61457315E3757EACF9B449746EB455031C83E&profile=pass
-#https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogImtpeCIsICJybWlwIjogIjExMy4yMi4xODAuMzkiLCAidXNlcl9pZCI6IDU2NDA1NTYsICJ0aW1lc3RhbXAiOiAxNjI3MzY5MjM3fQ&user_id=8179289
+#http://user:11223344@hoaudp.vinaddns.com:9981/stream/channelid/1337528270?ticket=0CB61457315E3757EACF9B449746EB455031C83E&profile=pass
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogImtpeCIsICJybWlwIjogIjExMy4yMi4xODAuMzkiLCAidXNlcl9pZCI6IDU2NDA1NTYsICJ0aW1lc3RhbXAiOiAxNjI3MzY5MjM3fQ&user_id=8179289
 #https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b2500000.m3u8?token=
 #https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogImtpeCIsICJybWlwIjogIjExMy4yMi4xODAuMzkiLCAidXNlcl9pZCI6IDU2NDA1NTYsICJ0aW1lc3RhbXAiOiAxNjI3MzY5MjM4fQ&user_id=8179289
 #EXTINF:0 group-title="Quốc Tế" tvg-id="foxlifehd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png" type="stream" channelId="-1", FOX Life HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-
-
-
 #EXTINF:0 group-title="Quốc Tế" tvg-id="foxhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-hd_152238767588.png" type="stream" channelId="-1", FOX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-
-
-
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/175px-FX_International_logo.svg.png" type="stream" channelId="-1", FX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://user:11223344@hoaudp.vinaddns.com:9981/stream/channelid/1982213492?ticket=56F693C3D5EC30326E90FFC699C9D44DADCFF219&profile=pass
-
-
-
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://i.ibb.co/p0kCQYm/cinelife.png" type="stream" channelId="-1", Cine Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #https://magselect-stirr.amagi.tv/playlist.m3u8
-
-
-
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://i.ibb.co/M5GrS7p/Shout-Factory.jpg" type="stream" channelId="-1", SHOUT! Factory
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://shoutfactorytv-stirr.amagi.tv/playlist1080ps.m3u8
