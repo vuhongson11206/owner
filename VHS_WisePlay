@@ -1284,26 +1284,26 @@ https://vtc130121.cdn.vnns.io/VTC16/playlist.m3u8
 
 #EXTINF:0 group-title="Địa Phương" tvg-id="vinhlong1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thvl1_156455587276.jpg" type="stream" channelId="-1", Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://thvli-live2.admon.com.vn/thvli/thvl1-abr/thvl111220/thvl1-1080p/chunks.m3u8
-#https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInRodmwxIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjEyMDN9&user_id=8179289
+#https://thvli-live2.admon.com.vn/thvli/thvl1-abr/thvl111220/thvl1-1080p/chunks.m3u8
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInRodmwxIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjEyMDN9&user_id=8179289
 #https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b2500000.m3u8?token=
 #https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInRodmwxIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjEyMDN9&user_id=8179289
 #EXTINF:0 group-title="Địa Phương" tvg-id="vinhlong2hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-2_15645558841.jpg" type="stream" channelId="-1", Vĩnh Long 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://thvli-live2.admon.com.vn/thvli/thvl2-abr/thvl111220/thvl2-1080p/chunks.m3u8
-#https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInZpbmgtbG9uZy0yIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjEzMjZ9&user_id=8179289
+#https://thvli-live2.admon.com.vn/thvli/thvl2-abr/thvl111220/thvl2-1080p/chunks.m3u8
+https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInZpbmgtbG9uZy0yIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjEzMjZ9&user_id=8179289
 #https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b2500000.m3u8?token=
 #https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInZpbmgtbG9uZy0yIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjEzMjZ9&user_id=8179289
 #EXTINF:0 group-title="Địa Phương" tvg-id="vinhlong3hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-3_156455588941.jpg" type="stream" channelId="-1", Vĩnh Long 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://thvli-live2.admon.com.vn/thvli/thvl3-abr/thvl111220/thvl3-1080p/chunks.m3u8
-#https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInZpbmgtbG9uZy0zIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjEzNzd9&user_id=8179289
+#https://thvli-live2.admon.com.vn/thvli/thvl3-abr/thvl111220/thvl3-1080p/chunks.m3u8
+https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInZpbmgtbG9uZy0zIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjEzNzd9&user_id=8179289
 #https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b2500000.m3u8?token=
 #https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInZpbmgtbG9uZy0zIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjEzNzd9&user_id=8179289
 #EXTINF:0 group-title="Địa Phương" tvg-id="vinhlong4hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-4-hd_158382617523.png" type="stream" channelId="-1", Vĩnh Long 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://thvli-live2.admon.com.vn/thvli/thvl4-abr/thvl111220/thvl4-1080p/chunks.m3u8
-#https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8?token=eyJjaGFubmVsX2lkIjogInZpbmgtbG9uZy00LWhkIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjE0MjN9
+#https://thvli-live2.admon.com.vn/thvli/thvl4-abr/thvl111220/thvl4-1080p/chunks.m3u8
+https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8?token=eyJjaGFubmVsX2lkIjogInZpbmgtbG9uZy00LWhkIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjE0MjN9
 #https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInZpbmgtbG9uZy00LWhkIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjE0MjN9&user_id=8179289
 #EXTINF:0 group-title="Địa Phương" tvg-id="" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-1_156455530625.jpg?w=282&mode=scale" type="stream" channelId="-1", BTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
