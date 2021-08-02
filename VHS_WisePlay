@@ -245,6 +245,8 @@ http://112.197.12.54/hls/sctv1/sd1/index.m3u8
 http://112.197.12.54/hls/sctv2/sd1/index.m3u8
 #http://vtsstr6.tv24.vn:1935/live/sctv2_HD_4/chunklist_w901294600.m3u8
 #https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/sda/sctv2_2000.stream/chunklist.m3u8?token=eyJjaGFubmVsX2lkIjogInNjdHYtMiIsICJybWlwIjogIjQyLjExOS4yMzMuNjUiLCAidXNlcl9pZCI6IDU2NDA1NTYsICJ0aW1lc3RhbXAiOiAxNjI3OTIxNDkzfQ
+#https://livecdn.fptplay.net/sda/sctv2_2000.stream/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInNjdHYtMiIsICJybWlwIjogIjQyLjExOS4yMzMuNjUiLCAidXNlcl9pZCI6IDU2NDA1NTYsICJ0aW1lc3RhbXAiOiAxNjI3OTIxNDkzfQ&user_id=8179289
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV.3.HD.-.SEE.TV.vn" tvg-logo="https://static-stage.tv24.vn/channel/112/logo26072108_sctv3-hd.png" type="stream" channelId="-1", SCTV3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://112.197.12.54/hls/sctv3/sd1/index.m3u8
@@ -888,7 +890,7 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="Discovery.Asia.vn" tvg-logo="https://i.imgur.com/blEhr2T.png" type="stream" channelId="-1", Discovery Asia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-
+#https://livecdn.fptplay.net/qnetlive/discoveryasia_2000.stream/chunklist.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="Animal.planet.vn" tvg-logo="https://i.imgur.com/9t7FsCk.png" type="stream" channelId="-1", Animal Planet HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
@@ -1139,7 +1141,9 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 
 #EXTINF:0 group-title="VTC" tvg-id="vtc1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_157355881109.jpg" type="stream" channelId="-1", VTC1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzEiLCAicm1pcCI6ICI0Mi4xMTkuMjMzLjY1IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzkyMTYzNH0&user_id=8179289
+#https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b2500000.m3u8?token=
+#https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzEiLCAicm1pcCI6ICI0Mi4xMTkuMjMzLjY1IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzkyMTYzNH0&user_id=8179289
 #EXTINF:0 group-title="VTC NOW" tvg-id="vtc1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_157355881109.jpg" type="stream" channelId="-1", VTC1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtc130121.cdn.vnns.io/VTC1_abr/vtc130121/VTC1_1080p/chunks.m3u8
@@ -1147,45 +1151,61 @@ https://vtc130121.cdn.vnns.io/VTC1_abr/vtc130121/VTC1_1080p/chunks.m3u8
 #EXTINF:0 group-title="VTC" tvg-id="VTC2.vn" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_151489100971.png" type="stream" channelId="-1", VTC2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/sdb/vtc2_2000.stream/chunklist.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzIiLCAicm1pcCI6ICI0Mi4xMTkuMjMzLjY1IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzkyMTkyNH0
+#https://livecdn.fptplay.net/sdb/vtc2_2000.stream/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzIiLCAicm1pcCI6ICI0Mi4xMTkuMjMzLjY1IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzkyMTkyNH0&user_id=8179289
 #EXTINF:0 group-title="VTC NOW" tvg-id="VTC2.vn" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_151489100971.png" type="stream" channelId="-1", VTC2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtc130121.cdn.vnns.io/VTC2/chunks.m3u8
 #EXTINF:0 group-title="VTC" tvg-id="vtc3hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_151489102133.png" type="stream" channelId="-1", VTC3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzMtaGQiLCAicm1pcCI6ICI0Mi4xMTkuMjMzLjY1IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzkyMjE3OX0&user_id=8179289
+#https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b2500000.m3u8?token=
+#https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzMtaGQiLCAicm1pcCI6ICI0Mi4xMTkuMjMzLjY1IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzkyMjE3OX0&user_id=8179289
 #EXTINF:0 group-title="VTC" tvg-id="VTC4.vn" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png" type="stream" channelId="-1", VTC4 - Yeah1 Family HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInllYWgxLWZhbWlseS12dGM0IiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjI0MjV9&user_id=8179289
+#https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b2500000.m3u8?token=
+#https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInllYWgxLWZhbWlseS12dGM0IiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjI0MjV9&user_id=8179289
 #EXTINF:0 group-title="VTC NOW" tvg-id="VTC4.vn" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png" type="stream" channelId="-1", VTC4 - Yeah1 Family HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtc130121.cdn.vnns.io/VTC4/chunks.m3u8
 #EXTINF:0 group-title="VTC" tvg-id="vtc5hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc5_150226870197.jpg" type="stream" channelId="-1", VTC5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/sdb/vtc5_2000.stream/chunklist.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzUiLCAicm1pcCI6ICI0Mi4xMTkuMjMzLjY1IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzkyMjQ3M30
+#https://livecdn.fptplay.net/sdb/vtc5_2000.stream/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzUiLCAicm1pcCI6ICI0Mi4xMTkuMjMzLjY1IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzkyMjQ3M30&user_id=8179289
 #EXTINF:0 group-title="VTC NOW" tvg-id="vtc5hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc5_150226870197.jpg" type="stream" channelId="-1", VTC5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtc130121.cdn.vnns.io/VTC5/chunks.m3u8
 #EXTINF:0 group-title="VTC" tvg-id="vtc6hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc6_151489103403.png" type="stream" channelId="-1", VTC6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/sdb/vtc6_2000.stream/chunklist.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzYiLCAicm1pcCI6ICI0Mi4xMTkuMjMzLjY1IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzkyMjU0Nn0
+#https://livecdn.fptplay.net/sdb/vtc6_2000.stream/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzYiLCAicm1pcCI6ICI0Mi4xMTkuMjMzLjY1IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzkyMjU0Nn0&user_id=8179289
 #EXTINF:0 group-title="VTC NOW" tvg-id="vtc6hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc6_151489103403.png" type="stream" channelId="-1", VTC6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtc130121.cdn.vnns.io/VTC6/chunks.m3u8
 #EXTINF:0 group-title="VTC" tvg-id="vtc7hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc7-todaytv_145673310065.jpg" type="stream" channelId="-1", VTC7 - TodayTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/sdb/todaytv_2000.stream/chunklist.m3u8?token=eyJjaGFubmVsX2lkIjogInRvZGF5dHYtdnRjNyIsICJybWlwIjogIjQyLjExOS4yMzMuNjUiLCAidXNlcl9pZCI6IDU2NDA1NTYsICJ0aW1lc3RhbXAiOiAxNjI3OTIyNTc4fQ
+#https://livecdn.fptplay.net/sdb/todaytv_2000.stream/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInRvZGF5dHYtdnRjNyIsICJybWlwIjogIjQyLjExOS4yMzMuNjUiLCAidXNlcl9pZCI6IDU2NDA1NTYsICJ0aW1lc3RhbXAiOiAxNjI3OTIyNTc4fQ&user_id=8179289
 #EXTINF:0 group-title="VTC NOW" tvg-id="vtc7hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc7-todaytv_145673310065.jpg" type="stream" channelId="-1", VTC7 - TodayTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtc130121.cdn.vnns.io/VTC7/chunks.m3u8
 #EXTINF:0 group-title="VTC" tvg-id="VTC8.vn" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc8_151489105074.png" type="stream" channelId="-1", VTC8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/sdb/vtc8_2000.stream/chunklist.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzgiLCAicm1pcCI6ICI0Mi4xMTkuMjMzLjY1IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzkyMjYyNH0
+#https://livecdn.fptplay.net/sdb/vtc8_2000.stream/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzgiLCAicm1pcCI6ICI0Mi4xMTkuMjMzLjY1IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzkyMjYyNH0&user_id=8179289
 #EXTINF:0 group-title="VTC NOW" tvg-id="VTC8.vn" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc8_151489105074.png" type="stream" channelId="-1", VTC8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtc130121.cdn.vnns.io/VTC8/chunks.m3u8
 #EXTINF:0 group-title="VTC" tvg-id="vtc9hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc9_151496638696.png" type="stream" channelId="-1", VTC9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/sdb/vtc9_2000.stream/chunklist.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzkiLCAicm1pcCI6ICI0Mi4xMTkuMjMzLjY1IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzkyMjY3N30
+#https://livecdn.fptplay.net/sdb/vtc9_2000.stream/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzkiLCAicm1pcCI6ICI0Mi4xMTkuMjMzLjY1IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzkyMjY3N30&user_id=8179289
 #EXTINF:0 group-title="VTC" tvg-id="VTC10.vn" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc10_151489106288.png" type="stream" channelId="-1", VTC10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
@@ -1206,19 +1226,25 @@ https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 https://vtc130121.cdn.vnns.io/VTC12/chunks.m3u8
 #EXTINF:0 group-title="VTC" tvg-id="vtc13hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc13-hd_151489108997.png" type="stream" channelId="-1", VTC13 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sdc/vtc13_hls.smil/chunklist_b2800000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzEzLWhkIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjI3Nzh9&user_id=8179289
+#https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b2500000.m3u8?token=
+#https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzEzLWhkIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjI3Nzh9&user_id=8179289
 #EXTINF:0 group-title="VTC NOW" tvg-id="vtc13hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc13-hd_151489108997.png" type="stream" channelId="-1", VTC13 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtc130121.cdn.vnns.io/VTC13/chunks.m3u8
 #EXTINF:0 group-title="VTC" tvg-id="vtc14hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_151489110373.png" type="stream" channelId="-1", VTC14 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzE0LWhkIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjI5Mjd9&user_id=8179289
+#https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b2500000.m3u8?token=
+#https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzE0LWhkIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjI5MjV9&user_id=8179289
 #EXTINF:0 group-title="VTC NOW" tvg-id="vtc14hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_151489110373.png" type="stream" channelId="-1", VTC14 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtc130121.cdn.vnns.io/VTC14_abr/vtc130121/VTC14_1080p/chunks.m3u8
 #EXTINF:0 group-title="VTC" tvg-id="vtc16" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_158549798865.png" type="stream" channelId="-1", VTC16 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/sdb/vtc16_2000.stream/chunklist.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzE2IiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjMwMDd9
+#https://livecdn.fptplay.net/sdb/vtc16_2000.stream/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0YzE2IiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjMwMDd9&user_id=8179289
 #EXTINF:0 group-title="VTC NOW" tvg-id="vtc16" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_158549798865.png" type="stream" channelId="-1", VTC16 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtc130121.cdn.vnns.io/VTC16_abr/vtc130121/VTC16_1080p/chunks.m3u8
@@ -1259,19 +1285,26 @@ https://vtc130121.cdn.vnns.io/VTC16/playlist.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="vinhlong1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thvl1_156455587276.jpg" type="stream" channelId="-1", Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://thvli-live2.admon.com.vn/thvli/thvl1-abr/thvl111220/thvl1-1080p/chunks.m3u8
-#https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInRodmwxIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjEyMDN9&user_id=8179289
+#https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b2500000.m3u8?token=
+#https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInRodmwxIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjEyMDN9&user_id=8179289
 #EXTINF:0 group-title="Địa Phương" tvg-id="vinhlong2hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-2_15645558841.jpg" type="stream" channelId="-1", Vĩnh Long 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://thvli-live2.admon.com.vn/thvli/thvl2-abr/thvl111220/thvl2-1080p/chunks.m3u8
-#https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
+#https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInZpbmgtbG9uZy0yIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjEzMjZ9&user_id=8179289
+#https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b2500000.m3u8?token=
+#https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInZpbmgtbG9uZy0yIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjEzMjZ9&user_id=8179289
 #EXTINF:0 group-title="Địa Phương" tvg-id="vinhlong3hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-3_156455588941.jpg" type="stream" channelId="-1", Vĩnh Long 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://thvli-live2.admon.com.vn/thvli/thvl3-abr/thvl111220/thvl3-1080p/chunks.m3u8
-#https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
+#https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInZpbmgtbG9uZy0zIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjEzNzd9&user_id=8179289
+#https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b2500000.m3u8?token=
+#https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInZpbmgtbG9uZy0zIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjEzNzd9&user_id=8179289
 #EXTINF:0 group-title="Địa Phương" tvg-id="vinhlong4hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-4-hd_158382617523.png" type="stream" channelId="-1", Vĩnh Long 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://thvli-live2.admon.com.vn/thvli/thvl4-abr/thvl111220/thvl4-1080p/chunks.m3u8
-#https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8?token=eyJjaGFubmVsX2lkIjogInZpbmgtbG9uZy00LWhkIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjE0MjN9
+#https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInZpbmgtbG9uZy00LWhkIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjE0MjN9&user_id=8179289
 #EXTINF:0 group-title="Địa Phương" tvg-id="" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-1_156455530625.jpg?w=282&mode=scale" type="stream" channelId="-1", BTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
@@ -1280,7 +1313,9 @@ https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 https://web-livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-4-hd_146312577314.png?w=282&mode=scale" type="stream" channelId="-1", BTV4 - iMovie HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/hda/btv4hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/btv4hd_4000.stream/chunklist.m3u8?token=
+#https://vips-livecdn.fptplay.net/hda2/btv4hd_4000.stream/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogImltb3ZpZS1oZCIsICJybWlwIjogIjQyLjExOS4yMzMuNjUiLCAidXNlcl9pZCI6IDU2NDA1NTYsICJ0aW1lc3RhbXAiOiAxNjI3OTIzMDY5fQ&user_id=8179289
+#https://livecdn.fptplay.net/hda/btv4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="0" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv6_158573005113.png?w=282&mode=scale" type="stream" channelId="-1", BTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
@@ -1307,14 +1342,20 @@ http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 https://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/chunklist.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="quochoi" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-hoi-hd_145578230854.png?w=282&mode=scale" type="stream" channelId="-1", Quốc Hội HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2800000.m3u8
+https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInF1b2MtaG9pLWhkIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjM2MDJ9&user_id=8179289
+#https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b2500000.m3u8?token=
+#https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInF1b2MtaG9pLWhkIiwgInJtaXAiOiAiNDIuMTE5LjIzMy42NSIsICJ1c2VyX2lkIjogNTY0MDU1NiwgInRpbWVzdGFtcCI6IDE2Mjc5MjM2MDJ9&user_id=8179289
 #EXTINF:0 group-title="Địa Phương" tvg-id="qpvnhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-phong-vn_145673312681.jpg?w=282&mode=scale" type="stream" channelId="-1", Quốc Phòng VN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/chunklist_b2800000.m3u8
+https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInF1b2MtcGhvbmctdm4iLCAicm1pcCI6ICI0Mi4xMTkuMjMzLjY1IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzkyMzY2Nn0&user_id=8179289
+#https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b2500000.m3u8?token=
+#https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInF1b2MtcGhvbmctdm4iLCAicm1pcCI6ICI0Mi4xMTkuMjMzLjY1IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzkyMzY2Nn0&user_id=8179289
 #http://27.76.137.122:1935/standard/smil:standard.smil/playlist.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="antvhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_antv_156455515067.jpg?w=282&mode=scale" type="stream" channelId="-1", ANTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogImFudHYiLCAicm1pcCI6ICI0Mi4xMTkuMjMzLjY1IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzkyMzc3MH0&user_id=8179289
+#https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b2500000.m3u8?token=
+#https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogImFudHYiLCAicm1pcCI6ICI0Mi4xMTkuMjMzLjY1IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzkyMzc3MH0&user_id=8179289
 #https://live.antv.gov.vn/antv/playlist.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600823403571/7eff0ae17e22_640_360.png" type="stream" channelId="-1", An Ninh Thế Giới
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1322,7 +1363,9 @@ http://27.67.80.6:18080/51.m3u8?AdaptiveType=HLS&VOD_RequestID=4Ta14gtwQkh8csTdx
 #EXTINF:0 group-title="Địa Phương" tvg-id="ttxvnhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_145673307906.jpg?w=282&mode=scale" type="stream" channelId="-1", Thông Tấn Xã Việt Nam HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #https://s4-ntl-cdn.sohatv.vn/live/kKZ8NfQx8Y4DUuTn/vnews/iWvXcOKnOMQPfSIG/337a54767a7233703637564336316a6d2a2d65aafc0b93ca13a56636569e0c08fdb9fe458f4e44db29f520f17e3fb17ed37d2555a49f878ba21e5dee15da735e21ec7ea96a8193380a25e70af9d4cf5f1613a1255eba09f2ff3b77daeb4340d047c4d3e687e07cbd927d82acc3c6ea41ac4a96e52da1fa64de609b99189591753c3ace4f2e2800e4b5de48295f9be439ed2831ab935d9b9e196e19606f8a2b40/720.m3u8
-https://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInRob25nLXRhbi14YS12aWV0LW5hbSIsICJybWlwIjogIjQyLjExOS4yMzMuNjUiLCAidXNlcl9pZCI6IDU2NDA1NTYsICJ0aW1lc3RhbXAiOiAxNjI3OTIzOTAwfQ&user_id=8179289
+#https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b2500000.m3u8?token=
+#https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInRob25nLXRhbi14YS12aWV0LW5hbSIsICJybWlwIjogIjQyLjExOS4yMzMuNjUiLCAidXNlcl9pZCI6IDU2NDA1NTYsICJ0aW1lc3RhbXAiOiAxNjI3OTIzOTAwfQ&user_id=8179289
 #EXTINF:0 group-title="Địa Phương" tvg-id="0" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_truyen-hinh-nhan-dan_15645602611.jpg?w=282&mode=scale" type="stream" channelId="-1", Truyền Hình Nhân Dân HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
