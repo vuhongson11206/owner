@@ -3,7 +3,8 @@
 
 #EXTINF:0 group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg?w=282&mode=scale" type="stream" channelId="-1", VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0djEtaGQiLCAicm1pcCI6ICIxMTMuMjIuMTgwLjM5IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzM2NTM1Nn0&user_id=8179289
+http://s128198.cdn.mytvnet.vn/pkg20/wrap/vstv339_video_1_0_init.mp4?m=1625624884
+#https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0djEtaGQiLCAicm1pcCI6ICIxMTMuMjIuMTgwLjM5IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzM2NTM1Nn0&user_id=8179289
 #https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b2500000.m3u8?token=
 #https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0djEtaGQiLCAicm1pcCI6ICIxMTMuMjIuMTgwLjM5IiwgInVzZXJfaWQiOiA1NjQwNTU2LCAidGltZXN0YW1wIjogMTYyNzM2NTM1Nn0&user_id=8179289
 #EXTINF:0 group-title="VTV" tvg-id="vtv2hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2_15089873505.jpg?w=282&mode=scale" type="stream" channelId="-1", VTV2 HD
