@@ -1,0 +1,18 @@
+#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+
+#EXTINF:-1 tvg-id="VTV CAD 1" group-title="VTVCAD" tvg-logo="https://i.ibb.co/zNLR80v/GIAITRI-TV-HD-M.jpg",VTVCAD 1
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8
+#EXTINF:-1 tvg-id="VTV CAD 2" group-title="VTVCAD" tvg-logo="https://i.ibb.co/sgZMC6s/PHIMVIET-M.jpg",VTVCAD 2
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="VTV CAD 3" group-title="VTVCAD" tvg-logo="https://i.ibb.co/fk5RQ2G/c997eb4906b8-640-360.png",VTVCAD 3
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8
+#EXTINF:-1 tvg-id="VTV CAD 4" group-title="VTVCAD" tvg-logo="https://i.ibb.co/B6MrnPS/VTVcab4-Van-Hoa.jpg",VTVCAD 4
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="VTV CAD 5" group-title="VTVCAD" tvg-logo="https://i.ibb.co/C9DFZmY/vtvcab5-EChannel.png",VTVCAD 5
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="VTV CAD 6" group-title="VTVCAD" tvg-logo="https://i.ibb.co/FgDNLBX/large-haytv.jpg",VTVCAD 6
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="VTV CAD 7" group-title="VTVCAD" tvg-logo="https://i.ibb.co/gFctxJ3/1569832391120.png",VTVCAD 7
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="VTV CAD 8" group-title="VTVCAD" tvg-logo="https://i.ibb.co/jHpStth/BIBI.jpg",VTVCAD 8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8|Referer=http://sctvonline.vn/
