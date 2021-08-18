@@ -6,8 +6,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=https:/
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="VTV CAD 3" group-title="VTVCAD" tvg-logo="https://i.ibb.co/fk5RQ2G/c997eb4906b8-640-360.png",Planet Earth1 (Short)
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="VTV CAD 4" group-title="VTVCAD" tvg-logo="https://i.ibb.co/B6MrnPS/VTVcab4-Van-Hoa.jpg",VTVCAD 4
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="VTV CAD 4" group-title="VTVCAD" tvg-logo="https://i.ibb.co/B6MrnPS/VTVcab4-Van-Hoa.jpg",VTV1
+https://vtvgo-livewebs.vtvdigital.vn/61c50cd7251645129a0f6f31610bec56/1629273743317/vtv1/index.m3u8|Referer=https://vtvgo.vn/trang-chu.html
 #EXTINF:-1 tvg-id="VTV CAD 5" group-title="VTVCAD" tvg-logo="https://i.ibb.co/C9DFZmY/vtvcab5-EChannel.png",VTVCAD 5
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="VTV CAD 6" group-title="VTVCAD" tvg-logo="https://i.ibb.co/FgDNLBX/large-haytv.jpg",VTVCAD 6
