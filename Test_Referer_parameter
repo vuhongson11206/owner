@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 tvg-id="VTV CAD 1" group-title="VTVCAD" tvg-logo="https://i.ibb.co/zNLR80v/GIAITRI-TV-HD-M.jpg",Planet Earth (Full para)
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=https://sctvonline.vn/detail/planet-earth-4a1e80d3
+#EXTINF:-1 tvg-id="VTV CAD 1" group-title="VTVCAD" tvg-logo="https://i.ibb.co/zNLR80v/GIAITRI-TV-HD-M.jpg",VTV1 (Cab)
+https://isptqrteg4liv.vcdn.cloud/VTV1-TEST/master_720p.m3u8|Referer=https://www.vtvcab.vn/channel/vtv1-hd-1,VTV1_HD.html
 #EXTINF:-1 tvg-id="VTV CAD 2" group-title="VTVCAD" tvg-logo="https://i.ibb.co/sgZMC6s/PHIMVIET-M.jpg",VTVCAD 2
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="VTV CAD 3" group-title="VTVCAD" tvg-logo="https://i.ibb.co/fk5RQ2G/c997eb4906b8-640-360.png",Planet Earth1 (Short)
