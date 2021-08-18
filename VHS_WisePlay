@@ -86,7 +86,7 @@ https://vtvgo-livewebs.vtvdigital.vn/e3c083f658b53aaf865bb3fa9f9fc2dd/1629274301
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV5_HD_M.png",VTV5 HD
 https://vtvgo-livewebs.vtvdigital.vn/07a62e748157ba4a7cd4a39aabb86a3e/1629274308333/vtv5/vtv5@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-5.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/163__.png",VTV5 TÂY NGUYÊN HD
-https://vtvgo.vn/xem-truc-tuyen-kenh-kênh-vtv5-tây-nguyên-163.html
+https://vtvgo-livewebs.vtvdigital.vn/686c0d0708e3b74e5dd8979547f5c141/1629275804409/vtv5tn/vtv5tn@high.m3u8|Referer=https://vtvgo.vn/
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/7__.png",VTV5 TÂY NAM BỘ HD
 https://vtvgo-livewebs.vtvdigital.vn/960e8e2e5a49890610fb65e4d3711985/1629274343365/vtv5tnb/vtv5tnb@high.m3u8|Referer=https://vtvgo.vn/
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV6_HD_M.png",VTV6 HD
@@ -98,65 +98,65 @@ https://vtvgo-livewebs.vtvdigital.vn/bc433c6307906aa4ffa3abf96b4a27b1/1629274332
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV9_HD_M.png",VTV9 HD
 https://vtvgo-livewebs.vtvdigital.vn/2bd2c70d9358ccc3d89ac65ad66364e1/1629274337713/vtv9/vtv9@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-vtv9-39.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/ANTV_M.png",ANTV HD
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-antv-hd-89.html
+https://vtvgo-livedp.vtvdigital.vn/cf1e453f55aca5661e290c43f9f07d89/1629275916842/antv/antv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-antv-hd-89.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/NHAN_DAN_HD_M.png",NHÂN DÂN HD
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-nhan-dan-hd-95.html
+https://vtvgo-livedp.vtvdigital.vn/e725b08731010d9a83dcc4ffa2ecec0f/1629275928694/nhandantv/nhandantv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-nhan-dan-hd-95.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/VNEWS_HD_M.png",TTXVN HD
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-ttxvn-hd-97.html
+https://vtvgo-livedp.vtvdigital.vn/7a49d8d2b95099eb1d5e4e3e6452d611/1629275936683/ttxvn/ttxvn@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-ttxvn-hd-97.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/QPVN_M.png",QPVN HD
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-qpvn-hd-103.html
+https://vtvgo-livedp.vtvdigital.vn/2815c3b4111ae3012a0df0605cdf51d4/1629275946170/quocphongtv/quocphongtv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-qpvn-hd-103.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/HAY_TV_M.png",VTVCAB6 HD
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-vtvcab6-hd-196.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/YEAH1_TV_M.png",VTVCAB17 HD
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-vtvcab17-hd-195.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944845970.png",BÌNH DƯƠNG
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-binh-duong-1-hd-179.html
+https://vtvgo-livedp.vtvdigital.vn/ae713c992139a54cedd5701ee64967ed/1629276064546/binhduong1tv/binhduong1tv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-binh-duong-1-hd-179.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948326626.png",BÌNH PHƯỚC
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-binh-phuoc-hd-145.html
+https://vtvgo-livedp.vtvdigital.vn/d041988db473ff6ff2c53557e8fe07fb/1629276077249/binhphuoctv/binhphuoctv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-binh-phuoc-hd-145.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="http://www.danangtv.vn/images/drt1b.png",ĐÀ NẴNG 1
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-da-nang-1-hd-175.html
+https://vtvgo-livedp.vtvdigital.vn/fbce50eab81aab1017ffbdf61a7a5b06/1629276085331/danang1tv/danang1tv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-da-nang-1-hd-175.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="http://www.danangtv.vn/images/drt2a.png",ĐÀ NẴNG 2
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-da-nang-2-hd-177.html
+https://vtvgo-livedp.vtvdigital.vn/95e9d85474e8cf65998e6f99b4a8c7f6/1629276093267/danang2tv/danang2tv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-da-nang-2-hd-177.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944937642.png",ĐỒNG NAI 1
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-dong-nai-1-hd-113.html
+https://vtvgo-livedp.vtvdigital.vn/aba65cd135ac259157616c29995b051d/1629276106372/dongnai1tv/dongnai1tv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-dong-nai-1-hd-113.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944948488.png",ĐỒNG NAI 2
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-dong-nai-2-hd-115.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944927118.png",ĐỒNG THÁP
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-dong-thap-1-hd-133.html
+https://vtvgo-livedp.vtvdigital.vn/c0add4d366928aa955926a68331f56e1/1629276121759/dongthap1tv/dongthap1tv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-dong-thap-1-hd-133.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/HN1_M.png",HÀ NỘI 1
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-ha-noi-1-hd-91.html
+https://vtvgo-livedp.vtvdigital.vn/ec6597ec03640a70335d663b683082f5/1629276129346/hanoi1tv/hanoi1tv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-ha-noi-1-hd-91.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/HN2_M.png",HÀ NỘI 2
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-ha-noi-2-hd-93.html
+https://vtvgo-livedp.vtvdigital.vn/69c59f10cb9695c85830c4ce31131ec9/1629276135564/hanoi2tv/hanoi2tv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-ha-noi-2-hd-93.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944958841.png",HẢI DƯƠNG
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-hai-duong-hd-143.html
+https://vtvgo-livedp.vtvdigital.vn/0597b3643c65e764d006383bcdd856d3/1629276141771/haiduongtv/haiduongtv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-hai-duong-hd-143.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945199842.png",HẢI PHÒNG
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-hai-phong-hd-135.html
+https://vtvgo-livedp.vtvdigital.vn/0b88abd3e4c4f116125457f31307fb4d/1629276147502/haiphongtv/haiphongtv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-hai-phong-hd-135.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944966358.png",HẬU GIANG
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-hau-giang-hd-117.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245238522.png",HƯNG YÊN
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-hung-yen-185.html
+https://vtvgo-livedp.vtvdigital.vn/2a54f50d9d7775909e1c233eec0f6b90/1629276158967/hungyentv/hungyentv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-hung-yen-185.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944990283.png",KHÁNH HÒA
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-khanh-hoa-hd-125.html
+https://vtvgo-livedp.vtvdigital.vn/acfd99d48a0b108150e1541c00b87ce0/1629276165685/khanhhoatv/khanhhoatv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-khanh-hoa-hd-125.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245085074.png",LẠNG SƠN
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-lang-son-hd-137.html
+https://vtvgo-livedp.vtvdigital.vn/2b38f43f6c29a5b215daa5ba61d08de8/1629276170437/langsontv/langsontv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-lang-son-hd-137.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948242353.png",NGHỆ AN
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-nghe-an-hd-121.html
+https://vtvgo-livedp.vtvdigital.vn/697a112977d6ef62c8e22c4ef0fae149/1629276193200/ngheantv/ngheantv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-nghe-an-hd-121.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948249966.png",NINH BÌNH
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-ninh-binh-hd-183.html
+https://vtvgo-livedp.vtvdigital.vn/6608ff780f9e1a742a69c406df954926/1629276207014/ninhbinhtv/ninhbinhtv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-ninh-binh-hd-183.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945039445.png",QUANG NINH
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-quang-ninh-1-hd-119.html
+https://vtvgo-livedp.vtvdigital.vn/5de574806c784f0ceac3367086d656fe/1629276214889/quangninhtv/quangninhtv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-quang-ninh-1-hd-119.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/757/1567569912696.png",THANH HÓA
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-thanh-hoa-hd-181.html
+https://vtvgo-livedp.vtvdigital.vn/61474044fe8ba0e591f9a8321b294cb9/1629276221182/thanhhoatv/thanhhoatv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-thanh-hoa-hd-181.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948372886.png",THÁI BÌNH
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-thai-binh-hd-129.html
+https://vtvgo-livedp.vtvdigital.vn/6b3405a64b3dde104cf0fc53e1f9c87b/1629276226885/thaibinhtv/thaibinhtv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-thai-binh-hd-129.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944976400.png",THỪA THIÊN HUẾ
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-thua-thien-hue-hd-127.html
+https://vtvgo-livedp.vtvdigital.vn/bcabaf7555c36f3d8c60382df13c93c5/1629276233164/huetv/huetv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-thua-thien-hue-hd-127.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948364415.png",TIỀN GIANG
-https://vtvgo.vn/xem-truc-tuyen-kenh-tien-giang-hd-121.html
+https://vtvgo-livedp.vtvdigital.vn/c4973148cc3984b74a090984024b7278/1629276239032/ngheantv/ngheantv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-tien-giang-hd-121.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/VINHLONG1_HD_M.png",VĨNH LONG
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-vinh-long-hd-131.html
+https://vtvgo-livedp.vtvdigital.vn/f859b8b041401f2aaa3173737f6fb623/1629276245506/vinhlong1tv/vinhlong1tv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-vinh-long-hd-131.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945347544.png",VĨNH PHÚC
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-vinh-phuc-hd-147.html
+https://vtvgo-livedp.vtvdigital.vn/7b3faf3f4c6058cafba67de825301be5/1629276252439/vinhphuctv/vinhphuctv@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-th-vinh-phuc-hd-147.html
 
 #EXTINF:-1 tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/05/182139-VTV1.png" group-title="TH Dành cho người Việt Nam ở nước ngoài",VTV1
 http://vn.tvnet.gov.vn/kenh-truyen-hinh/1011/vtv1
