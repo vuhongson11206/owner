@@ -76,27 +76,27 @@ http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV1_HD_M.png",VTV1 HD
-https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html
+https://vtvgo-livewebs.vtvdigital.vn/2ddb86fd04eb29c594d3567e07283d57/1629274272958/vtv1/vtv1@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV2_HD_M.png",VTV2 HD
-https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html
+https://vtvgo-livewebs.vtvdigital.vn/728f2b075e4d864f57c8b548c8f66cac/1629274286059/vtv2/vtv2@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV3_HD_M.png",VTV3 HD
-https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
+https://vtvgo-livewebs.vtvdigital.vn/d7791f968b13dc811575093c3b916f9e/1629274294493/vtv3/vtv3@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV4_HD_M.png",VTV4 HD
-https://vtvgo.vn/xem-truc-tuyen-kenh-vtv4-4.html
+https://vtvgo-livewebs.vtvdigital.vn/e3c083f658b53aaf865bb3fa9f9fc2dd/1629274301324/vtv4/vtv4@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-vtv4-4.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV5_HD_M.png",VTV5 HD
-https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-5.html
+https://vtvgo-livewebs.vtvdigital.vn/07a62e748157ba4a7cd4a39aabb86a3e/1629274308333/vtv5/vtv5@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-5.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/163__.png",VTV5 TÂY NGUYÊN HD
 https://vtvgo.vn/xem-truc-tuyen-kenh-kênh-vtv5-tây-nguyên-163.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/7__.png",VTV5 TÂY NAM BỘ HD
-https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-tây-nam-bộ-7.html
+https://vtvgo-livewebs.vtvdigital.vn/960e8e2e5a49890610fb65e4d3711985/1629274343365/vtv5tnb/vtv5tnb@high.m3u8|Referer=https://vtvgo.vn/
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV6_HD_M.png",VTV6 HD
-https://vtvgo.vn/xem-truc-tuyen-kenh-vtv6-6.html
+https://vtvgo-livewebs.vtvdigital.vn/9172181a96e0107dc0ba8e03ff9657ea/1629274316498/vtv6/vtv6@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-vtv6-6.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV7_HD_M.png",VTV7 HD
-https://vtvgo.vn/xem-truc-tuyen-kenh-vtv7-27.html
+https://vtvgo-livewebs.vtvdigital.vn/a03543d502d55eb1d7a69126a33056d6/1629274325886/vtv7/vtv7@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-vtv7-27.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV8_HD_M.png",VTV8 HD
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-vtv8-36.html
+https://vtvgo-livewebs.vtvdigital.vn/bc433c6307906aa4ffa3abf96b4a27b1/1629274332632/vtv8/vtv8@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-vtv8-36.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV9_HD_M.png",VTV9 HD
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-vtv9-39.html
+https://vtvgo-livewebs.vtvdigital.vn/2bd2c70d9358ccc3d89ac65ad66364e1/1629274337713/vtv9/vtv9@high.m3u8|Referer=https://vtvgo.vn/xem-truc-tuyen-kenh-vtv9-39.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/ANTV_M.png",ANTV HD
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-antv-hd-89.html
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://imgstatic.vtvcab.vn/logos/NHAN_DAN_HD_M.png",NHÂN DÂN HD
@@ -238,89 +238,112 @@ http://s4live.tv1asia.com:21585/kpc2/index.m3u8
 http://s4live.tv1asia.com:21585/kns2/index.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV.1.HD.-.Hài.vn" tvg-logo="https://static-stage.tv24.vn/channel/85/logo26072108_sctv1-hd.png" type="stream" channelId="-1", SCTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv1/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv1-hd-7f2aafec
+#http://112.197.12.54/hls/sctv1/sd1/index.m3u8
 #https://vtsstr1.tv24.vn/live/SCTV_HD_Hai_new.smil/chunklist.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="sctv2hd" tvg-logo="https://static-stage.tv24.vn/channel/2/logo26072108_sctv2-hd.png" type="stream" channelId="-1", SCTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv2/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv2-57c3884d
+#http://112.197.12.54/hls/sctv2/sd1/index.m3u8
 #http://vtsstr6.tv24.vn:1935/live/sctv2_HD_4/chunklist_w901294600.m3u8
 #https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/sda/sctv2_2000.stream/chunklist.m3u8?token=eyJjaGFubmVsX2lkIjogInNjdHYtMiIsICJybWlwIjogIjQyLjExOS4yMzMuNjUiLCAidXNlcl9pZCI6IDU2NDA1NTYsICJ0aW1lc3RhbXAiOiAxNjI3OTIxNDkzfQ
 #https://livecdn.fptplay.net/sda/sctv2_2000.stream/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInNjdHYtMiIsICJybWlwIjogIjQyLjExOS4yMzMuNjUiLCAidXNlcl9pZCI6IDU2NDA1NTYsICJ0aW1lc3RhbXAiOiAxNjI3OTIxNDkzfQ&user_id=8179289
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV.3.HD.-.SEE.TV.vn" tvg-logo="https://static-stage.tv24.vn/channel/112/logo26072108_sctv3-hd.png" type="stream" channelId="-1", SCTV3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv3/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv3-hd-cf3adaca
+#http://112.197.12.54/hls/sctv3/sd1/index.m3u8
 #http://vtsstr6.tv24.vn:1935/live/SCTVHDThieunhi_4/playlist.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV.4.HD.-.Giải.trí.tổng.hợp.vn" tvg-logo="https://static-stage.tv24.vn/channel/109/logo26072108_sctv4-hd.png" type="stream" channelId="-1", SCTV4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv4/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv4/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv4-ae779f7e
+#http://112.197.12.54/hls/sctv4/sd1/index.m3u8
 #https://vtsstr6.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="0" tvg-logo="https://static-stage.tv24.vn/channel/11/logo26072108_sctv5.png" type="stream" channelId="-1", SCTV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv5/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv5/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv5-a3cdb592
+#http://112.197.12.54/hls/sctv5/sd1/index.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV.6.HD.vn" tvg-logo="https://i.postimg.cc/W1MPcCY5/sctv6hd.png" type="stream" channelId="-1", SCTV6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv6/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv6-202e4566
+#http://112.197.12.54/hls/sctv6/sd1/index.m3u8
 #https://vtsstr6.tv24.vn/live/SCTV6HD_new.smil/playlist.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV.7.HD.-.Sân.Khấu.vn" tvg-logo="https://i.postimg.cc/3w15dpTp/sctv7hd.png" type="stream" channelId="-1", SCTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv7/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv7-ef7e259a
+#http://112.197.12.54/hls/sctv7/sd1/index.m3u8
 #https://vtsstr6.tv24.vn/live/SCTV_HD_SanKhau_new.smil/chunklist.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="sctv8hd" tvg-logo="https://i.postimg.cc/5yZDZSBc/sctv8hd.png" type="stream" channelId="-1", SCTV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv8/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv8-c12d138b
+#http://112.197.12.54/hls/sctv8/sd1/index.m3u8
 #http://vtsstr6.tv24.vn:1935/live/SCTV8_SD_4/chunklist_w986885603.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV.9.HD.-.Phim.Châu.Á.vn" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" type="stream" channelId="-1", SCTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv9/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv9-cdd19ab2
+#http://112.197.12.54/hls/sctv9/sd1/index.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="0" tvg-logo="https://static-stage.tv24.vn/channel/115/logo26072108_sctv10.png" type="stream" channelId="-1", SCTV10 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv10/sd1/index.m3u8
-http://vtsstr6.tv24.vn:1935/live/sctv10_SD_4/playlist.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv10-0faf313b
+#http://112.197.12.54/hls/sctv10/sd1/index.m3u8
+#http://vtsstr6.tv24.vn:1935/live/sctv10_SD_4/playlist.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="sctv11hd" tvg-logo="https://i.postimg.cc/SKyHFsMK/sctv11hd.png" type="stream" channelId="-1", SCTV11 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv11/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv11-1d565c47
+#http://112.197.12.54/hls/sctv11/sd1/index.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV.12.HD.-.Du.Lịch.vn" tvg-logo="https://static-stage.tv24.vn/channel/17/logo26072108_sctv12-hd.png" type="stream" channelId="-1", SCTV12 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv12/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv12/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv12-b0d6c023
+#http://112.197.12.54/hls/sctv12/sd1/index.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV13.HD.-.Phụ.nữ.And.Gia.đình.vn" tvg-logo="https://i.postimg.cc/sfQj06zN/sctv13hd.png" type="stream" channelId="-1", SCTV13 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv13/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv13-67f88fcb
+#http://112.197.12.54/hls/sctv13/sd1/index.m3u8
 #http://vtsstr1.tv24.vn:1935/live/SCTVHDPhunuGiadinh_4/playlist.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV.14.HD.-.Phim.Việt.vn" tvg-logo="https://i.postimg.cc/zG5qvqgs/sctv14hd.png" type="stream" channelId="-1", SCTV14 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv14/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv14/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv14-789c9f45
+#http://112.197.12.54/hls/sctv14/sd1/index.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="sctv15hd" tvg-logo="https://static-stage.tv24.vn/channel/22/logo26072108_sctv15-hd.png" type="stream" channelId="-1", SCTV15 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv15/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv15-4aec9a9f
+#http://112.197.12.54/hls/sctv15/sd1/index.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="sctv16hd" tvg-logo="https://i.postimg.cc/yN8Bhnnn/sctv16hd.png" type="stream" channelId="-1", SCTV16 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv16/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv16-dd1535e8
+#http://112.197.12.54/hls/sctv16/sd1/index.m3u8
 #http://vtsstr6.tv24.vn:1935/live/SCTV_HD_phimnuocngoaidacsac_4/playlist.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="sctv17hd" tvg-logo="https://static-stage.tv24.vn/channel/14/logo26072108_sctv17-hd.png" type="stream" channelId="-1", SCTV17 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv17/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv17-hd-87f0ff9d
+#http://112.197.12.54/hls/sctv17/sd1/index.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV.18.vn" tvg-logo="https://static-stage.tv24.vn/channel/164/logo26072108_sctv18-hd.png" type="stream" channelId="-1", SCTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv18/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv18-398b0b4e
+#http://112.197.12.54/hls/sctv18/sd1/index.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV19.HD.vn" tvg-logo="https://static-stage.tv24.vn/channel/222/logo26072108_sctv19-hd.png" type="stream" channelId="-1", SCTV19 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv19/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv19/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv19-bf00bd02
+#http://112.197.12.54/hls/sctv19/sd1/index.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV20.vn" tvg-logo="https://i.postimg.cc/cHTxy2Hp/sctv20hd.png" type="stream" channelId="-1", SCTV20 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv20/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv20/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv19-cb98949a
+#http://112.197.12.54/hls/sctv20/sd1/index.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="sctv21hd" tvg-logo="https://static-stage.tv24.vn/channel/242/s21-hd.jpg" type="stream" channelId="-1", SCTV21 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv21/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv21/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv-21-57de221a
+#http://112.197.12.54/hls/sctv21/sd1/index.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="sctv22hd" tvg-logo="https://static-stage.tv24.vn/channel/241/sctv22-hd.png" type="stream" channelId="-1", SCTV22 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctv22/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv22-d388dc25
+#http://112.197.12.54/hls/sctv22/sd1/index.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="btv5hd" tvg-logo="https://i.postimg.cc/mZXLmvKM/sctv-btv5-ssport3.png" type="stream" channelId="-1", BTV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://112.197.12.58/hls/btv5/sd1/index.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="SCTV.HD.Phim.Tổng.Hợp.vn" tvg-logo="https://i.postimg.cc/8CmDM9h7/sctv-phimtonghop.png" type="stream" channelId="-1", SCTV HD Phim TH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.54/hls/sctvphimtonghop/sd4/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv-phim-tong-hop-e6d2df88
+#http://112.197.12.54/hls/sctvphimtonghop/sd4/index.m3u8
 #http://vtsstr1.tv24.vn:1935/live/SCTVHDPhimTH_4/playlist.m3u8
 #EXTINF:0 group-title="HTV" tvg-id="htv1" tvg-logo="http://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_HTV1_422x278.png" type="stream" channelId="-1", HTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -401,84 +424,108 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_22/1600760787759/55ff2c9812b2_640_360.png" type="stream" channelId="-1", VTVcab 1 - Vie Giải Trí SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://www.vthanh.wtf/vieon.m3u8?kenh=vie-giai-tri-hd
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab1-6faca302
+#http://www.vthanh.wtf/vieon.m3u8?kenh=vie-giai-tri-hd
 #https://vtsstr1.tv24.vn/live/_definst_/VTVcab1_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_22/1600760787759/55ff2c9812b2_640_360.png" type="stream" channelId="-1", VTVcab 1 - Vie Giải Trí HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://www.vthanh.wtf/vieon.m3u8?kenh=vie-giai-tri-hd
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab1-6faca302
+#http://www.vthanh.wtf/vieon.m3u8?kenh=vie-giai-tri-hd
 #https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/246e7d242130386830bf2a5200f59ed7/1626098970105/vtvcab/live/hd_vtvcab_1_test/playlist.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822608934/be4789814d8d_640_360.png" type="stream" channelId="-1", VTVcab 2 - Phim Việt SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.59/hls/vtvcab2/index.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab2-f8476be0
+#http://112.197.12.59/hls/vtvcab2/index.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600823075446/b24a99cf9ea4_640_360.png" type="stream" channelId="-1", VTVcab 3 - Thể thao TV SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.59/hls/vtvcab3/index.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab3-8dbaf8a2
+#http://112.197.12.59/hls/vtvcab3/index.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_22/1600760753627/c997eb4906b8_640_360.png" type="stream" channelId="-1", VTVcab 3 - Thể thao TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.59/hls/vtvcab3/index.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab3-8dbaf8a2
+#http://112.197.12.59/hls/vtvcab3/index.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822659958/defea9df0008_640_360.png" type="stream" channelId="-1", VTVcab 4 - Văn hóa SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+0
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab4_HD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_22/1600760805353/154833a18f93_640_360.png" type="stream" channelId="-1", VTVcab 5 - E Channel SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab5_SD_4/chunklist_b2692000.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab5-aef122e7
+#https://vtsstr1.tv24.vn/live/_definst_/VTVcab5_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2021/06/03/15/1622708461994/84916dcad6cc_640_360.png" type="stream" channelId="-1", VTVcab 6 - On Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab6_SD_4/chunklist_b2692000.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab6-c29bb965
+#https://vtsstr1.tv24.vn/live/_definst_/VTVcab6_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2021/06/03/15/1622708461994/84916dcad6cc_640_360.png" type="stream" channelId="-1", VTVcab 6 - On Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab6-c29bb965
 https://vtvgo-livedp.vtvdigital.vn/c74ca980b568ad0f4c79aeb72d4d0b01/1626027243315/vtvcab6/index.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="https://static-stage.tv24.vn/channel/238/VTVcab7.jpg" type="stream" channelId="-1", VTVcab 7 - Sức khỏe và Cuộc sống
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab7_SD_4/chunklist_b2692000.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab7-a4f4497a
+#https://vtsstr1.tv24.vn/live/_definst_/VTVcab7_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822684433/3c9c6c9818ed_640_360.png" type="stream" channelId="-1", VTVcab 8 - BiBi SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab8_SD_4/chunklist_b2692000.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab8-a3ddf386
+#https://vtsstr1.tv24.vn/live/_definst_/VTVcab8_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822740722/d04a3d7ee27b_640_360.png" type="stream" channelId="-1", VTVcab 9 - InfoTV SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab9_SD_4/chunklist_b2692000.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab9-18f41040
+#https://vtsstr1.tv24.vn/live/_definst_/VTVcab9_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_22/1600760829207/af91198b3267_640_360.png" type="stream" channelId="-1", VTVcab10 - Vie Dramas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab10_SD_4/chunklist_b2692000.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab10-31e7edd3
+#https://vtsstr1.tv24.vn/live/_definst_/VTVcab10_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_22/1600760854706/0f24af7dd93d_640_360.png" type="stream" channelId="-1", VTVcab 12 - StyleTV SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab12_SD_4/chunklist_b2692000.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab12/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab12-455a5b1f
+#https://vtsstr1.tv24.vn/live/_definst_/VTVcab12_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_22/1600760865407/a5738b67c856_640_360.png" type="stream" channelId="-1", VTVcab 15 - M Channel SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab15_SD_4/chunklist_b2692000.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab15-ae9c052c
+#https://vtsstr1.tv24.vn/live/_definst_/VTVcab15_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_22/1600760762946/96689e3e5620_640_360.png" type="stream" channelId="-1", VTVcab 16 - Bóng đá TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.59/hls/vtvcab16/index.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab16-8865162b
+#http://112.197.12.59/hls/vtvcab16/index.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_22/1600760735851/cfcb46075cac_640_360.png" type="stream" channelId="-1", VTVcab 16 - Bóng đá TV SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://112.197.12.59/hls/vtvcab16/index.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab16-8865162b
+#http://112.197.12.59/hls/vtvcab16/index.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822797320/3ff5eab7c4f1_640_360.png" type="stream" channelId="-1", VTVcab 17 - Yeah1 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab17_SD_4/chunklist_b2692000.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab17-8155c5b0
+#https://vtsstr1.tv24.vn/live/_definst_/VTVcab17_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822797320/3ff5eab7c4f1_640_360.png" type="stream" channelId="-1", VTVcab 17 - Yeah1 TV || VTVGo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vtvgo-livedp.vtvdigital.vn/199c256d0a7d0cbf695acbca235c0940/1626027638636/vtvcab17/index.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab17-8155c5b0
+#https://vtvgo-livedp.vtvdigital.vn/199c256d0a7d0cbf695acbca235c0940/1626027638636/vtvcab17/index.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_22/1600760771388/26fa6e333b83_640_360.png" type="stream" channelId="-1", VTVcab 18 - Tin tức thể thao HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab19_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822887629/f31e64aeb073_640_360.png" type="stream" channelId="-1", VTVcab 19 - Kênh Film TV SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab19_SD_4/chunklist_b2692000.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab19-a7618de8
+#https://vtsstr1.tv24.vn/live/_definst_/VTVcab19_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822887629/f31e64aeb073_640_360.png" type="stream" channelId="-1", VTVcab 19 - Kênh Film TV || VieOn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/72a8d483df1dfb71147b8c003e373a8d/1626099910658/vtvcab/live/sd_vtvcab_19/playlist.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab19-a7618de8
+#https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/72a8d483df1dfb71147b8c003e373a8d/1626099910658/vtvcab/live/sd_vtvcab_19/playlist.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822997178/f0ea2033560d_640_360.png" type="stream" channelId="-1", VTVcab 20 - V Family SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab20_SD_4/chunklist_b2692000.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab20-01ae8160
+#https://vtsstr1.tv24.vn/live/_definst_/VTVcab20_SD_4/chunklist_b2692000.m3u8
+#EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_22/1600760880835/9ba1d38679e0_640_360.png" type="stream" channelId="-1", VTVcab 21- Cartoon Kids HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+0
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_22/1600760896952/2beb8fa9d6cc_640_360.png" type="stream" channelId="-1", VTVcab 22 - Life TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 0
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_22/1600760912700/b432429d86db_640_360.png" type="stream" channelId="-1", VTVcab 23 - Golf Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 0
-#EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_22/1600760880835/9ba1d38679e0_640_360.png" type="stream" channelId="-1", VTVcab 21- Cartoon Kids HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-0
+
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/182139-VTV1.png" group-title="HPlus",VTV1 FHD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2019/08/15/940603-vtv3_new.png" group-title="HPlus",VTV3 FHD
@@ -760,6 +807,7 @@ https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogImticy13b3JsZCIsICJybWlwIjogIjExMy4yMi4xODAuMzkiLCAidXNlcl9pZCI6IDU2NDA1NTYsICJ0aW1lc3RhbXAiOiAxNjI3MzY5NDk2fQ&user_id=8179289
+#https://e3.endpoint.cdn.sctvonline.vn/hls/kbsworld/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/kbsworld-734f83fe
 #EXTINF:0 group-title="Quốc Tế" tvg-id="0" tvg-logo="https://i.imgur.com/OV5nhkM.png" type="stream" channelId="-1", NHK World HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
@@ -825,6 +873,7 @@ https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3
 #https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 #https://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+#https://e3.endpoint.cdn.sctvonline.vn/hls/axn/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/axn-47564a84
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 group-title="Quốc Tế" tvg-id="AXN.vn" tvg-logo="https://i.imgur.com/5Gtp7WP.png" type="stream" channelId="-1", AXN HD
@@ -851,6 +900,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #EXTINF:0 group-title="Quốc Tế" tvg-id="fashionhd" tvg-logo="https://i.imgur.com/Zyy11Cs.png" type="stream" channelId="-1", Fashion TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
+#https://e4.endpoint.cdn.sctvonline.vn/hls/fashiontv/index.m3u8|Referer=https://sctvonline.vn/detail/fashion-tv-d617d92c
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://i.imgur.com/Zyy11Cs.png" type="stream" channelId="-1", Fashion TV Paris L'Original
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_1080p_chunklist.m3u8?
@@ -955,6 +1005,7 @@ https://connection3-ent.sinclair.wurl.com/manifest/3000.m3u8
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/qnetlive/discovery_2000.stream/chunklist.m3u8
+#https://e3.endpoint.cdn.sctvonline.vn/hls/discovery/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/discovery-095e6050
 #EXTINF:0 group-title="Quốc Tế" tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/fXuxFbz.png" type="stream" channelId="-1", Discovery HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
@@ -968,6 +1019,7 @@ https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
+#https://e3.endpoint.cdn.sctvonline.vn/hls/animalplanet/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/animal-planet-7d1e625c
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://img.hplus.com.vn/355x200/poster/2019/07/16/198549-nat_geo_wild.png" type="stream" channelId="-1", NatGeo Wild HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
@@ -1044,7 +1096,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://kickmedia.tv/PE/PlanetEarth_logo_last.png" type="stream" channelId="-1", Planet Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://vtsstr1.tv24.vn:1935/live/Planet_Earth.smil/chunklist_b4692000.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=https://sctvonline.vn/detail/planet-earth-4a1e80d3
+#http://vtsstr1.tv24.vn:1935/live/Planet_Earth.smil/chunklist_b4692000.m3u8
 #http://27.67.50.135:18080//176_1.m3u8?AdaptiveType=HLS&SessionID=39bcce53-84af-4ba5-8a55-b58a29f3bb10&MinBw=0&MaxBw=20000000
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020/12/25/08/1608861195134/900d0552c042_640_360.png" type="stream" channelId="-1", Paramount Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1053,21 +1106,28 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #http://27.67.80.69:18080//245_1.m3u8?AdaptiveType=HLS&SessionID=f266e1b4-3e81-4502-8f2a-4b3ca0266c9a&MinBw=0&MaxBw=20000000
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://i.ibb.co/8sC22k4/BoxMovie.jpg" type="stream" channelId="-1", Box Movie 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/chunklist_b4692000.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/box-movie-1-8f2e2a0b
+#http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/chunklist_b4692000.m3u8
+#EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/7_e79f9654.jpg?width=426" type="stream" channelId="-1", Box Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=https://sctvonline.vn/detail/box-music-30b45e64
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822419264/1ce59b8c00e8_640_360.png" type="stream" channelId="-1", Hollywood Classic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/chunklist_b4692000.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=https://sctvonline.vn/detail/hollywood-classic-9fd857d9
+#http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/chunklist_b4692000.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png" type="stream" channelId="-1", Happy Kids HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://user:11223344@hoaudp.vinaddns.com:9981/stream/channelid/1896937387?ticket=AB57C40C931D873993C0BC203DBA803D46EE4326&profile=pass
 #http://vtsstr1.tv24.vn:1935/live/Happy_Kids.smil/chunklist_b4692000.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822429190/7b74ab00eb3e_640_360.png" type="stream" channelId="-1", Dr. Fit HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://user:11223344@hoaudp.vinaddns.com:9981/stream/channelid/80755753?ticket=1A1E66F506EA9C3FD4239ABA0F712E7E055C6B59&profile=pass
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8|Referer=https://sctvonline.vn/detail/dr-fit-3ebb453f
+#http://user:11223344@hoaudp.vinaddns.com:9981/stream/channelid/80755753?ticket=1A1E66F506EA9C3FD4239ABA0F712E7E055C6B59&profile=pass
 #http://112.197.12.62/hls/drfit/index.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png" type="stream" channelId="-1", Woman HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://vtsstr1.tv24.vn:1935/live/Woman.smil/chunklist_b4692000.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=https://sctvonline.vn/detail/woman-6c5e3238
+#http://vtsstr1.tv24.vn:1935/live/Woman.smil/chunklist_b4692000.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-id="" tvg-logo="https://i.ibb.co/bvTmmhm/Viva-TV-BEARTV.png" type="stream" channelId="-1", ViVa TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
@@ -1804,6 +1864,7 @@ https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000
 #http://user:11223344@hoaudp.vinaddns.com:9981/stream/channelid/2018080076?ticket=63D98C5C0F9E9DF8AF38881AECBABB0DF3BF3E3B&profile=pass
 #https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 #https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
+#https://e4.endpoint.cdn.sctvonline.vn/hls/cartoonnetwork/index.m3u8|Referer=https://sctvonline.vn/detail/carttoon-network-bc24942a
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 group-title="Kid" tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/nzvNMfP.png" type="stream" channelId="-1", Cartoon Network HD
@@ -1843,7 +1904,8 @@ https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:0 group-title="Kid" tvg-id="" tvg-logo="https://i.ibb.co/Bj5MbS8/Happy-Kids.png" type="stream" channelId="-1", Happy Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://user:11223344@hoaudp.vinaddns.com:9981/stream/channelid/1896937387?ticket=AB57C40C931D873993C0BC203DBA803D46EE4326&profile=pass
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=https://sctvonline.vn/detail/happy-kids-706f18e2
+#http://user:11223344@hoaudp.vinaddns.com:9981/stream/channelid/1896937387?ticket=AB57C40C931D873993C0BC203DBA803D46EE4326&profile=pass
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 group-title="Kid" tvg-id="" tvg-logo="https://i.ibb.co/yPc2ry9/Disney-Channel.png" type="stream" channelId="-1", Disney Channel
