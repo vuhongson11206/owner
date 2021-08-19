@@ -438,7 +438,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=https://sct
 #https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/246e7d242130386830bf2a5200f59ed7/1626098970105/vtvcab/live/hd_vtvcab_1_test/playlist.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822608934/be4789814d8d_640_360.png" type="stream" channelId="-1", VTVcab 2 - Phim Việt SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=https://sctvonline.vn/detail/vtvcab2-f8476be0
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8?md5=QGYdEQjOO4Qj5YcwRFeV1w&expires=|Referer=https://sctvonline.vn/detail/vtvcab2-f8476be0
 #http://112.197.12.59/hls/vtvcab2/index.m3u8
 #EXTINF:0 group-title="VTV Cab" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600823075446/b24a99cf9ea4_640_360.png" type="stream" channelId="-1", VTVcab 3 - Thể thao TV SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
