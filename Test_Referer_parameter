@@ -44,7 +44,6 @@ https://uk.easyview.eu/hls/cbeebies.m3u8
 
 #EXTINF:0 group-title="VTVCAD" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_22/1600760787759/55ff2c9812b2_640_360.png" type="stream" channelId="-1", SCTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://07hsbjok74k1lipus5gc0su9h.litix.io|Referer=https://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740|Referer=https://sctvonline.vn/
 
 
