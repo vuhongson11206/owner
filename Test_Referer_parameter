@@ -42,12 +42,12 @@ https://isptqrteg4liv.vcdn.cloud/VTV1-TEST/master_720p.m3u8?access-token=eyJhbGc
 #EXTINF:-1 tvg-id="VTV CAD 41" group-title="VTVCAD" tvg-logo="https://i.ibb.co/B6MrnPS/VTVcab4-Van-Hoa.jpg",VTV1d
 https://uk.easyview.eu/hls/cbeebies.m3u8
 
-#EXTINF:0 group-title="VTVCAD" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_22/1600760787759/55ff2c9812b2_640_360.png" type="stream" channelId="-1", SCTV16c
+#EXTINF:0 group-title="VTVCAD" tvg-id="" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_22/1600760787759/55ff2c9812b2_640_360.png" type="stream" channelId="-1", SCTV16d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #http://27.67.80.196:18080/297_1.m3u8?Range=814738098-814738099&SessionID=0793483a-a9de-4f32-99aa-86c30e7e1669|Referer=http://tv360.vn/
 #http://27.67.80.196:18080//297_1.m3u8?AdaptiveType=HLS&SessionID=0793483a-a9de-4f32-99aa-86c30e7e1669&MinBw=0&MaxBw=20000000|Referer=http://tv360.vn/tv/
-http://27.67.80.196:18080/297.m3u8?AdaptiveType=HLS&VOD_RequestID=4Ta14gtwQkh8csTdxMSl8/ZclgotkpGC5MYEfkwe/PMVjTR392SmBh9VL+ARaFKHrZY+apMb++70YVB7EsP12240zpWJ6uVC63MmLZVzbxeLysf8DKY2KF+y4OQuSIhjYOV5hJloIpsvjwGxtt2lUuM9sqPAJOmzcD/eahcY657kV+zLWFOKCUWRo2RevuLX&SessionID=0793483a-a9de-4f32-99aa-86c30e7e1669&StreamID=a425f066-9d70-44e0-aa72-f40772f39521&MinBw=0&MaxBw=20000000|Referer=http://tv360.vn/tv/
-#http://27.67.80.6:18080/297.m3u8?AdaptiveType=HLS&VOD_RequestID=4Ta14gtwQkh8csTdxMSl8/ZclgotkpGC5MYEfkwe/PMVjTR392SmBh9VL+ARaFKHrZY+apMb++70YVB7EsP12240zpWJ6uVC63MmLZVzbxeLysf8DKY2KF+y4OQuSIhjYOV5hJloIpsvjwGxtt2lUuM9sqPAJOmzcD/eahcY657kV+zLWFOKCUWRo2RevuLX|Referer=http://tv360.vn/
+#http://27.67.80.196:18080/297.m3u8?AdaptiveType=HLS&VOD_RequestID=4Ta14gtwQkh8csTdxMSl8/ZclgotkpGC5MYEfkwe/PMVjTR392SmBh9VL+ARaFKHrZY+apMb++70YVB7EsP12240zpWJ6uVC63MmLZVzbxeLysf8DKY2KF+y4OQuSIhjYOV5hJloIpsvjwGxtt2lUuM9sqPAJOmzcD/eahcY657kV+zLWFOKCUWRo2RevuLX&SessionID=0793483a-a9de-4f32-99aa-86c30e7e1669&StreamID=a425f066-9d70-44e0-aa72-f40772f39521&MinBw=0&MaxBw=20000000|Referer=http://tv360.vn/tv/
+http://27.67.80.6:18080/297.m3u8?AdaptiveType=HLS&VOD_RequestID=4Ta14gtwQkh8csTdxMSl8/ZclgotkpGC5MYEfkwe/PMVjTR392SmBh9VL+ARaFKHrZY+apMb++70YVB7EsP12240zpWJ6uVC63MmLZVzbxeLysf8DKY2KF+y4OQuSIhjYOV5hJloIpsvjwGxtt2lUuM9sqPAJOmzcD/eahcY657kV+zLWFOKCUWRo2RevuLX|Referer=http://tv360.vn/
 
 
 
