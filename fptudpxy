@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/te4Rb7f.png",VTV1 HD
-http://vhson.ddns.net:5354/udp/225.1.2.249:30120
+http://192.168.0.1:8889/udp/225.1.2.249:30120
 #EXTINF:-1 group-title="VTV" tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/KmngEnt.png",VTV2 HD
 http://192.168.0.1:8889/udp/225.1.2.13:30120
 #EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/yNiXZri.png",VTV3 HD
